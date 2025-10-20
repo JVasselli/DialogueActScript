@@ -1,0 +1,22 @@
+# user
+    You will be provided with a scenario in which a dialogue is taking place.  Please localize the dialogue context for [language] speakers. This should include any necessary changes to names, locations, social dynamics, common objects (replace any brands or items with more commonly used ones), and general cultural appropriateness to make the context feel natural for [language] speakers. Assign culturally appropriate names based on gender, age, and relationship dynamics in the target culture. Be mindful of specifying politeness levels, family dynamics, and relevant cultural norms.
+    Do NOT write a sample conversation.  Only provide the localized scenario.
+
+    Scenario:
+    [context]
+
+    Target language/culture: [language]
+
+# JSON schema
+{
+    "name": "local_bios",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "localized_context": {"type": "string"}
+        },
+        "required": ["localized_context"],
+        "additionalProperties": false
+    },
+    "strict": true
+}

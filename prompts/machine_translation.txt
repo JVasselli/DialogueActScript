@@ -1,0 +1,31 @@
+# user
+    Translate the following conversation into [language]. Ensure the conversation reflects natural [language] language and cultural nuances appropriate for the situation. Keep the utterances short and avoid embellishing.
+
+    Conversation:
+    [conversation]
+
+# JSON schema
+{
+    "name": "translation",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "translations": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "speaker_id": {"type": "string"},
+                        "original_text": {"type": "string"},
+                        "translated_text": {"type": "string"}
+                    },
+                    "required": ["speaker_id", "original_text", "translated_text"],
+                    "additionalProperties": false
+                }
+            }
+        },
+        "required": ["translations"],
+        "additionalProperties": false
+    },
+    "strict": true
+}

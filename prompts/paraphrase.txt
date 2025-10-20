@@ -1,0 +1,33 @@
+# system
+    You are a helpful assistant.
+# user
+    Produce a new conversation from the given dialogue by paraphrasing each utterance.
+
+    Conversation:
+    [conversation]
+
+# JSON schema
+{
+    "name": "paraphrase",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "paraphrased_conversation": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "speaker_id": {"type": "string"},
+                        "original_text": {"type": "string"},
+                        "paraphrased_text": {"type": "string"}
+                    },
+                    "required": ["speaker_id", "original_text", "paraphrased_text"],
+                    "additionalProperties": false
+                }
+            }
+        },
+        "required": ["paraphrased_conversation"],
+        "additionalProperties": false
+    },
+    "strict": true
+}

@@ -1,0 +1,37 @@
+# system
+    You are a helpful assistant that annotates conversations.
+# user
+    Summarize the scene by creating details about the characters to capture the context of the dialogue.  If a name is provided, use that, but if not, feel free to make up details.  Don't use the same names as the example.  Provide at minimum, each speaker's name, gender (M,F,X), age, and presumed relationship to the other speaker.  Try to capture the context of the scene.  Don't let every conversation be between a man and a woman.  Try to vary up the gender combinations.
+
+    Example:
+    1: Hi Jamie! Do you have a moment to talk about the project?
+    2: Sure! What’s up?
+    1: I wanted to remind you that the deadline is next Friday.
+    2: Oh, I forgot about that! Thanks for letting me know.
+    1: No problem. I was thinking we could split the tasks to finish on time. What do you think?
+    2: That sounds good. I can take care of the presentation slides if you handle the report.
+    1: Agreed. Let’s check in mid-week to see how we’re doing. Does that work for you?
+    2: Yeah, sounds good. Thanks!
+    1: You're welcome. See you later!
+
+    Example output:
+    Two coworkers, Alex (M, 35) and Jamie (X, 28), are discussing a project deadline and planning next steps. Alex is a project manager, Jamie is a software developer.  The conversation takes place in the office break room, where they often chat about after-work activities.
+    
+    Conversation:
+    # start das_encoding
+    [speaker_id]: [text]
+    # end das_encoding
+
+# JSON schema
+{
+    "name": "bios",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "context": {"type": "string"}
+        },
+        "required": ["context"],
+        "additionalProperties": false
+    },
+    "strict": true
+}

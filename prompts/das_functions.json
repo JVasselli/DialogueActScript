@@ -1,0 +1,452 @@
+[
+    {
+        "function_name": "Inquire",
+        "category": "General",
+        "description": "Seeks information or clarification. Includes direct questions or indirect inquiries.",
+        "function_examples": [
+            {
+                "example": "What time does the meeting start?",
+                "das": "inquire(topic=meeting_schedule, subject=meeting, timeframe=future, aspect=start_time)"
+            },
+            {
+                "example": "How is this relevant?",
+                "das": "inquire(topic=relevance, subject=topic, timeframe=current, aspect=reasoning)"
+            },
+            {
+                "example": "How did you solve the problem?",
+                "das": "inquire(topic=problem_solving, subject=solution, timeframe=past, aspect=method)"
+            },
+            {
+                "example": "How satisfied are you with the service?",
+                "das": "inquire(topic=satisfaction, subject=service, timeframe=current, aspect=degree)"
+            },
+            {
+                "example": "How's your dad feeling after the surgery?",
+                "das": "inquire(topic=health, subject=dad, context=post-surgery, timeframe=current, aspect=emotional_state)"
+            },
+            {
+                "context": "The results were inconclusive.",
+                "example": "What does that mean?",
+                "das": "inquire(topic=statement_clarification, subject=results_statement, context=previous_statement, timeframe=current, aspect=interpretation)"
+            },
+            {
+                "context": "The syntax was unclear.",
+                "example": "syntax?",
+                "das": "inquire(topic=word_definition, subject=syntax, aspect=meaning)"
+            }
+        ],
+        "parameters" : [
+            {
+                "name": "topic",
+                "description": "The main subject or focus of the question",
+                "function_examples": [
+                    "wellbeing",
+                    "progress",
+                    "adjustment",
+                    "performance",
+                    "location",
+                    "time"
+                ]
+            },
+            {
+                "name": "subject",
+                "description": "The entity being asked about (person, object, event, etc.).",
+                "function_examples": [
+                    "student",
+                    "child",
+                    "project",
+                    "the policy"
+                ]
+            },
+            {
+                "name": "context",
+                "description": "The specific situation or environment tied to the inquiry.",
+                "function_examples": [
+                    "nursery",
+                    "event",
+                    "meeting"
+                ]
+            },
+            {
+                "name": "timeframe",
+                "description": "When the inquiry applies (past, present, future, or specific period).",
+                "function_examples": [
+                    "this_week",
+                    "past_week",
+                    "today",
+                    "recently"
+                ]
+            },
+            {
+                "name": "aspect",
+                "description": "he dimension or quality being asked about, specific to the type of question.  Particularly useful for how questions",
+                "function_examples": [
+                    "effort",
+                    "emotional_state",
+                    "method",
+                    "means",
+                    "degree"
+                ]
+            }
+        ]
+    },
+    {
+        "function_name": "Inform",
+        "category": "General",
+        "description": "Provides factual information, details, or observations. The parameters should contain essential elements such as the subject, event, and relevant time or context.",
+        "function_examples": [
+            {
+                "example": "The meeting starts at 3 PM.",
+                "das": "inform(subject=meeting, event=start, timeframe=future, time=3pm)"
+            },
+            {
+                "example": "This policy was updated last week.",
+                "das": "inform(subject=policy, event=update, timeframe=past, time=last_week)"
+            },
+            {
+                "example": "I forgot to submit the report.",
+                "das": "inform(subject=self, event=forget, object=report_submission, timeframe=past)"
+            },
+            {
+                "example": "The software update is available now.",
+                "das": "inform(subject=software_update, event=availability, timeframe=current)"
+            },
+            {
+                "example": "There’s a traffic jam on Main Street.",
+                "das": "inform(subject=traffic_jam, location=Main_Street, timeframe=current)"
+            },
+            {
+                "example": "She moved to New York last year.",
+                "das": "inform(subject=she, event=relocation, location=New_York, timeframe=past, time=last_year)"
+            },
+            {
+                "example": "Water boils at 100 degrees Celsius.",
+                "das": "inform(subject=water, event=boiling_point, value=100C, timeframe=general_fact)"
+            },
+            {
+                "example": "The deadline for applications is next Friday.",
+                "das": "inform(subject=application_deadline, timeframe=future, time=next_Friday)"
+            },
+            {
+                "example": "This restaurant has a great view of the lake.",
+                "das": "inform(subject=restaurant, attribute=view, object=lake, timeframe=general_fact)"
+            },
+            {
+                "example": "The electricity went out during the storm.",
+                "das": "inform(subject=electricity, event=power_outage, timeframe=past, cause=storm)"
+            }            
+        ]
+    },
+    {
+        "function_name": "Express",
+        "category": "General",
+        "description": "Communicates emotions, attitudes, or subjective opinions.",
+        "function_examples": [
+            {
+                "example": "Thank you so much for your help.",
+                "das": "express(emotion=gratitude, subject=you, cause=help, intensity=high)"
+            },
+            {
+                "example": "I'm frustrated with the delay.",
+                "das": "express(emotion=frustration, subject=self, cause=delay, timeframe=current, intensity=moderate)"
+            },
+            {
+                "example": "That's an excellent idea!",
+                "das": "express(emotion=enthusiasm, subject=idea, cause=perceived_quality, intensity=high)"
+            },
+            {
+                "example": "I'm really excited about the trip next week!",
+                "das": "express(emotion=excitement, subject=self, cause=trip, timeframe=future, intensity=high)"
+            },
+            {
+                "example": "That makes me so angry!",
+                "das": "express(emotion=anger, subject=self, cause=unspecified, intensity=high)"
+            },
+            {
+                "example": "I'm relieved that she made it home safely.",
+                "das": "express(emotion=relief, subject=self, cause=safe_arrival, timeframe=past, intensity=moderate)"
+            },
+            {
+                "example": "I just love this song!",
+                "das": "express(emotion=affection, subject=song, cause=personal_preference, intensity=high)"
+            },
+            {
+                "example": "Ugh, I hate when that happens.",
+                "das": "express(emotion=dislike, subject=self, cause=repeated_annoyance, intensity=high)"
+            },
+            {
+                "example": "I'm feeling a little nervous about the interview tomorrow.",
+                "das": "express(emotion=nervousness, subject=self, cause=interview, timeframe=future, intensity=low)"
+            },
+            {
+                "example": "I was devastated when I heard the news.",
+                "das": "express(emotion=sadness, subject=self, cause=bad_news, timeframe=past, intensity=high)"
+            },
+            {
+                "example": "This makes me uncomfortable.",
+                "das": "express(emotion=discomfort, subject=self, cause=current_situation, intensity=moderate)"
+            },
+            {
+                "example": "That’s disappointing.",
+                "das": "express(emotion=disappointment, subject=self, cause=unspecified, intensity=moderate)"
+            }            
+        ],
+        "parameters" : [
+            {
+                "name": "cause",
+                "description": "The reason for an emotional expression"
+            },
+            {
+                "name": "subject",
+                "description": "The person or thing involved in causing the emotion"
+            },
+            {
+                "name": "certainty_level",
+                "description": "Helps distinguish strong vs. weak confidence."
+            }
+        ]
+    },
+    {
+        "function_name": "SeekAction",
+        "category": "General",
+        "description": "Represents any utterance where the speaker seeks to influence the listener's behavior, encompassing both polite requests and authoritative commands. The specific nature of the act is further clarified by tone markers and contextual metadata.",
+        "function_examples": [
+            {
+                "example": "Could you please send me the file?",
+                "das": "seek_action(subject=you, action=send, object=file, urgency=low, politeness=high)"
+            },
+            {
+                "example": "Can you explain that again?",
+                "das": "seek_action(action=explain, object=contextual, tone=neutral)"
+            },
+            {
+                "example": "You might want to check the report",
+                "das": "seek_action(action=check, object=report, tone=neutral, urgency=low)"
+            },
+            {
+                "example": "Turn off the light.",
+                "das": "seek_action(subject=you, action=turn_off, object=light, urgency=high, politeness=low)"
+            },
+            {
+                "example": "Quick, grab the rope!",
+                "das": "seek_action(action=grab, object=rope, tone=authoritative, urgency=high)"
+            }
+        ]
+    },
+    {
+        "function_name": "Offer",
+        "category": "General",
+        "description": "Voluntarily provides help, solutions, or resources.",
+        "function_examples": [
+            {
+                "example": "Would you like some water?",
+                "das": "offer(subject=you, object=water, intent=provide, confirmation_requested=yes)"
+            },
+            {
+                "example": "Here, take this pen.",
+                "das": "offer(subject=you, object=pen, intent=provide, confirmation_requested=no)"
+            }
+        ]
+    },
+    {
+        "function_name": "Suggest",
+        "category": "General",
+        "description": "Proposes an action, idea, or alternative. May include advice or recommendations.",
+        "function_examples": [
+            {
+                "example": "I suggest we meet at 2 PM instead.",
+                "das": "suggest(action=meet, new_time=2pm)"
+            },
+            {
+                "example": "Why don't you try restarting your computer?",
+                "das": "suggest(subject=you, action=restart, object=computer, confidence=moderate, justification=unspecified)"
+            },            
+            {
+                "example": "You should consider applying for that role.",
+                "das": "suggest(action=apply, object=job)"
+            }
+        ]
+    },
+    {
+        "function_name": "Agree",
+        "category": "General",
+        "description": "Affirms or aligns with a previous statement but does not commit to action.",
+        "function_examples": [
+            {
+                "example": "Yes, I agree with that.",
+                "das": "agree()"
+            },
+            {
+                "example": "Yes, that makes sense to me.",
+                "das": "agree(subject=self, reference=previous_statement, confidence=high)"
+            },
+            {
+                "example": "You're absolutely right.",
+                "das": "agree()"
+            }
+        ]
+    },
+    {
+        "function_name": "Commit",
+        "category": "General",
+        "description": "Explicitly agrees or promises to take a future action, either in response to a request or as a declaration of intent. The action must be something the speaker is directly responsible for performing.",
+        "function_examples": [
+            {
+                "example": "I'll send you the file tomorrow.",
+                "das": "commit(action=send, object=file, time=tomorrow)"
+            },
+            {
+                "example": "Yes, I'll take care of that.",
+                "das": "commit(action=<context dependent (that)>)"
+            },
+            {
+                "example": "You have my word on it.",
+                "das": "commit(action=<context dependent (it)>, certainty=high)"
+            },
+            {
+                "example": "I'll try",
+                "das": "commit(action=<context dependent>, certainty=low)"
+            }
+        ]
+    },
+    {
+        "function_name": "Acknowledge",
+        "category": "General",
+        "description": "Neutral receipt of information, often used for backchanneling or minimal responses.",
+        "function_examples": [
+            {
+                "example": "Okay.",
+                "das": "acknowledge(reference=<<context dependent>>)"
+            },
+            {
+                "example": "I see.",
+                "das": "acknowledge(reference=<<context dependent>>)"
+            },
+            {
+                "example": "Got it.",
+                "das": "acknowledge(reference=<<context dependent>>)"
+            }
+        ]
+    }, 
+    {
+        "function_name": "Clarify",
+        "category": "General",
+        "description": "Seeks to resolve ambiguity, misunderstanding, or confusion in a previous statement. Often involves rephrasing, elaboration, or highlighting specific details.",
+        "function_examples": [
+            {
+                "example": "No, I meant next Tuesday, not this one.",
+                "das": "clarify(topic=time, misunderstanding=this Tuesday, correction=next Tuesday)"
+            },
+            {
+                "example": "Let me explain what I meant by that.",
+                "das": "clarify(topic=explanation)"
+            },
+            {
+                "example": "When I said 'file,' I meant the document, not the folder.",
+                "das": "clarify(topic=previous_statement, misunderstanding=folder, correction=document)"
+            }
+        ]
+    },
+    {
+        "function_name": "Disagree",
+        "category": "General",
+        "description": "Explicitly communicates disagreement or contradiction with a previous statement or idea. May provide reasoning or counterarguments but does not necessarily imply hostility or conflict.",
+        "function_examples": [
+            {
+                "example": "I don't think that's correct",
+                "das": "disagree(reason=incorrect_information, confidence=low)"
+            },
+            {
+                "example": "No, I believe it's the other way around.",
+                "das": "disagree(subject=self, reference=previous_statement, reason=alternate_perspective, confidence=moderate)"
+            },
+            {
+                "example": "That doesn't seem right to me.",
+                "das": "disagree(subject=self, reference=previous_statement, reason=doubt, confidence=low)"
+            }
+        ]
+    },
+    {
+        "function_name": "Reject",
+        "category": "General",
+        "description": "Declines or refuses a proposal, offer, or request. May provide justification or explanation, though this is not required.",
+        "function_examples": [
+            {
+                "example": "No, I'm not available tomorrow.",
+                "das": "reject(subject=self, request_type=availability, timeframe=future, justification=unspecified)"
+            },
+            {
+                "example": "I'm sorry, but I'll have to pass on that.",
+                "das": "reject(subject=self, offer=opportunity, justification=unspecified)"
+            },
+            {
+                "example": "That's not something I can agree to.",
+                "das": "reject(subject=self, proposal=agreement, justification=unspecified)"
+            }
+        ]
+    },
+    {
+        "function_name": "Social Interaction",
+        "category": "General",
+        "description": "Includes greetings and meaningless small talk designed for polite social interaction.",
+        "function_examples": [
+            {
+                "example": "Hello",
+                "das": "greet(opening)"
+            },
+            {   "example": "How are you?",
+                "das": "greet(question=wellbeing)"
+            },
+            {
+                "example": "Goodbye, have a nice day!",
+                "das": "greet(closing); greet(wellwishes)"
+            },
+            {
+                "example": "It's nice to meet you.",
+                "das": "greet(meeting)"
+            }
+        ]
+    },
+    {
+        "function_name": "ManageTopic",
+        "category": "General",
+        "description": "Handles transitions between conversation topics. Can be used for opening, changing, or closing topics.",
+        "function_examples": [
+            {
+                "example": "Let's move on to the next point.",
+                "das": "manage_topic(action=change, topic=next_point)"
+            },
+            {
+                "example": "Now we'll start discussing verb conjugation.",
+                "das": "manage_topic(action=open, topic=verb_conjugation)"
+            },
+            {
+                "example": "That's everything for now on past tense verbs.",
+                "das": "manage_topic(action=close, topic=past_tense_verbs)"
+            }
+        ]
+    },
+    {
+        "function_name": "Encourage",
+        "category": "General",
+        "description": "Provides motivation, praise, or positive reinforcement.",
+        "function_examples": [
+            {
+                "example": "Great job!",
+                "das": "encourage(praise=progress)"
+            },
+            {
+                "example": "You're getting better at this.",
+                "das": "encourage(praise=improvement)"
+            },
+            {
+                "example": "Great work on that presentation!",
+                "das": "encourage(praise=performance)"
+            },
+            {
+                "example": "Don't worry, you'll figure it out!",
+                "das": "encourage(praise=optimism)"
+            }
+        ]
+    }
+]

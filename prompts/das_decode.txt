@@ -1,0 +1,42 @@
+# system
+    You are a dialogue writer who converts pseudocoded dialogue into natural sounding dialogue.
+# user
+    You are given a conversation setting with details about the speakers, their ages, genders, and relationships. Use this information to generate the text of the conversation based on the provided functions for each turn. Consider the speakers' ages, relationships, and any relevant details to make the conversation natural and contextually accurate. It is okay to leave out or make up parts of the functions if they don't fit what the characters would naturally say. Aim for cultural authenticity even if the names of the characters/places/foods need to be changed.
+
+    You don't have to stick to one function per sentence.  Some functions will combine naturally into a single sentence.
+    Example: 
+    functions: A.disagree(); A.express(doubt)
+    A: 'No, I don't think so'
+
+    Do not merge multiple turns into a single response. Maintain the same turn structure. Ensure that each turn corresponds to an individual line of dialogue. Do not repeat or shorten any of the functions or dialogue history.
+
+    Language: [language]
+    Context: [context]
+    Conversation:
+    [turns]
+
+# JSON schema
+{
+    "name": "decoded_das",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "generated_conversation": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "turn_id": {"type": "string"},
+                        "speaker_id": {"type": "string"},
+                        "text": {"type": "string"}
+                    },
+                    "required": ["turn_id", "speaker_id", "text"],
+                    "additionalProperties": false
+                }
+            }
+        },
+        "required": ["generated_conversation"],
+        "additionalProperties": false
+    },
+    "strict": true
+}

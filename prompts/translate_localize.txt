@@ -1,0 +1,31 @@
+# user
+    Translate the following conversation into [language]. While translating, please localize the dialogue for [language] speakers. This should include any necessary changes to names, locations, social dynamics, common objects (replace any brands or items with more commonly used ones), and general cultural appropriateness to make the context feel natural for [language] speakers. Assign culturally appropriate names based on gender, age, and relationship dynamics in the target culture. Be mindful of specifying politeness levels, family dynamics, and relevant cultural norms.
+
+    Conversation:
+    [conversation]
+
+# JSON schema
+{
+    "name": "translation",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "translations": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "speaker_id": {"type": "string"},
+                        "original_text": {"type": "string"},
+                        "translated_text": {"type": "string"}
+                    },
+                    "required": ["speaker_id", "original_text", "translated_text"],
+                    "additionalProperties": false
+                }
+            }
+        },
+        "required": ["translations"],
+        "additionalProperties": false
+    },
+    "strict": true
+}

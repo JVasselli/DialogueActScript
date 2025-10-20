@@ -1,0 +1,49 @@
+# system
+    You are a helpful assistant that annotates dialogue acts for a conversation.
+# user
+    You will read dialogue snippets. Assign a function label to each utterance with all necessary parameters to reconstruct the meaning. The goal is to capture what the speaker is doing (e.g., asking a question, making a request, giving feedback) rather than how they say it.  The 'parameters' of the functions will be whatever is necessary to capture the meaning of the utterance.  This should be the minimum amount of information necessary to convey all of the information of the sentence.
+
+    Here is the complete list of functions with descriptions and examples:
+    # start functions
+        *[function_name]*: [description]
+        # start function_examples
+            - example: [example]
+              functions: [das]
+        # end function_examples
+
+    # end functions
+
+    Note: It's possible for one utterance (or even one sentence) to serve multiple purposes.  In this case, it's fine to choose more than one, but keep them in the order presented.
+    
+    Example: 
+    text: "No, I don't think so",
+    functions: ["disagree()", "express(doubt)"]
+    
+    Conversation:
+    [conversation]
+
+# JSON schema
+{
+    "name": "das_annotations",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "das_encoding": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "speaker_id": {"type": "string"},
+                        "text": {"type": "string"},
+                        "functions": {"type": "array", "items": {"type": "string"}}
+                    },
+                    "required": ["speaker_id", "text", "functions"],
+                    "additionalProperties": false
+                }
+            }
+        },
+        "required": ["das_encoding"],
+        "additionalProperties": false
+    },
+    "strict": true
+}
