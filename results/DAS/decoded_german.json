@@ -1,0 +1,2365 @@
+[
+    {
+        "id": 1347,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "I’m a bit worried about you going shopping by yourself this afternoon.",
+            "Oh don’t worry, I’ll be fine.",
+            "But what will you do if you need to know the price of something?",
+            "If I need to know the price, I’ll just look at the label.",
+            "Ok, but what will you do if you want to check the size of the clothes?",
+            "I'll try them on.",
+            "And what will you do if you don’t have enough cash?",
+            "Then I’ll just use my credit card."
+        ],
+        "das_generated": [
+            "Ich mache mir ein bisschen Sorgen, dass du das erste Mal alleine einkaufen gehst.",
+            "Keine Sorge, ich komme schon klar. Ich weiß, was ich tue.",
+            "Und wie planst du, die Preise zu überprüfen?",
+            "Ich werde einfach die Etiketten anschauen.",
+            "Was machst du, wenn du die Größe überprüfen musst?",
+            "Ich werde die Kleidung anprobieren.",
+            "Und wenn du nicht genug Bargeld hast?",
+            "Dann benutze ich einfach meine EC-Karte."
+        ]
+    },
+    {
+        "id": 2593,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "May I take your drink order while you are looking over your menu?",
+            "Yes, do you have a wine list?",
+            "The wine list is on the second page of your menu.",
+            "Do you have mixed drinks in this restaurant?",
+            "Yes, we have a full bar here.",
+            "I am not sure what I want. Do you have any house specials?",
+            "Actually, we are famous for our Cuervo Gold margaritas.",
+            "That sounds good! Please bring me one of those.",
+            "Would you like that drink blended or on the rocks?",
+            "I would like it blended.",
+            "Would you like it with salt or no salt?",
+            "I would like my margarita with no salt, thank you."
+        ],
+        "das_generated": [
+            "Guten Abend! Sind Sie bereit, Ihre Getränkebestellung aufzugeben?",
+            "Ja, danke. Haben Sie eine Weinkarte?",
+            "Ja, die Weinkarte finden Sie auf der zweiten Seite der Speisekarte.",
+            "Und wie sieht es mit Mixgetränken aus?",
+            "Unsere Bar ist hier vollständig ausgestattet.",
+            "Ich bin mir nicht sicher, was ich nehmen soll. Haben Sie Hausspezialitäten?",
+            "Ja, unser Restaurant ist für den Haus-Spritz bekannt.",
+            "Das klingt gut! Könnten Sie mir bitte einen Haus-Spritz bringen?",
+            "Möchten Sie viel Eis oder wenig Eis?",
+            "Mit viel Eis, bitte.",
+            "Und mit oder ohne Minze?",
+            "Ohne Minze, bitte. Vielen Dank für Ihre Hilfe!"
+        ]
+    },
+    {
+        "id": 2666,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "I heard there was an accident today.",
+            "Nobody told you what happened?",
+            "Tell me the news.",
+            "A truck turned over on the freeway.",
+            "Are you kidding?",
+            "I am completely serious.",
+            "Did anyone get hurt?",
+            "I believe that two people did get hurt.",
+            "Were the injuries minor?",
+            "I believe so.",
+            "That's great to hear.",
+            "Yes, it is."
+        ],
+        "das_generated": [
+            "Hast du heute von dem Unfall gehört?",
+            "Ja, ich habe davon gelesen. Weißt du schon mehr darüber?",
+            "Kannst du mir erzählen, was in den Nachrichten stand?",
+            "Ein LKW ist auf der Autobahn umgekippt.",
+            "War das wirklich so ernst?",
+            "Ja, es war ziemlich ernst.",
+            "Weißt du, ob jemand verletzt wurde?",
+            "Es wurden wohl zwei Personen leicht verletzt.",
+            "Und wie schwer waren die Verletzungen?",
+            "Zum Glück waren die Verletzungen nur gering.",
+            "Da bin ich aber erleichtert, dass es nicht schlimmer war.",
+            "Ja, das stimmt."
+        ]
+    },
+    {
+        "id": 293,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Tomorrow I will be the new owner of all dad's assets.",
+            "It still feels really strange to me.",
+            "I know. I miss him terribly.",
+            "How does it feel to be in charge of so much money?",
+            "I thought I would feel like I was in the lap of luxury.",
+            "I guess you could choose that if you wanted.",
+            "No, I think I will run things much the same way that Dad did.",
+            "Dad really knew what he was doing when he chose you to take over for him when he was gone!"
+        ],
+        "das_generated": [
+            "Ich werde das Vermögen unseres Vaters erben und die Verantwortung dafür übernehmen.",
+            "Es fühlt sich irgendwie seltsam an, dass sich jetzt alles ändert.",
+            "Ja, ich verstehe, was du meinst. Es ist wirklich traurig, dass er nicht mehr da ist.",
+            "Wie fühlst du dich dabei, jetzt für das ganze Geld verantwortlich zu sein?",
+            "Früher dachte ich, es wäre ein Luxus, so etwas zu erben.",
+            "Vielleicht kannst du es ja als Chance sehen, dir etwas Luxus zu gönnen, wenn du das möchtest.",
+            "Nein, das ist nicht mein Plan. Ich möchte die Dinge so weiterführen, wie Vater es getan hat.",
+            "Unser Vater war wirklich weise. Ich bewundere das sehr an ihm."
+        ]
+    },
+    {
+        "id": 2778,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "I am looking for a pan.",
+            "No problem. What size would you like?",
+            "A big one would be nice.",
+            "How about this one? It's our biggest — 16” in diameter.",
+            "Oh, yes. I like that one. But it's too heavy.",
+            "Okay, try this one. It's made of aluminum.",
+            "Oh, yes, this is much better. But it has an aluminum handle.",
+            "Here you go. Same pan, but with a state-of-the-art, heat-resistant plastic handle.",
+            "Yes, that's perfect. I'll take it.",
+            "Great. Will that be cash or charge?",
+            "Oh, wait a minute. What about a lid for the pan?",
+            "I'm sorry. I forgot to show you the lid. It comes with the pan."
+        ],
+        "das_generated": [
+            "Wir suchen gerade nach einer passenden Pfanne für Sie.",
+            "Alles klar. Haben Sie eine bestimmte Größe im Kopf?",
+            "Ja, sie sollte möglichst groß sein.",
+            "Wie wäre es mit dieser Pfanne? Sie hat einen Durchmesser von 40 cm. Passt das?",
+            "Die Größe ist gut, aber sie scheint mir etwas schwer zu sein.",
+            "Ich verstehe. Vielleicht wäre diese Pfanne aus Aluminium besser geeignet?",
+            "Ja, das Gewicht ist viel angenehmer. Aber ich mache mir etwas Sorgen wegen des Aluminiumgriffs.",
+            "Kein Problem, diese Pfanne hat einen hitzeresistenten Kunststoffgriff.",
+            "Das klingt perfekt! Ich nehme die Pfanne.",
+            "Super, wie möchten Sie bezahlen? Bar oder mit Karte?",
+            "Ach, ich wollte noch nach einem passenden Deckel fragen. Haben Sie gerade welche da?",
+            "Oh, entschuldigen Sie, das habe ich ganz vergessen zu erwähnen. Ja, wir haben passende Deckel vorrätig."
+        ]
+    },
+    {
+        "id": 3061,
+        "category": "School Life",
+        "original_dialogue": [
+            "How should we commemorate the centenary of the founding of the university? We have been given quite a large budget to pay for some events.",
+            "We should certainly hold a big party for the professors and students. We could have a firework display.",
+            "Do you think that we should invite alumni and former professors?",
+            "If we do, too many people might attend. Perhaps we should invited all of them, but make a small charge to attend.",
+            "Good idea. We should also hold a series of presentations. We could have presentations on the history of the university, the courses we offer, and our links with other universities.",
+            "Good idea! I think we could also have presentations by former students on how their experience here helped them in their lives.",
+            "We could have another on the successes of graduates from here.",
+            "I think that we could also produce some merchandise for the centenary-you know, T-shirts, mugs, plates, pens, and things like that.",
+            "That’s an excellent idea. Hopefully, we would be able to make a profit! A few professors and students are writing a book on the history of the university.",
+            "I’m looking forward to reading that. We could have book signings by famous professors an alumni.",
+            "A group of students from the art and music faculty are producing a short film.",
+            "I’m sure that will be very popular... OK, let’s think about how we can put these ideas into practice."
+        ],
+        "das_generated": [
+            "Wie möchten Sie die Gedenkfeier für das Universitätsjubiläum gestalten? Unser aktuelles Budget für die Veranstaltungen ist recht großzügig.",
+            "Vielleicht könnten wir eine Feier für Professoren und Studenten veranstalten. Ein Feuerwerk wäre auch eine schöne Idee.",
+            "Sollten wir Alumni und ehemalige Professoren einladen? Ist das notwendig?",
+            "Wenn wir alle einladen, könnten wir eine hohe Teilnahme erreichen. Vielleicht könnten wir eine kleine Gebühr erheben.",
+            "Das klingt gut. Wir könnten auch eine Vortragsreihe veranstalten, mit Themen wie der Geschichte der Universität, den angebotenen Kursen und unseren Verbindungen mit anderen Universitäten.",
+            "Ja, das finde ich auch. Wir könnten Vorträge von ehemaligen Studenten haben, die über den Einfluss ihrer Erfahrungen sprechen.",
+            "Wir könnten auch eine Präsentation über die Erfolge unserer Absolventen machen.",
+            "Wie wäre es, wenn wir Jubiläumsartikel produzieren, wie T-Shirts, Tassen, Teller und Stifte?",
+            "Das ist eine großartige Idee! Wir arbeiten gerade an einem Buch, das von Professoren und Studenten über die Geschichte der Universität geschrieben wird.",
+            "Ich freue mich schon darauf, das Buch zu sehen. Vielleicht könnten wir Buchsignierungen mit bekannten Professoren und Alumni organisieren.",
+            "Wir sind auch dabei, einen Kurzfilm zu produzieren, an dem Kunst- und Musikstudenten beteiligt sind.",
+            "Ich bin zuversichtlich, dass der Kurzfilm sehr beliebt sein wird. Lassen Sie uns über die Umsetzung sprechen."
+        ]
+    },
+    {
+        "id": 2935,
+        "category": "School Life",
+        "original_dialogue": [
+            "Can I help you?",
+            "Yes. I am interested in applying for graduate school in America.",
+            "We have some catalogues from U.S. universities. You may check in the reference stacks over there.",
+            "Can you recommend some universities with good graduate schools?",
+            "Well, generally in the U.S. each university has its own outstanding fields. But the graduate school accepts no applications after January 29th.",
+            "Oh, no. It's already February 5th.",
+            "So you have to apply to begin the first semester next year.",
+            "I will think about it."
+        ],
+        "das_generated": [
+            "Kann ich Ihnen vielleicht helfen?",
+            "Ja, ich interessiere mich für Bewerbungen an Graduiertenschulen in Amerika.",
+            "Wir haben Kataloge von US-Universitäten, die Sie in der Referenzabteilung überprüfen können.",
+            "Könnten Sie mir einige Universitäten empfehlen, die gute Graduiertenschulen haben?",
+            "Es gibt viele Universitäten in den USA mit hervorragenden Fachbereichen. Die meisten Graduiertenschulen nehmen Bewerbungen bis zum 29. Januar an.",
+            "Oh, das ist enttäuschend. Ich habe die Frist verpasst, heute ist schon der 5. Februar.",
+            "Sie können sich aber für das erste Semester im nächsten Jahr bewerben.",
+            "Ich werde darüber nachdenken, wie ich meine Bewerbungsentscheidung treffe."
+        ]
+    },
+    {
+        "id": 3074,
+        "category": "School Life",
+        "original_dialogue": [
+            "Do you offer a course in business management?",
+            "Yes, we do.",
+            "How many nights a week is it?",
+            "It's 3 nights a week, Monday, Tuesday and Thursday.",
+            "And how long does the course last?",
+            "It lasts for 9 months.",
+            "When does it start?",
+            "The next beginning class starts on October 25th.",
+            "What time is the class?",
+            "From 7 to 9 o'clock.",
+            "How much does it cost?",
+            "It costs 125 dollars a month.",
+            "Yes, that's all right. I want to enroll in the course.",
+            "Thank you, please fill out this form for us.",
+            "Do you want me to fill it out now?",
+            "Yes, please. we need a record of you education and your work experiences."
+        ],
+        "das_generated": [
+            "Guten Tag, ich interessiere mich für den Kurs in Betriebswirtschaftslehre. Gibt es noch freie Plätze?",
+            "Guten Tag, Frau Müller. Ja, wir haben noch Plätze in diesem Kurs verfügbar.",
+            "Könnten Sie mir bitte sagen, an welchen Abenden der Kurs stattfindet?",
+            "Der Kurs findet dreimal pro Woche statt, jeweils am Montag, Dienstag und Donnerstag.",
+            "Und wie lange dauert der Kurs insgesamt?",
+            "Der Kurs dauert insgesamt neun Monate.",
+            "Wann beginnt der Kurs?",
+            "Der Kurs startet am 25. Oktober.",
+            "Zu welcher Uhrzeit finden die Kurse statt?",
+            "Die Kurse sind von 19 bis 21 Uhr.",
+            "Wie hoch sind die Kursgebühren?",
+            "Die Gebühren betragen 125 Euro pro Monat.",
+            "Das klingt gut für mich. Ich möchte mich gerne für den Kurs anmelden.",
+            "Vielen Dank, Frau Müller. Könnten Sie bitte dieses Formular ausfüllen?",
+            "Kann ich das Formular jetzt gleich ausfüllen?",
+            "Ja, das wäre sehr gut. Das Formular enthält Fragen zu Ihrer Ausbildung und Berufserfahrung."
+        ]
+    },
+    {
+        "id": 3189,
+        "category": "School Life",
+        "original_dialogue": [
+            "Excuse me, I need your assistance.",
+            "Sure, what's up?",
+            "I have no idea where my class is.",
+            "Tell me which building it's in.",
+            "My class is in the C building.",
+            "I know where the C building is.",
+            "Do you mind telling me where it is?",
+            "Of course, which room number is it?",
+            "Number 261.",
+            "I actually have a class right around there.",
+            "Can you please show me?",
+            "I can do that."
+        ],
+        "das_generated": [
+            "Entschuldigung, könntest du mir vielleicht helfen?",
+            "Klar, worum geht's denn?",
+            "Ich bin mir nicht sicher, wo mein Kurs stattfindet.",
+            "Kannst du mir sagen, in welchem Gebäude der Kurs ist?",
+            "Der Kurs ist im Gebäude C.",
+            "Ah, Gebäude C kenne ich gut.",
+            "Könntest du mir bitte sagen, wo das ist?",
+            "Ja, natürlich. Weißt du auch die Raumnummer?",
+            "Ja, es ist Raum 261.",
+            "Oh, das ist ja ganz in der Nähe. Ich habe dort auch mal einen Kurs gehabt.",
+            "Würdest du mir vielleicht den Weg zeigen?",
+            "Ja, klar, ich zeige dir den Weg."
+        ]
+    },
+    {
+        "id": 2916,
+        "category": "School Life",
+        "original_dialogue": [
+            "Who are we going to play with today?",
+            "We are playing against Hainan.",
+            "Oh, the basketball team from No. 1 College? I know they're a tough team.",
+            "Sure they are.",
+            "Who's winning?",
+            "We are, 27 to 26.",
+            "Really? I thought that they'd been killing us by now.",
+            "How can it be? We are a tough team as well."
+        ],
+        "das_generated": [
+            "Was denkst du, wie wir gegen München in der zweiten Halbzeit abschneiden werden?",
+            "Ich glaube, wir haben gute Chancen, wenn wir konzentriert bleiben. München ist stark, aber wir sind gut vorbereitet.",
+            "Was weißt du über München? Sie sind doch die Nummer 1 Hochschule, oder? Ich habe gehört, dass sie ein wirklich starkes Team haben.",
+            "Ja, das stimmt, sie sind wirklich stark.",
+            "Wie steht es eigentlich gerade?",
+            "Wir führen knapp mit 27 zu 26.",
+            "Wow, das überrascht mich! Ich dachte immer, München würde dominieren.",
+            "Da bin ich anderer Meinung. Wir sind auch ein starkes Team und können mithalten."
+        ]
+    },
+    {
+        "id": 3458,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "OK class, so today we are going to continue with our anatomy class, today we will review everything we have learned. Can anyone tell me what the first major organ is?",
+            "The brain!",
+            "That's right, the brain! It serves as a control center for the body, handling the processes of the central nervous system as well as cognition. Then what major organ is in our chest?",
+            "The heart!",
+            "Very good! It pumps blood throughout the body, using the circulatory system such as blood vessels and veins. Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive! Now what about the organs that help us digest food?",
+            "The stomach and intestines!",
+            "Very good! Let's not forget that the stomach is the one that breaks down our food and our intestines process that food and then expel the waste. Are we forgetting anything?",
+            "Yeah! Our kidneys, liver and bladder!",
+            "Oh yes, you are right. Very important organs indeed.",
+            "So what do these organs do, teacher?",
+            "Well, mumm, they... Time for a break! We can talk about it when you get back."
+        ],
+        "das_generated": [
+            "Heute setzen wir unseren Unterricht über die menschliche Anatomie fort. Wir werden das bisher Gelernte überprüfen. Kann jemand mir sagen, welches das erste wichtige Organ ist?",
+            "Das Gehirn.",
+            "Genau! Das Gehirn ist das Kontrollzentrum für das zentrale Nervensystem und die Kognition. Welches wichtige Organ befindet sich in der Brust?",
+            "Das Herz.",
+            "Richtig! Das Herz pumpt Blut durch das Kreislaufsystem. Und die Lungen versorgen das Herz und den Körper mit Sauerstoff. Welche Organe helfen bei der Verdauung?",
+            "Der Magen und die Därme.",
+            "Sehr gut! Der Magen zerlegt die Nahrung, und die Därme verarbeiten die Nahrung und scheiden Abfall aus. Haben wir noch Organe vergessen?",
+            "Die Nieren, die Leber und die Blase.",
+            "Ja, genau! Die Nieren, die Leber und die Blase sind ebenfalls sehr wichtig.",
+            "Was machen die Nieren, die Leber und die Blase genau?",
+            "Wir schließen das Thema Organfunktionen für heute ab. Jetzt machen wir eine kleine Pause, und danach können wir das Thema gerne weiter vertiefen."
+        ]
+    },
+    {
+        "id": 3310,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "Do you know where you want to transfer to?",
+            "I don’t have the slightest clue.",
+            "What school would you like to go to?",
+            "I’m not sure.",
+            "You honestly have no idea?",
+            "PCC is perfectly fine for me.",
+            "You might as well stay here.",
+            "That’s not a bad idea.",
+            "PCC is a wonderful institution.",
+            "You have a point.",
+            "So, what are you going to do?",
+            "I’m just going to keep going to PCC."
+        ],
+        "das_generated": [
+            "Hast du schon darüber nachgedacht, wohin du wechseln möchtest?",
+            "Ich bin mir noch nicht sicher, aber ich denke über ein paar Universitäten in anderen Bundesländern nach.",
+            "Gibt es eine Uni, die du besonders bevorzugst?",
+            "Nicht wirklich, ich bin noch am Überlegen, welche am besten zu meinem Studiengang passt.",
+            "Weißt du schon, was du genau machen möchtest?",
+            "Ich finde die Universität Hamburg wirklich gut, vor allem wegen der Möglichkeiten, die sie bietet.",
+            "Vielleicht solltest du einfach hierbleiben. Die Uni hat doch viel zu bieten.",
+            "Ja, da hast du recht. Ich denke auch, dass es eine gute Option ist.",
+            "Die Universität Hamburg ist wirklich eine großartige Institution.",
+            "Ja, das stimmt. Ich bin auch zufrieden hier.",
+            "Was hast du denn für die Zukunft geplant?",
+            "Ich plane, hier zu bleiben und mein Studium an der Universität Hamburg fortzusetzen."
+        ]
+    },
+    {
+        "id": 3466,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "Are you new here?",
+            "Yes, I am.",
+            "Is this your first year in college?",
+            "I actually transferred here from another school.",
+            "Which school?",
+            "I transferred from PCC.",
+            "How do you like it here compared to PCC?",
+            "I love it here.",
+            "Do you like it better here or at PCC?",
+            "Don’t get me wrong. I like it here, but PCC is better.",
+            "So, why did you leave PCC?",
+            "Because I got my AA and now I am going towards my bachelor degree."
+        ],
+        "das_generated": [
+            "Hey Lena, wie läuft's hier für dich an der Uni?",
+            "Hallo Max! Ich bin noch ziemlich neu hier, aber es gefällt mir bisher ganz gut.",
+            "Bist du im ersten Jahr hier?",
+            "Nein, ich habe von der Hochschule München hierher gewechselt.",
+            "Ah, interessant! Wie war es an deiner vorherigen Schule?",
+            "Es war eine gute Erfahrung, aber ich wollte nach Heidelberg wechseln.",
+            "Und wie gefällt es dir hier im Vergleich zur Hochschule München?",
+            "Ich mag es hier wirklich sehr, die Atmosphäre ist einfach toll.",
+            "Gibt es etwas, das du hier mehr magst als in München?",
+            "Ich finde die Stadt Heidelberg sehr charmant, aber München hatte auch seine Vorzüge.",
+            "Warum hast du dich entschieden, die Hochschule München zu verlassen?",
+            "Ich habe dort meinen Fachhochschulreife abgeschlossen und wollte hier meinen Bachelor machen."
+        ]
+    },
+    {
+        "id": 3173,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "I’ve always wondered, what’s the difference between English for Chinese students and English for native students?",
+            "I don’t know. What do you think?",
+            "I think a Chinese student concentrates on written English, and uses it as a basis for communicating. From start to finish he’s learning vocabulary and fundamentals of grammar. This is a very difficult way to learn.",
+            "What do natives get?",
+            "They get higher level English, which is more formal than everyday spoken English. They also deal with matters of style and creativity.",
+            "Do you mean that a native doesn’t make any mistakes in grammar?",
+            "Absolutely not! Native speakers make a lot of grammar mistakes, especially if they come from a home where nonstandard English is spoken.",
+            "I suppose that only a small percentage of college students don’t know standard English in American universities.",
+            "Actually there are more non-native speakers than you think. That’s why it’s so important to quit worrying about making mistakes. Just talk to everyone every chance you get."
+        ],
+        "das_generated": [
+            "Lukas: Anna, wie unterscheidet sich eigentlich der Englischunterricht hier von dem, was Muttersprachler lernen?",
+            "Anna: Hm, das weiß ich ehrlich gesagt nicht genau. Was denkst du darüber?",
+            "Lukas: Naja, für uns chinesische Studenten liegt der Fokus stark auf schriftlichem Englisch. Wir lernen viel Vokabeln und Grammatik, aber es ist ziemlich schwierig.",
+            "Anna: Und was lernen dann die Muttersprachler?",
+            "Lukas: Sie beschäftigen sich wohl mit einem höheren Niveau von Englisch, das formaler ist und mehr auf Stil und Kreativität achtet.",
+            "Anna: Und wie sieht es mit der Grammatikgenauigkeit bei Muttersprachlern aus?",
+            "Lukas: Nicht unbedingt. Muttersprachler machen auch Grammatikfehler, besonders wenn sie zu Hause nicht standardisiertes Englisch sprechen.",
+            "Anna: Ja, ich habe gehört, dass nur ein kleiner Prozentsatz der Studenten an amerikanischen Universitäten wirklich Standardenglisch beherrscht. Das hat mich überrascht.",
+            "Lukas: Es gibt tatsächlich mehr nicht-muttersprachliche Sprecher, als man denkt. Vielleicht sollten wir uns weniger Sorgen um Fehler machen und einfach bei jeder Gelegenheit mit allen reden."
+        ]
+    },
+    {
+        "id": 3177,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "How's your time spent in the United States?",
+            "Well, pretty good.",
+            "I'm glad to hear that. What impressed you most?",
+            "Well, the cultural differences impressed me most.",
+            "You mean we Chinese think differently from the Americans?",
+            "That's right, quite different. One day one of my American friend looked pale, so I asked him whether he was sick or not. But he was reluctant to answer my question.",
+            "That's weird.",
+            "And what's more, when he told me he had caught a cold for several days, I suggested him to go to the hospital as soon as possible.",
+            "You really cared about your friend.",
+            "Sure I am. But he responded by saying 'what do you mean?'",
+            "I'm confused. Why did he say that?",
+            "I felt the same at first. Later he told me that I'd better not give him any suggestions when he was sick. Offering unsolicited help or advice is like showing sympathy to the weak or the poor. But back in China, helping others is always regarded being kind.",
+            "Absolutely. Now I understand why he responded that way."
+        ],
+        "das_generated": [
+            "Wie war deine Reise in die USA insgesamt?",
+            "Es war wirklich schön. Ich habe die Zeit dort sehr genossen.",
+            "Das freut mich zu hören! Was hat dich am meisten beeindruckt?",
+            "Die kulturellen Unterschiede waren wirklich faszinierend.",
+            "Wie unterscheiden sich die Amerikaner und Chinesen in ihrem Denken?",
+            "Da stimme ich zu. Ein amerikanischer Freund von mir sah einmal ziemlich blass aus, und als ich fragte, ob es ihm gut geht, war er sehr zurückhaltend mit seiner Antwort.",
+            "Das verwirrt mich ein wenig. Warum hat er so reagiert?",
+            "Er war tatsächlich mehrere Tage krank, und ich habe ihm dringend geraten, ins Krankenhaus zu gehen.",
+            "Das war sehr fürsorglich von dir.",
+            "Ja, ich mache mir wirklich Sorgen um meine Freunde. Aber er war verwirrt über meine Besorgnis.",
+            "Das verstehe ich nicht ganz. Warum war er verwirrt?",
+            "Ich war auch verwirrt. Er meinte, dass er keine Ratschläge wollte. In den USA wird unaufgeforderte Hilfe oft als Mitleid wahrgenommen, während in China das Helfen als Freundlichkeit gilt.",
+            "Ja, das macht Sinn. Jetzt verstehe ich seine Reaktion besser."
+        ]
+    },
+    {
+        "id": 3875,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Can I help you, sir?",
+            "Yes, I've been sitting here for a few minutes. I'm waiting for someone to put gas in my car.",
+            "I'm sorry, sir. But this is the self-service pump.",
+            "Self-service?",
+            "Yes. You must fill up the car yourself.",
+            "Are you serious?",
+            "Yes. Are you traveling here?",
+            "Yes, I'm from Taiwan. I never heard of a gas station where you fill up your own car.",
+            "In America, most gas stations are like this.",
+            "Do I really have to do it? I don't know how.",
+            "Well, since this is your first time, I will do it for you.But next time, if you want a full-service gas station, you should look at the sign.",
+            "What sign?",
+            "Under the sign for the gas station, there will be a smaller sign that says Self-Serve or Full-Service. And some gas stations have both. But if they have both, some pumps will be self-serve and some will be full-serve. You have to look at the signs.",
+            "I see."
+        ],
+        "das_generated": [
+            "Kann ich Ihnen helfen?",
+            "Ja, ich warte hier schon ein paar Minuten, um mein Auto zu tanken.",
+            "Oh, das ist eine Selbstbedienungstankstelle.",
+            "Selbstbedienung? Wie funktioniert das genau?",
+            "Sie müssen Ihr Auto selbst betanken.",
+            "Meinen Sie das ernst?",
+            "Ja, das stimmt. Reisen Sie gerade durch Deutschland?",
+            "Ja, ich komme aus Taiwan. Bei uns gibt es so etwas nicht, das überrascht mich.",
+            "In Deutschland sind die meisten Tankstellen Selbstbedienung.",
+            "Muss ich das wirklich selbst machen? Ich bin mir nicht sicher, wie das geht.",
+            "Ich kann Ihnen beim ersten Mal helfen. Schauen Sie beim nächsten Mal einfach auf die Schilder.",
+            "Welche Schilder meinen Sie?",
+            "Unter dem Tankstellenschild steht 'Selbstbedienung oder Vollservice'. Manche Tankstellen bieten beides an. Achten Sie einfach auf die Schilder.",
+            "Ah, verstehe. Vielen Dank für die Erklärung."
+        ]
+    },
+    {
+        "id": 3531,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "How about a movie tonight?",
+            "It doesn’t matter to me.",
+            "Does 7 o'clock suit you?",
+            "Either way. I don’t care.",
+            "How about a snack after work?",
+            "I couldn’t careless.",
+            "Would you rather stay home?",
+            "Whatever you say.",
+            "Are you really interested in doing something?",
+            "I don’t mind if you want to."
+        ],
+        "das_generated": [
+            "Wie wäre es, wenn wir heute Abend einen Film schauen?",
+            "Hm, mir ist das eigentlich egal.",
+            "Würde dir 19 Uhr passen?",
+            "Die Uhrzeit ist mir auch egal.",
+            "Vielleicht könnten wir nach der Arbeit ein paar Chips holen?",
+            "Chips oder nicht, macht für mich keinen Unterschied.",
+            "Oder wollen wir einfach zu Hause bleiben?",
+            "Mir ist es wirklich egal, ob wir zu Hause bleiben.",
+            "Hast du Lust, irgendetwas zu unternehmen?",
+            "Ich bin da ziemlich offen, entscheide du."
+        ]
+    },
+    {
+        "id": 3986,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "I was thinking of holding the company retreat in the mountains.",
+            "I agree, I think that that would be perfect!",
+            "I was thinking it could take place sometime in January.",
+            "That might be a little too cold for some people.",
+            "Yes, you are right.",
+            "What about April? April has good weather that isn't too cold or too hot.",
+            "Yes, that would work out better.",
+            "You know, maybe we could take a survey to see how that works for everyone.",
+            "Good idea! We'll have to get right on it.",
+            "Fine! Well, I'll get right on it now!"
+        ],
+        "das_generated": [
+            "Ich habe darüber nachgedacht, unser Firmen-Retreat in einem Berghotel in den Alpen zu veranstalten.",
+            "Das klingt großartig! Ich finde die Idee wirklich spannend, die Qualität der Umgebung dort ist einfach fantastisch.",
+            "Ich hatte an Januar gedacht.",
+            "Da mache ich mir ein bisschen Sorgen, dass es für einige wegen des kalten Wetters schwierig werden könnte.",
+            "Da hast du recht.",
+            "Wie wäre es, wenn wir den April in Betracht ziehen? Das Wetter ist dann milder und angenehmer.",
+            "Das ist eine gute Idee.",
+            "Wir sollten vielleicht eine Umfrage machen, um die Präferenzen der Mitarbeiter zu ermitteln.",
+            "Das finde ich hervorragend. Ich werde die Umfrage bald in die Wege leiten.",
+            "Alles klar, ich kümmere mich sofort darum, dass wir damit starten."
+        ]
+    },
+    {
+        "id": 3993,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "I was wondering if I could borrow the company van for a fundraiser this weekend.",
+            "Sure, I think that would be possible. Where is the fundraiser?",
+            "It is in the park downtown.",
+            "Would you need it for both Saturday and Sunday?",
+            "We will need it for Saturday only.",
+            "I think that would be OK. Who will be driving it?",
+            "Mary and I will be driving the van.",
+            "Could you drop it off on Sunday night?",
+            "Yes, we can do that. Can we borrow the chairs from the lunchroom also?",
+            "Yes, that would be fine. Just make sure that everything is returned by Sunday night."
+        ],
+        "das_generated": [
+            "Hallo Jens, hast du kurz Zeit? Ich wollte fragen, ob ich den Firmenwagen für die Spendenaktion dieses Wochenende leihen könnte.",
+            "Natürlich, Sabine, das sollte kein Problem sein. Wo findet die Spendenaktion denn statt?",
+            "Im Park in der Innenstadt, wir haben dort alles organisiert.",
+            "Und wie lange brauchst du den Wagen? Geht es um Samstag und Sonntag?",
+            "Eigentlich nur am Samstag.",
+            "Okay, das passt. Wer wird den Wagen fahren?",
+            "Maria und ich werden ihn fahren.",
+            "Könnt ihr den Wagen dann bitte am Sonntagabend zurückbringen?",
+            "Ja, das machen wir. Und könnten wir auch ein paar Stühle aus der Kantine leihen?",
+            "Klar, das geht. Bringt dann bitte alles am Sonntagabend zurück."
+        ]
+    },
+    {
+        "id": 3392,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Ah! No! Damn it!",
+            "It's a blackout. Now I can't see Seinfeld.",
+            "So what? I just lost one hour's worth of work.",
+            "Really? How could you do that? Don't you save every couple minutes?",
+            "No, I didn't save this time.Damn it! And I'm sick of writing this paper. Now I have to write it all over again too.",
+            "I've had that problem too many times. So I learned to save.When I'm writing something, I save every three sentences or so. I don't want to lose anything.",
+            "I hate computers. Sometimes I think they cause more trouble than they're worth.",
+            "What are we going to do now?",
+            "I don't know. I feel like going out.",
+            "I wonder how much of the city is down.",
+            "It doesn't matter. I still can go out and buy a beer.",
+            "Maybe. But if there's a blackout, probably the pubs are closed.And besides, I know you have a political science exam tomorrow. I thought you had a lot of reading to do.",
+            "Yes, that's true. Damn! I just lost half my paper, and now I can't even do my homework.This is a bad time for this to happen.",
+            "I have a flashlight in my closet. If you want to use that to read, you can."
+        ],
+        "das_generated": [
+            "Ach, das ist doch echt zum Verzweifeln!",
+            "Ja, der Stromausfall ist gerade in der ganzen Stadt. Ich bin echt enttäuscht, dass ich meine Lieblingssendung verpasse.",
+            "Ich bin total frustriert, weil ich eine Stunde Arbeit an meiner Hausarbeit verloren habe!",
+            "Wie hast du das geschafft? Speichere deine Arbeit nicht regelmäßig?",
+            "Ich habe einfach nicht gespeichert. Jetzt muss ich alles neu schreiben, das ist so ärgerlich!",
+            "Das passiert mir auch ständig. Ich speichere mittlerweile alle drei Sätze.",
+            "Ich hasse Computer, sie machen immer Probleme!",
+            "Was hast du jetzt vor?",
+            "Ich weiß gerade nicht so recht. Vielleicht gehe ich einfach raus.",
+            "Weißt du, wie groß der Stromausfall in der Stadt ist?",
+            "Ach, das ist mir egal. Ich gehe einfach raus und hole mir ein Bier.",
+            "Die Kneipen könnten wegen des Stromausfalls geschlossen sein. Und du hast doch bald deine Prüfung in Politikwissenschaft, solltest du nicht lieber lesen?",
+            "Ja, du hast recht. Aber ich bin immer noch so genervt wegen der verlorenen Arbeit.",
+            "Ich habe eine Taschenlampe im Schrank. Willst du sie haben, damit du weiterlernen kannst?"
+        ]
+    },
+    {
+        "id": 7379,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Susan, good evening. Why are you so dressed up?",
+            "I'm on my way out to a New Year's banquet. How do I look? Is my make-up ok?",
+            "You look great. Your make-up is perfect.",
+            "Do your think I should wear a different dress?",
+            "No, the one you have on looks fabulous, especially with your hair like that.",
+            "Thanks for saying. Do you have any ideas which necklace I should wear?",
+            "With that dress I'd like to say your white diamond necklace would look perfect.",
+            "Thanks for helping out. Now Im ready, what are you doing tonight?",
+            "Not much, Just a house party with some friends.",
+            "Sounds fun. Anyone I know?",
+            "Yeah, most of the people are from my office.",
+            "Sounds like I'm missing out on a good time. Oh, well, there's always next year.",
+            "I'm sure you will have fun no matter where you go. Remember to take your bag."
+        ],
+        "das_generated": [
+            "Hey Susanne, warum machst du dich so schick?",
+            "Ich gehe zu einem Silvesterbankett. Wie sehe ich aus? Und was sagst du zu meinem Make-up?",
+            "Du siehst fantastisch aus! Dein Make-up ist auch perfekt.",
+            "Findest du das Kleid okay?",
+            "Nein, ich finde es großartig! Es steht dir wirklich gut.",
+            "Danke dir! Was denkst du über die Kette? Soll ich die tragen?",
+            "Ich würde die weiße Diamantkette nehmen, die passt super zum Kleid.",
+            "Danke für deine Hilfe! Ich bin jetzt bereit. Was hast du heute Abend vor?",
+            "Ich gehe zu einer Hausparty mit ein paar Freunden.",
+            "Oh, das klingt interessant! Wer wird denn alles da sein?",
+            "Hauptsächlich Kollegen aus dem Büro.",
+            "Schade, dass ich das verpasse. Aber es gibt bestimmt bald wieder eine Gelegenheit.",
+            "Genau, bleib optimistisch! Nimm doch schon mal deine Tasche mit."
+        ]
+    },
+    {
+        "id": 7561,
+        "category": "Relationship",
+        "original_dialogue": [
+            "I really love this meal.",
+            "Thanks. I was hoping that you would all enjoy this meal.",
+            "Where did you learn to cook these amazing dishes?",
+            "I got a really wonderful cookbook for my birthday and decided to try out a few of the recipes.",
+            "The chicken is out of this world!",
+            "I love that dish as well. It is coconut chicken with rice.",
+            "I was wondering if there was shrimp in the soup.",
+            "Yes, that soup has a shrimp base. I also added sea vegetables and lemon grass.",
+            "It worked out well that the wine that I brought to share seems to blend well with this meal.",
+            "I love this wine! It goes very well with the chicken."
+        ],
+        "das_generated": [
+            "Ich liebe dieses Essen einfach, es ist wirklich eines meiner Lieblingsgerichte!",
+            "Danke, das freut mich zu hören! Ich hoffe, es schmeckt dir genauso gut wie mir.",
+            "Wo hast du eigentlich gelernt, so gut zu kochen?",
+            "Ich habe ein Kochbuch zum Geburtstag bekommen und seitdem probiere ich die Rezepte daraus aus.",
+            "Das Hähnchen ist einfach fantastisch!",
+            "Ich liebe dieses Gericht auch, es ist Kokosnuss-Hähnchen mit Reis.",
+            "Sind da eigentlich Garnelen in der Suppe?",
+            "Ja, die Suppe hat eine Garnelenbasis, dazu noch Meeresgemüse und Zitronengras.",
+            "Der Wein passt wirklich hervorragend zum Essen.",
+            "Ich liebe diesen Wein, er passt wirklich sehr gut zum Hähnchen."
+        ]
+    },
+    {
+        "id": 7243,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Look, Bob. This is a photograph I took during my trip to Australia.",
+            "Let me see it, can I? This is a good photograph. Who are these people?",
+            "They’re people I met during the trip. That’s the ship we traveled on.",
+            "What a beautiful ship! Who’s this?",
+            "That’s the man I told you about. Remember?",
+            "Ah yes. The one who offered you a job in Australia.",
+            "That’s right.",
+            "Who’s this?",
+            "Guess!",
+            "It’s not you, is it?",
+            "That’s right. I grew a beard during the trip, but I shaved it off when I came home.",
+            "Why did you shave it off?",
+            "My wife didn’t like it!"
+        ],
+        "das_generated": [
+            "Schau dir mal diese Fotos an, die ich in Australien gemacht habe.",
+            "Darf ich die Fotos sehen? Die sehen ja toll aus! Wer sind die Leute auf dem Bild?",
+            "Das sind Leute, die ich auf der Reise kennengelernt habe. Wir sind zusammen mit dem Schiff gereist.",
+            "Wow, das klingt ja beeindruckend! Wer ist denn der Mann da?",
+            "Das ist der Mann, von dem ich dir schon erzählt habe. Erinnerst du dich?",
+            "Ja, ich erinnere mich. Er hat dir doch ein Jobangebot in Australien gemacht, oder?",
+            "Genau, das stimmt.",
+            "Und wer ist die andere Person?",
+            "Rate mal, wer das sein könnte!",
+            "Ist das etwa du?",
+            "Ja, genau! Ich habe mir während der Reise einen Vollbart wachsen lassen und ihn dann zu Hause wieder abrasiert.",
+            "Warum hast du ihn denn wieder abrasiert?",
+            "Meine Frau fand den Bart nicht so toll."
+        ]
+    },
+    {
+        "id": 5232,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Would you like to go to a concert tonight?",
+            "I'd like to very much.",
+            "All right, then.There is one at the new concert hall.",
+            "Who's playing?",
+            "It's the Powell orchestra.",
+            "Do you know what they are playing?",
+            "They're doing a seventeenth-century program.",
+            "And who is directing?",
+            "Well, I'm not sure of his name, but I know it's going to be his farewell performance."
+        ],
+        "das_generated": [
+            "Hey Jonas, hast du Lust, mit mir zum Konzert zu gehen? Es wird bestimmt großartig!",
+            "Oh, das klingt wirklich spannend! Ich liebe es, wenn du so begeistert bist.",
+            "Es findet in der neuen Konzerthalle statt, und ich bin sicher, es wird ein unvergessliches Erlebnis.",
+            "Wer tritt denn auf? Ich bin neugierig.",
+            "Das Powell Orchester wird spielen. Sie sind wirklich fantastisch.",
+            "Und was steht auf dem Programm? Ich hoffe, es ist etwas Interessantes.",
+            "Sie spielen Musik aus dem siebzehnten Jahrhundert. Es wird wirklich etwas Besonderes.",
+            "Wer dirigiert das Orchester? Das würde mich auch interessieren.",
+            "Es ist die Abschiedsaufführung des Dirigenten. Eine einmalige Gelegenheit, ihn noch einmal live zu erleben."
+        ]
+    },
+    {
+        "id": 5324,
+        "category": "Relationship",
+        "original_dialogue": [
+            "It's nice and bright today, isn't it?",
+            "Yeah. The autumn is marvelous here.",
+            "How about winter?",
+            "That's a hard time. The air is cold and damp, and the road is often icy.",
+            "It's boring, right?",
+            "Sure.",
+            "Do you get much rain during the summer?",
+            "Plenty. We never worry about lack of rainwater in our area.",
+            "So you should bring an umbrella often.",
+            "That's right."
+        ],
+        "das_generated": [
+            "Das Wetter ist momentan wirklich schön, findest du nicht auch?",
+            "Ja, absolut! Der Herbst hier ist einfach herrlich.",
+            "Wie sieht es eigentlich im Winter aus? Sind die Bedingungen schwierig?",
+            "Ja, der Winter kann ziemlich herausfordernd sein. Die Luft ist oft kalt und feucht, und die Straßen sind häufig glatt.",
+            "Ich finde den Winter immer etwas langweilig, oder?",
+            "Da stimme ich dir zu.",
+            "Wie ist es im Sommer mit dem Regen? Gibt es viel davon?",
+            "Im Sommer regnet es reichlich. Aber einen Mangel an Regenwasser haben wir hier nie.",
+            "Dann solltest du wohl oft einen Regenschirm mitnehmen.",
+            "Ja, das ist eine gute Idee."
+        ]
+    },
+    {
+        "id": 8170,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Did you enjoy your weekend at the highland hotel? I heard it’s and excellent place to stay and has good facilities.",
+            "I had a wonderful time. The rooms are not very big, but they are well furnished. The restaurant is excellent and reasonably priced. There’s a sauna and a Jacuzzi.",
+            "Do they have a swimming pool?",
+            "No, they don’t. they have a beauty parlor, but I didn’t go there.",
+            "What’s the service like?",
+            "It’s very good. Check in and check out at the reception only took a few minutes. The wait staff is very good. A waiter recommended their baked fish, which tasted wonderful. The hotel was quite full, so I’d suggest making a reservation if you intend to go there. The hotel offers a discount at the weekends.",
+            "It sounds perfect. Did you have any complaints at all?",
+            "There was a problem with the internet access, so I couldn’t check my email, but I didn’t complain about it to the management.",
+            "I suppose you were happy to forget about the outside world.",
+            "Yes, I was. Here’s their business card.",
+            "Thanks. Was there a mina bar in the room?",
+            "No, there wasn’t. There is a bar on the ground floor and of course you can buy drinks in the restaurant to go with your meal.",
+            "One of the things I dislike about hotels is that everyone expects tips.",
+            "I know. At the inland hotel, they have an interesting policy. When you check out, you put some money in a special box at reception. Each evening, the money in the box is shared equally by the hotel staff."
+        ],
+        "das_generated": [
+            "Wie war dein Wochenende im Bayerischen Hof? Ich habe gehört, das Hotel hat einen ausgezeichneten Ruf und die Einrichtungen sollen von hoher Qualität sein.",
+            "Oh, ich war wirklich sehr zufrieden mit meiner Erfahrung! Das Zimmer war zwar klein, aber sehr gut eingerichtet. Das Restaurant war ausgezeichnet und die Preise waren angemessen. Es gab auch eine Sauna und einen Whirlpool.",
+            "Gab es auch ein Schwimmbad?",
+            "Nein, ein Schwimmbad gab es leider nicht, aber es gab einen Schönheitssalon.",
+            "Wie war der Service dort?",
+            "Der Service war wirklich sehr gut. Der Check-in und Check-out dauerten nur wenige Minuten, und das Personal war sehr freundlich. Der Kellner hat mir den gebackenen Fisch empfohlen, und der war wunderbar. Das Hotel war voll, also solltest du unbedingt reservieren, wenn du hinfahren möchtest. Am Wochenende gibt es auch Rabatte.",
+            "Das klingt alles sehr gut! Gab es denn irgendwelche Beschwerden?",
+            "Nun, es gab ein Problem mit dem Internetzugang. Ich konnte meine E-Mails nicht überprüfen, aber ich habe mich nicht beim Management beschwert.",
+            "Das kann ich verstehen, solche Unterbrechungen sind manchmal ärgerlich.",
+            "Ja, genau. Hier, ich gebe dir die Visitenkarte, falls du sie brauchst.",
+            "Danke dir! Weißt du, ob es eine Minibar im Zimmer gab?",
+            "Nein, eine Minibar gab es nicht, aber es gab eine Bar im Erdgeschoss. Getränke im Restaurant waren nur mit einer Mahlzeit verfügbar.",
+            "Ich mag es nicht so sehr, wenn Trinkgelder erwartet werden.",
+            "Ja, ich verstehe das. Im Inland Hotel gibt es eine interessante Richtlinie: Man legt das Geld in eine spezielle Box beim Check-out, und es wird jeden Abend gleichmäßig unter dem Personal verteilt."
+        ]
+    },
+    {
+        "id": 8165,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Madison Suites, how may I help you?",
+            "Yes, I'm calling from Mexico. I will be in town next week and would like to know if you have availability.",
+            "OK ma'am, can you tell me the date you expect to check in?",
+            "Yes, July ninth. I will be there for seven nights.",
+            "We have a junior single suite or a superior double suite available for those dates.",
+            "What's the difference?",
+            "The junior suite is smaller and has one twin bed, while the superior suite has a double bed and mini-bar.",
+            "OK, I would like to reserve the superior suite. Is breakfast included?",
+            "Yes, a buffet breakfast is served every morning. I will need your name and your credit card details in order to complete the reservation.",
+            "Sure, my credit card number is..."
+        ],
+        "das_generated": [
+            "Guten Tag, hier ist Anna vom Berliner Hof. Wie kann ich Ihnen behilflich sein?",
+            "Hallo, hier ist Claudia. Ich rufe gerade aus Mexiko an, weil ich nächste Woche geschäftlich in die Stadt komme. Haben Sie noch Zimmer frei?",
+            "Ja, natürlich. Wann genau möchten Sie denn einchecken?",
+            "Ich plane, am 9. Juli einzuchecken und für 7 Nächte zu bleiben.",
+            "Wir haben sowohl eine Junior Einzel Suite als auch eine Superior Doppel Suite für diesen Zeitraum verfügbar.",
+            "Könnten Sie mir den Unterschied zwischen den beiden Suiten erklären?",
+            "Die Junior Suite ist etwas kleiner und hat ein Einzelbett, während die Superior Suite ein Doppelbett und eine Minibar bietet.",
+            "Verstanden, dann würde ich gerne die Superior Suite reservieren. Ist das Frühstück in der Reservierung enthalten?",
+            "Ja, wir bieten jeden Morgen ein Frühstücksbuffet an. Um die Reservierung abzuschließen, bräuchte ich bitte noch Ihren Namen und Ihre Kreditkartendetails.",
+            "Alles klar, ich gebe Ihnen gleich meine Kreditkartennummer."
+        ]
+    },
+    {
+        "id": 7846,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Excuse me, can you tell me how to apply for a visa to America?",
+            "Log on to the website of American Embassy in Beijing and fill in the application forms.",
+            "And what should I do next?",
+            "Then make an appointment by telephone and wait for the interview.",
+            "How long will I wait for?",
+            "It all depends.",
+            "What's the fee for application?",
+            "About 800 yuan.",
+            "Thank you very much.",
+            "You are welcome."
+        ],
+        "das_generated": [
+            "Könnten Sie mir bitte den Prozess der Beantragung eines Visums für Amerika erklären?",
+            "Natürlich. Zuerst müssen Sie sich auf der Webseite der amerikanischen Botschaft in Peking einloggen und die Antragsformulare ausfüllen.",
+            "Und was ist der nächste Schritt im Visumantragsprozess?",
+            "Dann sollten Sie telefonisch einen Termin vereinbaren und auf das Interview warten.",
+            "Wie lange dauert es normalerweise, bis man das Interview hat?",
+            "Die Wartezeit kann variieren.",
+            "Wie hoch ist die aktuelle Antragsgebühr für das Visum?",
+            "Die Antragsgebühr beträgt derzeit 800 Yuan.",
+            "Vielen Dank für Ihre Hilfe!",
+            "Gern geschehen."
+        ]
+    },
+    {
+        "id": 8354,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Can I help you, sir?",
+            "Yes, I'm checking out.",
+            "Can I have your key and room number, please?",
+            "Room 1419. Here's my key.",
+            "Here's your bill, sir. Could you please check it?",
+            "It's all right. Please charge it to my credit card.",
+            "Here you are, sir. You're all set. I hope you enjoyed your stay. And that next time you're in town, you will stay with us again.",
+            "I will. Where can I leave my luggage? I really want to leave after lunch.",
+            "The bell captain will put it in the storage room. When you're ready to leave, you can claim your luggage from him.",
+            "Thanks very much. And good-bye."
+        ],
+        "das_generated": [
+            "Guten Morgen, Herr Müller. Kann ich Ihnen beim Auschecken behilflich sein?",
+            "Ja, ich würde gerne auschecken.",
+            "Könnten Sie mir bitte Ihre Zimmernummer und den Schlüssel geben?",
+            "Natürlich, ich war in Zimmer 1419. Hier ist der Schlüssel.",
+            "Vielen Dank. Hier ist Ihre Rechnung. Könnten Sie diese bitte überprüfen?",
+            "Ja, das sieht alles korrekt aus. Könnten Sie den Betrag bitte von meiner Kreditkarte abbuchen?",
+            "Alles erledigt. Ich hoffe, Sie hatten einen angenehmen Aufenthalt und wir würden uns freuen, Sie bald wieder bei uns begrüßen zu dürfen.",
+            "Vielen Dank, ich komme gerne wieder. Gibt es die Möglichkeit, mein Gepäck hier zu lassen? Ich möchte nach dem Mittagessen abreisen.",
+            "Selbstverständlich, unser Gepäckträger kann Ihr Gepäck im Aufbewahrungsraum verstauen. Sie können es abholen, wann immer Sie bereit sind zu gehen.",
+            "Vielen Dank für Ihre Hilfe. Auf Wiedersehen!"
+        ]
+    },
+    {
+        "id": 8158,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Good morning. More Hotel. At your service.",
+            "Good morning! I'd like to make a reservation, please. Do you have any rooms available for the next week?",
+            "All right. Single-room or double-room?",
+            "Double-room, please. It's for an American couple.",
+            "Hold on, please. Let me check the bookings. Yes, we have double-rooms available. What kind of room would you like, sir?",
+            "I'd like a room with a nice view, please.",
+            "We have a nice garden-view room.",
+            "Good. I'll take that one. Is there a bar in your hotel?",
+            "Yes, sir. And there is also a party going on each Saturday night in the bar till next morning.",
+            "Party all night? Hotel California? No kidding. Anyway, what's the room charge?",
+            "888 Yuan per night. With breakfast. “Northern Star” buffet! What's there arriving time?",
+            "They turn up around 4p.m. next Monday, and they check out on next Sunday.",
+            "I see. May I have your name and phone number?",
+            "Yes. 123-4567. Benjamin."
+        ],
+        "das_generated": [
+            "Guten Tag, hier ist Markus Müller vom Hotel Bayerischer Hof. Wie kann ich Ihnen behilflich sein?",
+            "Guten Tag, Herr Müller. Ich würde gerne eine Reservierung vornehmen. Haben Sie nächste Woche noch Zimmer frei?",
+            "Selbstverständlich, Herr Schmidt. Welche Art von Zimmer bevorzugen Sie? Wir bieten Einzelzimmer und Doppelzimmer an.",
+            "Ein Doppelzimmer wäre ideal, bitte. Es handelt sich um ein amerikanisches Paar.",
+            "Einen Moment bitte. Ja, wir haben noch Doppelzimmer verfügbar. Haben Ihre Gäste spezielle Wünsche bezüglich des Zimmers?",
+            "Ja, wenn möglich, hätten sie gerne ein Zimmer mit einer schönen Aussicht.",
+            "Wir haben ein Zimmer mit Blick auf unseren schönen Garten.",
+            "Das klingt hervorragend, ich nehme das Zimmer. Könnten Sie mir bitte noch Informationen über die Hotelbar geben?",
+            "Ja, wir haben eine Bar im Hotel. Am Samstagabend findet dort eine Feier statt, die bis zum nächsten Morgen geht.",
+            "Oh, das ist ja eine lange Feier! Wie hoch sind die Kosten für das Zimmer?",
+            "Der Preis beträgt 888 Yuan pro Nacht, inklusive Frühstück. Wann erwarten Sie die Ankunft Ihrer Gäste?",
+            "Die Gäste werden nächsten Montag um 16 Uhr ankommen und am nächsten Sonntag auschecken.",
+            "Vielen Dank für die Informationen. Könnten Sie mir bitte noch Ihren Namen und Ihre Telefonnummer geben?",
+            "Natürlich, mein Name ist Benjamin Schmidt und meine Telefonnummer lautet 123-4567."
+        ]
+    },
+    {
+        "id": 8553,
+        "category": "Health",
+        "original_dialogue": [
+            "I came here to get a chest X-ray.",
+            "I will need you to take your clothes off from the waist up and put on the gown, leaving the opening in the back.",
+            "What comes next?",
+            "I will need you to face this glass plate right over here.",
+            "Should I do anything else?",
+            "Your arms need to be raised to shoulder height.",
+            "Is this OK?",
+            "So far, so good.",
+            "How come you are walking away?",
+            "I am not leaving. I just need you to take a really deep breath, hold it, and then let it out.",
+            "Will I be finished then?",
+            "You will be able to put your clothes on as soon as I have checked the film."
+        ],
+        "das_generated": [
+            "Guten Tag, ich bin hier für eine Röntgenaufnahme des Brustkorbs.",
+            "Guten Tag, Herr Sebastian. Bitte ziehen Sie sich bis zur Taille aus und ziehen Sie diesen Kittel an, mit der Öffnung nach hinten.",
+            "Was mache ich als Nächstes?",
+            "Stellen Sie sich bitte hier vor die Glasplatte.",
+            "Gibt es noch etwas, das ich tun muss?",
+            "Heben Sie bitte Ihre Arme auf Schulterhöhe.",
+            "Ist das so richtig?",
+            "Ja, das ist perfekt.",
+            "Warum gehen Sie weg?",
+            "Ich gehe nicht weg, Herr Sebastian. Bitte atmen Sie jetzt tief ein.",
+            "Wann sind wir fertig?",
+            "Sie können sich wieder anziehen, sobald ich den Film überprüft habe."
+        ]
+    },
+    {
+        "id": 8453,
+        "category": "Health",
+        "original_dialogue": [
+            "How do I take the tablets?",
+            "Please take 2 tablets each time, 4 times a day.",
+            "How do I take the sucking lozenges?",
+            "Please put one under your tongue, do not swallow it.",
+            "How do I take the pills?",
+            "Please dissolve one pill in water before taking it.",
+            "Well, thanks very much.",
+            "You're welcome."
+        ],
+        "das_generated": [
+            "Könnten Sie mir bitte erklären, wie ich die Tabletten einnehmen soll?",
+            "Natürlich, Herr Schmidt. Sie nehmen bitte zwei Tabletten viermal am Tag ein.",
+            "Und wie sieht es mit den Lutschtabletten aus?",
+            "Die Lutschtablette legen Sie bitte unter die Zunge und lassen sie dort zergehen. Bitte nicht schlucken.",
+            "Wie nehme ich die Pillen ein?",
+            "Die Pille lösen Sie bitte in einem Glas Wasser auf.",
+            "Vielen Dank, Frau Dr. Müller, für die ausführlichen Erklärungen.",
+            "Gern geschehen, Herr Schmidt. Es freut mich, dass ich Ihnen helfen konnte."
+        ]
+    },
+    {
+        "id": 8549,
+        "category": "Health",
+        "original_dialogue": [
+            "How have you been doing?",
+            "I can’t sleep or eat. I have a really bad pain in my tooth!",
+            "How long have you had this toothache?",
+            "It bothers me off and on, but it’s gotten much worse these past few weeks.",
+            "Is there anything that you’Ve done to your tooth that might have caused the pain?",
+            "My girlfriend told me that I grind my teeth a lot when I sleep. Maybe that is the problem.",
+            "When you brush your teeth, what do you use?",
+            "I use a soft bristle toothbrush.",
+            "Does it bother you when you have to chew a lot?",
+            "Absolutely. That set it off big time!"
+        ],
+        "das_generated": [
+            "Hallo Anna, wie geht's dir heute?",
+            "Ach, Lukas, ehrlich gesagt, nicht so gut. Ich schlafe schlecht und habe kaum Appetit. Und die Zahnschmerzen sind wirklich schlimm im Moment.",
+            "Oh je, das klingt ja gar nicht gut. Wie lange hast du denn schon diese Zahnschmerzen?",
+            "Die kommen und gehen schon seit einer Weile, aber in den letzten Wochen sind sie wirklich schlimmer geworden.",
+            "Hast du eine Ahnung, was die Zahnschmerzen verursachen könnte?",
+            "Meine Freundin hat bemerkt, dass ich im Schlaf mit den Zähnen knirsche. Vielleicht kommt es daher, aber ich bin mir nicht sicher.",
+            "Welchen Zahnbürstentyp benutzt du denn gerade?",
+            "Ich benutze eine mit weichen Borsten.",
+            "Tut es dir weh, wenn du kaust?",
+            "Ja, das tut es wirklich. Das Kauen löst die Zahnschmerzen sofort aus."
+        ]
+    },
+    {
+        "id": 8628,
+        "category": "Health",
+        "original_dialogue": [
+            "Billy, you don’t look too well. Maybe you should take the day off school.",
+            "But Mom! Today we’re playing football! I love football!",
+            "You’ve god a fever and playing football isn’t a good idea for a boy with a fever. What’s that on your arm?",
+            "I don’t know. It was there when I woke up this morning.",
+            "It’s a rash. I’d better take you to see the doctor. How did you get that bruise on your leg?",
+            "I bashed it against the chair in my room.",
+            "Does it hurt?",
+            "A little, but not much.",
+            "Here. Put this wet towel on your face to keep your temperature down. I’ll take you to the doctor’s after breakfast.",
+            "If I’m better this afternoon, can I go to school?",
+            "If you are better, but I doubt you will be."
+        ],
+        "das_generated": [
+            "Lukas, ich habe bemerkt, dass du dich heute nicht so wohl fühlst. Vielleicht solltest du heute besser nicht zur Schule gehen.",
+            "Aber Mama, ich will unbedingt zur Schule! Ich liebe es, Fußball zu spielen!",
+            "Du hast Fieber, Lukas. Es wäre besser, wenn du heute auf Fußball verzichtest. Wie geht es deinem Arm?",
+            "Ich weiß nicht genau, was mit meinem Arm ist. Er hat wehgetan, als ich heute Morgen aufgewacht bin.",
+            "Das sieht nach einem Ausschlag aus. Wir sollten zum Arzt gehen. Weißt du, wie du dir das Bein verletzt hast?",
+            "Ich bin gestern im Zimmer gegen einen Stuhl gestoßen.",
+            "Tut die Verletzung jetzt noch weh?",
+            "Nein, es tut nur ein bisschen weh.",
+            "Hier, nimm ein nasses Handtuch und leg es dir aufs Gesicht, das hilft gegen das Fieber. Nach dem Frühstück gehen wir dann zum Arzt.",
+            "Wenn es mir besser geht, darf ich dann morgen wieder zur Schule?",
+            "Ich bin mir nicht sicher, ob du so schnell wieder gesund bist, Lukas."
+        ]
+    },
+    {
+        "id": 8410,
+        "category": "Health",
+        "original_dialogue": [
+            "Good afternoon, Miss Qi.",
+            "Good afternoon. It's very nice to see you again.",
+            "How are you feeling today?",
+            "I'm much better. The stomachache is gone, and the doctor is about to give me another endoscope examination to see whether the ulcer has healed.",
+            "That's good. Well, these are for you. I hope you will like them.",
+            "How beautiful they are! Thank you so much.",
+            "I've also brought some magazines for you. I hope they'll keep you from getting bored while you're in the hospital.",
+            "You're so thoughtful!",
+            "It's time for me to leave. I hope you will recover soon. See you later.",
+            "Thank you for coming. Good-bye."
+        ],
+        "das_generated": [
+            "Guten Morgen, Frau Schmidt!",
+            "Guten Morgen, Herr Müller! Es freut mich sehr, Sie zu sehen.",
+            "Wie geht es Ihnen denn heute? Fühlen Sie sich etwas besser?",
+            "Ja, es geht mir schon besser. Die Magenschmerzen sind verschwunden. Der Arzt wird bald eine Endoskopie machen, um zu sehen, ob das Geschwür gut heilt.",
+            "Das ist schön zu hören. Ich habe Ihnen ein paar Sachen mitgebracht. Ich hoffe, sie gefallen Ihnen.",
+            "Oh, die Blumen sind wunderschön! Vielen Dank, Herr Müller, das ist wirklich sehr aufmerksam von Ihnen.",
+            "Ich habe auch ein paar Zeitschriften mitgebracht. Ich hoffe, sie helfen Ihnen, die Zeit hier etwas angenehmer zu gestalten.",
+            "Das ist wirklich lieb von Ihnen, Herr Müller. Ich weiß Ihre Fürsorglichkeit sehr zu schätzen.",
+            "Ich muss mich jetzt leider verabschieden. Ich wünsche Ihnen eine schnelle Genesung. Auf Wiedersehen, Frau Schmidt!",
+            "Vielen Dank für Ihren Besuch, Herr Müller. Auf Wiedersehen!"
+        ]
+    },
+    {
+        "id": 9619,
+        "category": "Work",
+        "original_dialogue": [
+            "Mr. McKenna, do you have a second? I need to talk to you about something.",
+            "Sure, Liv, what can I do for you ?",
+            "Well, I was just wondering... you see, I know I’ve used up all my vacation days this year, but my sister is getting married, and the wedding is overseas, and, well...",
+            "You wanna take some time off, is that right ?",
+            "Well, sir, I was just hoping that I might be able to take some unpaid leave this year.",
+            "What dates are you planning on taking off? I’ll need at least two months notice, so that I can plan for your absence.",
+            "I was thinking of taking off from September first until the thirtieth. Would you be okay with that?",
+            "Well, I guess so."
+        ],
+        "das_generated": [
+            "Guten Morgen, Herr Müller. Haben Sie einen Moment Zeit für ein Gespräch?",
+            "Guten Morgen, Frau Liv. Natürlich, wie kann ich Ihnen helfen?",
+            "Ich wollte Sie informieren, dass ich bereits alle meine Urlaubstage für dieses Jahr genutzt habe. Meine Schwester heiratet jedoch bald in Spanien, und es ist mir sehr wichtig, dabei zu sein.",
+            "Haben Sie schon einen Urlaubsantrag gestellt oder planen Sie das noch?",
+            "Ich wollte Sie höflich um die Möglichkeit bitten, unbezahlten Urlaub zu nehmen.",
+            "Wann genau planen Sie, den Urlaub zu nehmen? Sie wissen, dass wir normalerweise eine Vorankündigung von zwei Monaten benötigen, um die Abwesenheit zu planen.",
+            "Ich würde gerne vom 1. bis zum 30. September unbezahlten Urlaub nehmen. Wäre es möglich, dass Sie das genehmigen?",
+            "Ich werde sehen, was sich machen lässt, aber ich kann Ihnen im Moment noch nichts versprechen."
+        ]
+    },
+    {
+        "id": 9099,
+        "category": "Work",
+        "original_dialogue": [
+            "Today is Saturday, isn't it?",
+            "Yes, what's wrong?",
+            "What's the date today?",
+            "Today is September 28th, 2007.",
+            "I have a meeting this afternoon.",
+            "When will it begin?",
+            "It will begin at three o'cock. What's the time now?",
+            "It is half past one.",
+            "I have to go now. I don't want to be late.",
+            "Don't worry, time is enough."
+        ],
+        "das_generated": [
+            "Heute ist doch Freitag, oder?",
+            "Ja, genau. Warum fragst du?",
+            "Welches Datum haben wir heute nochmal?",
+            "Heute ist der 28. September 2007.",
+            "Oh, ich habe heute Nachmittag eine Besprechung.",
+            "Wann fängt die Besprechung an?",
+            "Um 15 Uhr. Weißt du, wie spät es jetzt ist?",
+            "Es ist 13:30 Uhr.",
+            "Ich sollte bald losfahren. Ich mache mir ein bisschen Sorgen, dass ich zu spät komme.",
+            "Keine Sorge, du hast noch genug Zeit. Bleib optimistisch!"
+        ]
+    },
+    {
+        "id": 8694,
+        "category": "Work",
+        "original_dialogue": [
+            "Janice, do you still remember how our filing system works?",
+            "Yes, I have read the Filling Instruction carefully, since you showed me it last week.",
+            "Very good. What is the essence of filing, do you know?",
+            "The essence of filing I remember is to bring together in a single folder or file all papers relating to a particular subject. And outgoing and incoming letters are kept in this file cabinet.",
+            "Yes, ' One customer--one file ' is essential. And remember to update them timely.",
+            "And each file should be named clearly, either in block capitals or in jet black typed capitals.",
+            "Correct.",
+            "A card index is very important in the filing system. It is a most helpful friend to a secretary, so it must be kept handy and up to date.",
+            "Yes, prompt and careful filing contributes greatly to the efficiency of our office."
+        ],
+        "das_generated": [
+            "Frau Müller, wie gut erinnern Sie sich an unser Ablagesystem?",
+            "Ich habe letzte Woche die Ablageanleitung gelesen, Herr Schneider.",
+            "Das ist gut zu hören! Wie gut kennen Sie sich denn jetzt im Ablagewesen aus?",
+            "Ich weiß, dass wir die Papiere in einzelne Ordner zusammenbringen und die Briefe in Aktenordnern aufbewahren.",
+            "Genau, das ist richtig. Könnten Sie dann bitte in naher Zukunft die Akten aktualisieren?",
+            "Ja, ich werde darauf achten, die Akten klar zu benennen, entweder in Blockbuchstaben oder getippt.",
+            "Das klingt gut.",
+            "Die Kartei ist wirklich wichtig für unser Ablagesystem, und ich werde sie praktisch und aktuell halten.",
+            "Da stimme ich Ihnen zu. Eine gut organisierte Ablage trägt erheblich zur Effizienz unseres Büros bei."
+        ]
+    },
+    {
+        "id": 8740,
+        "category": "Work",
+        "original_dialogue": [
+            "Hi, is this Sue?",
+            "Yes?",
+            "Sue, this is Tom Lin from Allied Trust and I'm calling to offer you a position with our firm.",
+            "What position?",
+            "Senior account rep.",
+            "How much does it pay?",
+            "It starts at $30,000.",
+            "I'm sorry but my bottom figure is $36,000."
+        ],
+        "das_generated": [
+            "Guten Tag, spreche ich mit Frau Sabine Schmidt?",
+            "Ja, am Apparat.",
+            "Mein Name ist Thomas Müller von der Vertrauensbank GmbH. Ich möchte Ihnen die Position der Senior-Kundenbetreuerin anbieten.",
+            "Könnten Sie mir bitte mehr Details zu der Position geben?",
+            "Es handelt sich um die Position der Senior-Kundenbetreuerin.",
+            "Wie sieht es mit dem Gehalt aus?",
+            "Das Einstiegsgehalt liegt bei 30.000 Euro.",
+            "Das ist leider zu wenig für mich. Ich hatte an ein Gehalt von 36.000 Euro gedacht."
+        ]
+    },
+    {
+        "id": 8649,
+        "category": "Work",
+        "original_dialogue": [
+            "Can I talk to you for a moment, manager?",
+            "Yes, of course. What is it?",
+            "I've decided to leave.",
+            "Leave? Why?",
+            "I've worked here for two years. And I want to do something different.",
+            "What do you mean by something different?",
+            "I want to live abroad and learn to speak a different language.",
+            "I'm really sorry. But I understand.",
+            "Thank you, manager."
+        ],
+        "das_generated": [
+            "Herr Müller, könnten wir kurz sprechen?",
+            "Natürlich, Anna. Worum geht es?",
+            "Ich wollte Ihnen mitteilen, dass ich plane, das Unternehmen zu verlassen.",
+            "Oh, das überrascht mich. Darf ich fragen, warum Sie gehen möchten?",
+            "Ich bin jetzt seit zwei Jahren hier und habe das Gefühl, dass es Zeit für etwas Neues ist.",
+            "Etwas Neues? Was genau haben Sie im Sinn?",
+            "Ich möchte gerne ins Ausland gehen und eine neue Sprache lernen.",
+            "Das ist natürlich schade für uns, aber ich verstehe Ihre Entscheidung.",
+            "Vielen Dank für Ihr Verständnis, Herr Müller."
+        ]
+    },
+    {
+        "id": 10077,
+        "category": "Politics",
+        "original_dialogue": [
+            "Could I speak to you for a minute?",
+            "What do you want to speak to me about?",
+            "I want to talk about this year’s election.",
+            "Oh, you do?",
+            "I am volunteering for the campaign.",
+            "What made you decide to volunteer?",
+            "I want to be a part of history.",
+            "Good for you.",
+            "Do you plan on voting?",
+            "I will be voting.",
+            "You should try and make it early to your polling place.",
+            "Thanks for letting me know."
+        ],
+        "das_generated": [
+            "Können wir gleich über etwas Wichtiges sprechen?",
+            "Klar, worum geht's?",
+            "Ich wollte mit dir über die diesjährige Wahl sprechen.",
+            "Ah, verstehe.",
+            "Ich arbeite gerade ehrenamtlich für eine Kampagne in meinem Bezirk.",
+            "Warum hast du dich entschieden, ehrenamtlich zu arbeiten?",
+            "Ich möchte Teil der Geschichte sein und aktiv teilnehmen.",
+            "Das ist wirklich toll von dir!",
+            "Hast du schon entschieden, ob du wählen gehst?",
+            "Ja, ich werde auf jeden Fall wählen.",
+            "Dann solltest du früh zum Wahllokal gehen, um lange Schlangen zu vermeiden.",
+            "Danke für den Tipp, ich schätze die Information sehr."
+        ]
+    },
+    {
+        "id": 10166,
+        "category": "Politics",
+        "original_dialogue": [
+            "Will you be voting?",
+            "I will. Will you be voting?",
+            "Well, when is the election?",
+            "You don’t know that?",
+            "I just don’t know.",
+            "It’s this Tuesday.",
+            "You can’t be serious.",
+            "Why would I joke?",
+            "Thanks for telling me.",
+            "You should’ve known already.",
+            "I forgot.",
+            "As long as you go vote, that’s all that matters."
+        ],
+        "das_generated": [
+            "Hast du schon geplant, zur Wahl zu gehen?",
+            "Ja, ich werde auf jeden Fall wählen. Und du, hast du schon entschieden?",
+            "Weißt du eigentlich, wann die Wahl ist?",
+            "Weißt du das nicht?",
+            "Nein, ich habe keine Ahnung, wann der Wahltermin ist.",
+            "Die Wahl ist diesen Dienstag.",
+            "Echt? Das überrascht mich jetzt wirklich!",
+            "Meinst du das ernst?",
+            "Danke, dass du mir das gesagt hast.",
+            "Es ist ein bisschen frustrierend, dass du das nicht wusstest.",
+            "Ich habe den Wahltermin einfach vergessen.",
+            "Es ist wirklich wichtig, wählen zu gehen."
+        ]
+    },
+    {
+        "id": 10151,
+        "category": "Politics",
+        "original_dialogue": [
+            "Where are you going?",
+            "I have to go to work.",
+            "Going to work where?",
+            "I’m working at the polling place.",
+            "I didn’t know you were working there this year.",
+            "I work at the polling place every year.",
+            "How did you get that job?",
+            "I signed up for it online.",
+            "That’s really cool.",
+            "It’s a very cool job.",
+            "Do they pay you a lot?",
+            "They pay well enough."
+        ],
+        "das_generated": [
+            "Wohin gehst du gerade?",
+            "Ich gehe zur Arbeit.",
+            "Wo arbeitest du denn?",
+            "Ich arbeite heute im Wahllokal.",
+            "Ach, das wusste ich gar nicht, dass du im Wahllokal arbeitest.",
+            "Ja, ich mache das schon seit ein paar Jahren bei jeder Bundestagswahl.",
+            "Wie bist du denn zu dem Job gekommen?",
+            "Ich habe mich einfach online angemeldet.",
+            "Das ist ja cool!",
+            "Ja, ich finde den Job wirklich klasse.",
+            "Und wie ist die Bezahlung?",
+            "Die Bezahlung ist ganz ordentlich."
+        ]
+    },
+    {
+        "id": 10157,
+        "category": "Politics",
+        "original_dialogue": [
+            "You heard who won the election, right?",
+            "Who was elected?",
+            "McCain won the election.",
+            "That can’t be true!",
+            "I’m upset, too.",
+            "I can’t believe people voted for him.",
+            "People must want him as our President.",
+            "That doesn’t make any sense.",
+            "I have more bad news.",
+            "How could the news get any worse?",
+            "I was only kidding, because Obama won the election.",
+            "That’s great news!"
+        ],
+        "das_generated": [
+            "Weißt du schon, wer die Wahl gewonnen hat?",
+            "Nee, wer hat denn gewonnen?",
+            "McCain hat gewonnen.",
+            "Das kann ich nicht glauben!",
+            "Ich bin echt genervt, dass McCain gewonnen hat.",
+            "Ich kann nicht fassen, dass so viele Leute für McCain gestimmt haben.",
+            "Vielleicht wollen die Leute wirklich McCain als Präsidenten.",
+            "Das ergibt doch keinen Sinn!",
+            "Ich habe schlechte Nachrichten.",
+            "Oh nein, wird es noch schlimmer?",
+            "Nein, ich habe mich geirrt. Obama hat gewonnen.",
+            "Oh, das freut mich total!"
+        ]
+    },
+    {
+        "id": 10153,
+        "category": "Politics",
+        "original_dialogue": [
+            "We’re asking for donations today.",
+            "What are you collecting donations for?",
+            "We’re trying to raise money for the campaigns.",
+            "How much are you planning on raising?",
+            "As much as possible.",
+            "What kind of fundraisers are you doing?",
+            "We are going door to door.",
+            "You should try actual fundraisers, too.",
+            "What else can we do?",
+            "Try having a car wash or selling candy.",
+            "I didn’t think of that.",
+            "I know. It’ll also help you make more money."
+        ],
+        "das_generated": [
+            "Wir bitten aktuell um Spenden für unsere Kampagne.",
+            "Wofür genau sammeln wir die Spenden?",
+            "Wir sammeln Geld, um unsere Kampagnenaktivitäten zu unterstützen.",
+            "Und was ist unser langfristiges Spendenziel?",
+            "Wir wollen so viel Geld wie möglich sammeln.",
+            "Welche Art von Spendenaktionen machen wir gerade?",
+            "Wir machen aktuell eine Haus-zu-Haus-Sammlung.",
+            "Vielleicht sollten wir auch echte Spendenaktionen ausprobieren.",
+            "Hast du Ideen für zukünftige Spendenaktionen?",
+            "Wir könnten eine Autowäsche oder einen Süßigkeitenverkauf versuchen.",
+            "Das klingt nach einer guten Idee.",
+            "Das könnte uns helfen, mehr Geld zu verdienen."
+        ]
+    },
+    {
+        "id": 10547,
+        "category": "Finance",
+        "original_dialogue": [
+            "May I ask you a few questions about insurance?",
+            "Yes.",
+            "Now we've given a CIF Shanghai price for some steel plates. What insurance rate do you suggest we should get?",
+            "Well. Obviously, you won’t want All Risks cover.",
+            "Why not?",
+            "Because they aren’t delicate goods and won’t likely be damaged on the voyage. FPA will be good enough.",
+            "Then am I right in understanding that FPA doesn't cover partial loss for the nature of particular average.",
+            "That's right. On the other hand, a WA policy covers you against partial loss in all cases.",
+            "Are there any other clauses in marine policies?",
+            "Oh, lots of them. For instance, War Risks, TEND and SICC.",
+            "Well, thank you very much for all that information. Could you give me a quotation for my consignment now?",
+            "Are you going to make an offer today?",
+            "Yes. My customer is in urgent need of the steel plates.",
+            "Ok, I'll get this rate right away.",
+            "Thank you."
+        ],
+        "das_generated": [
+            "Jens, könntest du mir bitte bei der Versicherung für die Stahlplatten helfen?",
+            "Natürlich, Sabine, wie kann ich dir helfen?",
+            "Ich habe den CIF-Preis für Shanghai bereits bereitgestellt. Welche Versicherungsrate würdest du für die Stahlplatten empfehlen?",
+            "Ich würde dir nicht empfehlen, eine All-Risks-Versicherung zu nehmen.",
+            "Warum würdest du von einer All-Risks-Versicherung abraten?",
+            "Stahlplatten sind nicht besonders empfindlich, und die Wahrscheinlichkeit von Schäden während der Reise ist gering. Eine FPA-Versicherung sollte ausreichen.",
+            "Deckt die FPA-Versicherung auch Teilverluste ab?",
+            "Ja, das tut sie. Eine WA-Police würde alle Fälle von Teilverlusten abdecken.",
+            "Gibt es derzeit noch andere Klauseln in der Seepolice?",
+            "Ja, es gibt viele, wie zum Beispiel Kriegsrisiken, TEND und SICC.",
+            "Danke dir vielmals für die Informationen, Jens. Könntest du mir bitte ein Angebot für die Sendung machen?",
+            "Möchtest du das Angebot jetzt oder später?",
+            "Ich möchte es jetzt, der Kunde braucht die Stahlplatten dringend.",
+            "Verstanden, ich kümmere mich sofort um die Rate.",
+            "Danke dir, Jens, ich weiß das wirklich zu schätzen."
+        ]
+    },
+    {
+        "id": 10278,
+        "category": "Finance",
+        "original_dialogue": [
+            "How can I help you today?",
+            "I want to sign up for some funds units. How do I go about it?",
+            "Have you got some ID and your cash card?",
+            "Yes. I've already got a fund account with you too.",
+            "How many more fund units would you like to purchase today?",
+            "I'm not quite sure. You see, I already have more than 5,000 RIB in my cash card, but I really don't know how much I should get.",
+            "The usual minimum purchase is 5,000 RIB.",
+            "That settles it then. 5,000 RIB it is, thanks."
+        ],
+        "das_generated": [
+            "Guten Tag, Lukas! Wie kann ich Ihnen heute behilflich sein?",
+            "Hallo Sabine, ich möchte gerne in Fondsanteile investieren. Können Sie mir erklären, wie der Prozess abläuft?",
+            "Natürlich! Haben Sie Ihren Ausweis und Ihre Bankkarte dabei?",
+            "Ja, die habe ich. Ich habe auch bereits ein Fondskonto bei Ihnen.",
+            "Wie viele Anteile möchten Sie denn kaufen?",
+            "Ich bin mir noch etwas unsicher, was die Entscheidung angeht. Ich habe 5000 Euro auf meiner Bankkarte, aber ich bin mir nicht sicher, ob ich alles investieren sollte.",
+            "Der Mindestkaufbetrag liegt bei 5000 Euro.",
+            "Gut, dann entscheide ich mich dafür, die 5000 Euro zu investieren. Vielen Dank für Ihre Hilfe, Sabine!"
+        ]
+    },
+    {
+        "id": 10333,
+        "category": "Finance",
+        "original_dialogue": [
+            "Welcome to the International Business Department. How can I help you?",
+            "Hello. I'm Ms Dawson from Lexington Software. I need to send these documents to Vietnam via L/C.",
+            "No problem, I can do that for you right now. Have you checked the documents?",
+            "I have, but I have never done this before so would it be possible for you to double check them?",
+            "Of course, that's all part of the service.",
+            "Thank you. I don't think there should be any problems, but just to be sure...",
+            "Don't worry; I'm sure it will be fine. If I do have any queries I'll call you, OK?",
+            "That's fine. Thank you again."
+        ],
+        "das_generated": [
+            "Guten Morgen, Frau Müller. Wie kann ich Ihnen heute behilflich sein?",
+            "Guten Morgen, Frau Julia. Ich bin Frau Müller von der Software Solutions GmbH. Ich arbeite gerade an der Versendung von Dokumenten nach Vietnam über ein Akkreditiv.",
+            "Ich kann Ihnen dabei sofort helfen. Möchten Sie, dass ich die Dokumente noch einmal überprüfe?",
+            "Ich habe die Dokumente bereits überprüft, aber ich bin noch nicht so erfahren in diesem Prozess. Könnten Sie bitte die Dokumente noch einmal durchsehen?",
+            "Natürlich, das mache ich gerne. Das gehört zu unserem Service dazu.",
+            "Vielen Dank, das beruhigt mich sehr. Ich mache mir ein wenig Sorgen, dass es Probleme geben könnte.",
+            "Keine Sorge, das schaffen wir schon. Wenn Sie Fragen haben, rufen Sie mich einfach an.",
+            "Das werde ich tun, vielen Dank für Ihre Unterstützung."
+        ]
+    },
+    {
+        "id": 10086,
+        "category": "Finance",
+        "original_dialogue": [
+            "IBA, Maria speaking. How can I help?",
+            "Hello, I called earlier regarding interest rates on loans. Sorry, I just have a couple more questions.",
+            "I'm here to help. Tell me your questions and I'll do my best to answer them.",
+            "What if I require a loan for a short period of time?",
+            "What repayment period were you thinking of?",
+            "Say, 6 months? Or less in fact. I want to repay the loan ASAP; I don't like debt hanging over my head.",
+            "A wise decision. If you decide to take out a short-term loan with us, say for 6 months or less, the interest rate shall be for that of a 6-month loan.",
+            "What if I repay it early. Any perks?",
+            "Well, we could adjust the interest rate based on the original rate and the amount of days you actually borrowed the money for.",
+            "So, the quicker I pay it back, the more I can save in interest? That's excellent. Thanks so much for your information. I'll come in shortly to take the relevant steps for the loan.",
+            "It's our pleasure. We are always happy to have another satisfied customer. Thanks for calling. Goodbye."
+        ],
+        "das_generated": [
+            "Guten Tag! Wie kann ich Ihnen heute behilflich sein?",
+            "Guten Tag! Ich hatte vor kurzem ein Gespräch über die Zinssätze für Kredite. Könnte ich Ihnen noch ein paar Fragen dazu stellen?",
+            "Natürlich, ich helfe Ihnen gerne weiter. Welche Fragen haben Sie?",
+            "Könnten Sie mir die Bedingungen für einen kurzfristigen Kredit erläutern?",
+            "Welche Rückzahlungsdauer würden Sie bevorzugen?",
+            "Ich würde den Kredit gerne in sechs Monaten oder weniger zurückzahlen. Ich fühle mich mit Schulden nicht wohl.",
+            "Das ist eine gute Entscheidung. Für einen kurzfristigen Kredit von bis zu sechs Monaten bieten wir einen attraktiven Zinssatz an.",
+            "Gibt es Vorteile, wenn ich den Kredit vorzeitig zurückzahle?",
+            "Ja, bei vorzeitiger Rückzahlung wird der Zinssatz entsprechend angepasst.",
+            "Das klingt großartig! Bedeutet das, dass ich Zinsen sparen kann? Vielen Dank für die Informationen! Ich werde bald in der Filiale vorbeikommen.",
+            "Es freut mich, dass ich Ihnen helfen konnte. Vielen Dank für Ihren Anruf und auf Wiederhören!"
+        ]
+    },
+    {
+        "id": 10105,
+        "category": "Finance",
+        "original_dialogue": [
+            "How can I help you this afternoon?",
+            "I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter.",
+            "Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up.",
+            "Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon.",
+            "You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please?",
+            "I did that already, while I was waiting. Also, here's my card.",
+            "Thank you. And you require...",
+            "800 RIB, please.",
+            "Please enter your personal code right here, on the key pad. And sign here, please.",
+            "OK...",
+            "Thank you. Here's your card back and your money. Please double check it for me.",
+            "Yes, that's great. Thanks."
+        ],
+        "das_generated": [
+            "Guten Tag! Wie kann ich Ihnen aktuell behilflich sein?",
+            "Hallo, ich würde gerne Geld abheben, da die Schlange am Geldautomaten ziemlich lang ist.",
+            "Der Geldautomat wird gerade aufgefüllt, weil er kein Geld mehr hatte.",
+            "Ah, verstehe. Um diese Zeit, um 14:30, ist es normalerweise nicht so viel los.",
+            "Da haben Sie recht. Wenn Sie möchten, können Sie hier ein Abhebungsformular ausfüllen.",
+            "Ich habe das Formular bereits ausgefüllt. Hier ist meine Karte.",
+            "Vielen Dank für die Karte. Wie viel möchten Sie aktuell abheben?",
+            "Ich möchte 800 Euro abheben.",
+            "Bitte geben Sie Ihren Code auf der Tastatur ein und unterschreiben Sie hier.",
+            "Natürlich.",
+            "Vielen Dank. Hier sind Ihre Karte und das Geld. Bitte prüfen Sie den Betrag noch einmal.",
+            "Alles in Ordnung. Vielen Dank für den tollen Service!"
+        ]
+    },
+    {
+        "id": 410,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Hi , I'd like to return this radio .",
+            "All right . Do you have the receipt ?",
+            "Here it is .",
+            "May I ask why you're returning the radio ?",
+            "It does not work very well .",
+            "Would you like to exchange it ?",
+            "No . I'd just like a refund .",
+            "Certainly . This will take only a few seconds ."
+        ],
+        "das_generated": [
+            "Guten Tag, ich würde gerne dieses Radio zurückgeben.",
+            "Guten Tag, natürlich. Haben Sie die Quittung dabei?",
+            "Ja, hier ist die Quittung.",
+            "Könnten Sie mir bitte den Grund für die Rückgabe des Radios nennen?",
+            "Das Radio funktioniert nicht richtig, es hat eine Fehlfunktion bei der Leistung.",
+            "Das tut mir leid zu hören. Möchten Sie das Radio gegen ein anderes umtauschen?",
+            "Nein, danke. Ich hätte lieber eine Rückerstattung.",
+            "Verstanden. Ich werde den Rückerstattungsprozess einleiten. Das sollte nur kurz dauern."
+        ]
+    },
+    {
+        "id": 805,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Where are you going to play this weekend ?",
+            "I have not given it much thought . Do you have any good suggestions ?",
+            "I want to spend two days in the mountains with friends . The city is too noisy . Do you know Tangle Temple ?",
+            "I have been there . It is in the middle of the mountains . It is not noisy there and you have to be a vegetarian .",
+            "Do you want to climb the mountain with us ?",
+            "Does it have enough lodging ?",
+            "No problem . The temple is quite large .",
+            "There are many ancient pine trees there . It is especially quiet at night . It is wonderful to listen to the monks chanting while listening to the soothing sound of the winds in the pine trees .",
+            "I'm getting a little excited now . What clothes should I wear ?",
+            "Take some thick clothes with you . It is rather cold there at night . If you wear the T-shirt you're wearing now , you will become a ' popsicle ' .",
+            "Anything else I should bring ?",
+            "If you like taking pictures , you may bring a camera with you .",
+            "Needless to say ."
+        ],
+        "das_generated": [
+            "Was hast du am Wochenende vor? Hast du schon Pläne?",
+            "Ich habe noch nicht wirklich darüber nachgedacht. Hast du irgendwelche Vorschläge?",
+            "Ich plane, für zwei Tage in die Alpen zu fahren. Der Stadtlärm geht mir wirklich auf die Nerven. Kennst du das Kloster Andechs?",
+            "Ja, ich war schon mal dort. Es liegt mitten in den Alpen und es ist wirklich ruhig dort. Außerdem ist es bekannt für seine vegetarische Küche.",
+            "Möchtest du mitkommen und mit uns auf einen Berg steigen?",
+            "Wie sieht es mit der Unterkunft im Kloster Andechs aus? Gibt es genug Platz?",
+            "Das Kloster ist ziemlich groß, da gibt es genug Platz.",
+            "Es gibt dort viele alte Kiefern und nachts ist es besonders ruhig. Ich liebe die Mönchsgesänge, die sind wirklich beeindruckend.",
+            "Das klingt spannend! Was sollte ich denn anziehen?",
+            "Nimm auf jeden Fall dicke Kleidung mit, es kann nachts ziemlich kalt werden. Und ich muss sagen, dein aktuelles Outfit ist vielleicht nicht das beste für die Berge!",
+            "Gibt es sonst noch etwas, das ich mitbringen sollte?",
+            "Wenn du gerne Fotos machst, solltest du deine Kamera mitnehmen.",
+            "Gute Idee, das mache ich!"
+        ]
+    },
+    {
+        "id": 1757,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Come in and have some coffee , Anna . The kids have just gone out to the mall to hang out with their friends .",
+            "I saw a lot of teenagers when Alan and I were there yesterday .",
+            "They spend hours there , especially on weekends .",
+            "Speaking of that trip , Alan bought a shirt at a department store , but the sleeves are too long . Do you know a seamstress or tailor who can shorten them ?",
+            "I know several . But wouldn't it be easier to take the shirt back and exchange it for the right size ?",
+            "Isn't that complicated ?",
+            "No , it's easy . We'll just take the shirt back to the men ’ s department and show them the sales slip . They'll exchange it for the correct size or give you a refund .",
+            "We ? Do you want to go with me ?",
+            "Sure . I love going to the mall .",
+            "What do you do there ... hang around , like the kids ?"
+        ],
+        "das_generated": [
+            "Möchtest du einen Kaffee? Die Kinder sind gerade ins Einkaufszentrum gegangen, um sich mit Freunden zu treffen.",
+            "Oh, gestern haben Thomas und ich auch ein paar Teenager im Einkaufszentrum gesehen.",
+            "Ja, die Teenager verbringen oft Stunden dort, besonders an den Wochenenden.",
+            "Thomas hat ein Hemd im Kaufhaus gekauft, aber die Ärmel sind zu lang. Kennst du einen Schneider, der sie kürzen könnte?",
+            "Ich kenne mehrere Schneider. Aber warum tauscht ihr das Hemd nicht einfach um? Das wäre einfacher.",
+            "Gibt es da keine Komplikationen beim Umtausch?",
+            "Nein, das ist ganz unkompliziert. Du kannst es einfach in der Herrenabteilung zurückbringen. Solange du den Kassenbon hast, tauschen sie es um oder erstatten dir das Geld.",
+            "Kommst du mit mir mit?",
+            "Natürlich, ich komme gerne mit. Ich mag es, ins Einkaufszentrum zu gehen.",
+            "Machst du dort auch ähnliche Dinge wie die Kinder?"
+        ]
+    },
+    {
+        "id": 3214,
+        "category": "School Life",
+        "original_dialogue": [
+            "Do you mind if I borrow the notes from last week ?",
+            "Were you here last week ?",
+            "I was unable to make it .",
+            "How come ?",
+            "I was sick that day , and couldn't make it .",
+            "Well , here are the notes .",
+            "Are there any more ?",
+            "Sorry , here you go .",
+            "Thanks a lot .",
+            "No problem ."
+        ],
+        "das_generated": [
+            "Könntest du mir vielleicht deine Notizen von der letzten Vorlesung leihen?",
+            "Klar, aber warum warst du denn nicht da?",
+            "Ich konnte leider nicht kommen.",
+            "Was war denn los?",
+            "Ich war an dem Tag krank und musste deshalb zu Hause bleiben.",
+            "Kein Problem, ich gebe dir gerne meine Notizen.",
+            "Hast du alle Notizen dabei?",
+            "Oh, tut mir leid, ich habe nicht alles dabei, aber ich kann dir die wichtigsten Sachen geben.",
+            "Danke dir, das hilft mir wirklich sehr!",
+            "Gern geschehen, kein Problem."
+        ]
+    },
+    {
+        "id": 2900,
+        "category": "School Life",
+        "original_dialogue": [
+            "Hello , Kate ! How are you doing ?",
+            "Fine , thanks . How are you ?",
+            "Fine . How are your term papers ?",
+            "Oh my lord . I haven't really started them .",
+            "How could it be ? They are due two weeks later .",
+            "I know but I was busy with my part-time job the last few days .",
+            "Kate , you know , I am thinking of getting a part-time job next year because I really need more money and I don't want to ask my parents for any more . But I'm so busy ! How am I going to work and study ? How do you do it ? Do you have some good tips on budgeting time ?",
+            "To be honest with you , Jason , I don't think I'm doing a very good job of balancing my schoolwork with my job . I'm always two steps behind . I've got to get back to the dorm and continue writing that paper . Say ! Why don ’ t you talk to your advisor ? And let me know !",
+            "My advisor ?"
+        ],
+        "das_generated": [
+            "Hallo Jonas! Wie geht's dir heute?",
+            "Hallo Katrin! Danke, mir geht's gut. Und dir?",
+            "Mir geht's auch gut, danke. Wie läuft's bei dir mit den Hausarbeiten?",
+            "Oh, ehrlich gesagt, habe ich noch gar nicht angefangen. Ich bin total überrascht, wie schnell die Zeit vergeht!",
+            "Was, wirklich? Die Hausarbeiten sind doch schon in zwei Wochen fällig!",
+            "Ja, ich weiß. Aber in den letzten Tagen war ich so beschäftigt mit meinem Teilzeitjob.",
+            "Ich überlege, nächstes Jahr auch einen Teilzeitjob anzunehmen, aber ich mache mir Sorgen, dass ich dann zu beschäftigt bin. Wie schaffst du es, Arbeit und Studium zu balancieren? Hast du irgendwelche Tipps fürs Zeitmanagement?",
+            "Um ehrlich zu sein, habe ich momentan auch Schwierigkeiten, alles unter einen Hut zu bekommen. Ich bin ziemlich hinterher. Ich werde heute Abend ins Wohnheim zurückgehen und weiter an meiner Arbeit schreiben. Vielleicht solltest du mal mit einem Studienberater sprechen. Lass mich wissen, was du davon hältst.",
+            "Was genau meinst du mit Studienberater? Meinst du, sie könnten mir bei der Planung helfen?"
+        ]
+    },
+    {
+        "id": 3149,
+        "category": "School Life",
+        "original_dialogue": [
+            "what do you hope to do when you finish university ?",
+            "I ’ d like to go into management . I ’ Ve applied for several jobs already and I ’ m hopeful that I ’ ll get some job offers . How about you ?",
+            "after I graduate , I have to do some more studies to pass exams to become a lawyer . I think I ’ Ve got a good chance of passing . There ’ s a possibility of getting a job with a law firm in London , provide",
+            "we both have to overcome several obstacles if we are to achieve our ambitions .",
+            "if life were easy , then we ’ d achieve our ambition quickly and then get bored .",
+            "unfortunately , it ’ s inevitable that some people are going to work hard yet not succeed .",
+            "that ’ s why ambition need to be realistic . You can ’ t achieve something that ’ s totally unrealistic .",
+            "as long as you plan carefully , most thing are possible . It ’ s always good to have a backup plan in case things go wrong .",
+            "I think it ’ s important to be successful in a field you are truly interested in , not something that other people force you to be interested it .",
+            "my father wanted me to become a doctor , but I knew it would be impossible for me to be successful in that field .",
+            "I hope my parents don ’ t try to interfere in my choice of career ."
+        ],
+        "das_generated": [
+            "Was hast du eigentlich nach der Uni vor? Hast du schon Pläne für deine Karriere?",
+            "Ich möchte gerne in die Unternehmensführung gehen. Ich habe mich schon auf einige Stellen beworben und hoffe, dass ich bald ein paar Angebote bekomme. Und du? Was hast du nach dem Studium vor?",
+            "Ich plane, mein Jurastudium fortzusetzen und bin zuversichtlich, dass ich meine Prüfungen bestehen werde. Vielleicht bekomme ich dann eine Stelle bei einer Kanzlei in Frankfurt.",
+            "Ich bin sicher, dass wir alle Hindernisse überwinden werden, um unsere Ziele zu erreichen.",
+            "Wenn alles zu einfach wäre, würden wir uns wahrscheinlich schnell langweilen, selbst wenn wir unsere Ambitionen schnell erreichen.",
+            "Es macht mich traurig, dass manche Menschen trotz harter Arbeit keinen Erfolg haben. Das ist leider oft so.",
+            "Ambitionen müssen realistisch sein. Wenn du realistische Ziele hast, kannst du sie auch erreichen.",
+            "Mit sorgfältiger Planung ist vieles möglich. Aber es ist immer gut, einen Plan B zu haben, falls etwas schiefgeht.",
+            "Ich finde, dass es wichtig ist, sich für das zu interessieren, was man macht. Das ist der Schlüssel zum Erfolg in der Karriere.",
+            "Mein Vater wollte immer, dass ich Arzt werde, aber ich glaube nicht, dass ich in der Medizin erfolgreich sein könnte.",
+            "Ich hoffe, dass unsere Eltern uns nicht zu sehr beeinflussen und wir unseren eigenen Weg gehen können."
+        ]
+    },
+    {
+        "id": 3474,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "You ready ?",
+            "Am I ready for what ?",
+            "Are you ready to transfer to a new school tomorrow ?",
+            "Oh . Yes , I ’ m ready to transfer .",
+            "You ’ re not nervous , are you ?",
+            "I ’ m very nervous .",
+            "Why are you nervous ?",
+            "I ’ m not going to know anybody there .",
+            "That ’ s not a problem .",
+            "That makes me nervous .",
+            "It ’ s fun meeting new people .",
+            "I didn ’ t think about it that way ."
+        ],
+        "das_generated": [
+            "Bist du bereit für morgen?",
+            "Bereit wofür genau?",
+            "Für den Schulwechsel natürlich. Bist du bereit dafür?",
+            "Ach so, ja. Ich denke schon, dass ich bereit bin.",
+            "Bist du nervös deswegen?",
+            "Ja, ziemlich nervös, um ehrlich zu sein.",
+            "Warum bist du so nervös?",
+            "Weil ich niemanden an der neuen Schule kenne.",
+            "Mach dir keine Sorgen, das wird schon. Du wirst schnell neue Freunde finden.",
+            "Ich hoffe es, aber ich bin trotzdem noch etwas nervös.",
+            "Denk doch mal daran, wie spannend es sein kann, neue Leute kennenzulernen!",
+            "Ja, du hast recht. Das könnte wirklich spannend werden."
+        ]
+    },
+    {
+        "id": 3472,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "Are you new here ?",
+            "This is my first day here .",
+            "Are you a freshman in college ?",
+            "I started school somewhere else .",
+            "What school did you transfer from ?",
+            "I started at PCC .",
+            "What made you transfer ?",
+            "My grades weren ’ t good enough to go here .",
+            "Did you like PCC ?",
+            "I loved PCC .",
+            "Good luck here .",
+            "I ’ m excited to be here ."
+        ],
+        "das_generated": [
+            "Wie läuft's denn so bei dir hier an der Uni?",
+            "Heute ist mein erster Tag hier, also alles noch ganz neu für mich.",
+            "Bist du dann im ersten Semester hier?",
+            "Nein, ich habe vorher woanders studiert.",
+            "Wo hast du denn vorher studiert?",
+            "Ich habe an der TU München angefangen.",
+            "Warum hast du dann gewechselt?",
+            "Meine Noten waren nicht gut genug, um dort weiterzumachen.",
+            "Hast du die TU München denn gemocht?",
+            "Ja, ich habe die TU München wirklich geliebt, es war eine tolle Erfahrung.",
+            "Ich wünsche dir hier viel Erfolg!",
+            "Danke, ich bin wirklich begeistert, hier zu sein!"
+        ]
+    },
+    {
+        "id": 3469,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "You ’ re ready , right ?",
+            "Ready for what ?",
+            "Are you ready to transfer tomorrow ?",
+            "Yes . I am ready .",
+            "You ’ re not nervous ?",
+            "Of course I ’ m nervous .",
+            "What are you most nervous about ?",
+            "I won ’ t know anybody at that school .",
+            "You shouldn ’ t be nervous about that .",
+            "Why not ?",
+            "Meeting new people is a good thing .",
+            "That ’ s a good way to think about it ."
+        ],
+        "das_generated": [
+            "Bist du bereit für morgen?",
+            "Bereit für was genau?",
+            "Für den Schulwechsel morgen, meine ich.",
+            "Ja, ich denke schon. Ich bin bereit.",
+            "Bist du nervös?",
+            "Ja, ziemlich nervös, um ehrlich zu sein.",
+            "Warum bist du so nervös?",
+            "Ich kenne dort niemanden.",
+            "Du musst nicht nervös sein.",
+            "Warum nicht?",
+            "Weil es gut ist, neue Leute kennenzulernen.",
+            "Ja, das stimmt. Das ist eine gute Einstellung."
+        ]
+    },
+    {
+        "id": 3450,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Your knowledge of English is really surprising .",
+            "Oh , it's nothing to speak of .",
+            "No , seriously . I am impressed .",
+            "Thank you . I appreciate the compliment .",
+            "Your knowledge of English is really surprising .",
+            "Oh , it's nothing to speak of .",
+            "No , seriously . I am impressed .",
+            "Thank you . I appreciate the compliment ."
+        ],
+        "das_generated": [
+            "Wow, Anna, dein Englisch ist wirklich beeindruckend geworden! Ich hätte nicht gedacht, dass du so fließend sprechen kannst.",
+            "Ach, danke, Lukas. Ich habe einfach viel geübt, aber es gibt noch so viel zu lernen.",
+            "Nein, wirklich, ich bin total beeindruckt. Du hast dich unglaublich verbessert.",
+            "Das ist lieb von dir, danke. Es bedeutet mir viel, das von dir zu hören.",
+            "Ehrlich, ich bin immer noch überrascht, wie gut du geworden bist. Es ist wirklich bemerkenswert.",
+            "Danke, aber ich finde, ich habe noch einen langen Weg vor mir. Es gibt immer Raum für Verbesserungen.",
+            "Trotzdem, ich bin wirklich beeindruckt von deinem Fortschritt. Du hast hart gearbeitet, das merkt man.",
+            "Vielen Dank, Lukas. Deine Unterstützung bedeutet mir wirklich viel."
+        ]
+    },
+    {
+        "id": 3523,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "What a great weekend that was !",
+            "My feelings exactly .",
+            "I really enjoy the beach in the summer .",
+            "I couldn't agree with you more .",
+            "We should come here more often .",
+            "You are absolutely right .",
+            "I'd like to come back next weekend .",
+            "That's exactly the way I feel ."
+        ],
+        "das_generated": [
+            "Lena: Dieses Wochenende war einfach fantastisch! Ich kann gar nicht glauben, wie viel Spaß wir hatten.",
+            "Anna: Absolut, es war wirklich toll.",
+            "Lena: Ich liebe es einfach, am Strand zu sein. Der Sommer hier ist wirklich etwas Besonderes.",
+            "Anna: Ja, der Strand ist wirklich wunderschön.",
+            "Lena: Wir sollten wirklich öfter hierher kommen.",
+            "Anna: Da bin ich ganz deiner Meinung.",
+            "Lena: Ich würde am liebsten schon nächstes Wochenende wieder zurückkommen.",
+            "Anna: Ja, das wäre großartig!"
+        ]
+    },
+    {
+        "id": 3519,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Did you go to the movie yesterday ?",
+            "Yes , I did .",
+            "What did you think of it ?",
+            "I don't think much of the film .",
+            "I think it is the worst one I have ever seen .",
+            "Oh , I'm not sure I agree with you . It was not a good one , but it was not the worst one . Actually , it wasn't too bad .",
+            "I can't think the same .",
+            "What's more , some scenes were good , much fit for the children .",
+            "I couldn't agree with you ."
+        ],
+        "das_generated": [
+            "Hast du den Film schon gesehen?",
+            "Ja, ich habe ihn letzte Woche gesehen.",
+            "Und, wie fandest du ihn?",
+            "Ehrlich gesagt, fand ich ihn nicht besonders gut.",
+            "Um genau zu sein, war es einer der schlechtesten Filme, die ich je gesehen habe.",
+            "Echt? Ich fand ihn gar nicht so schlecht. Vielleicht nicht großartig, aber für ein jüngeres Publikum ganz okay.",
+            "Da stimme ich dir nicht zu. Ich fand ihn wirklich enttäuschend.",
+            "Aber einige Szenen waren doch gut gemacht, besonders für Kinder.",
+            "Das sehe ich anders. Ich fand, dass selbst die Szenen für Kinder nicht überzeugend waren."
+        ]
+    },
+    {
+        "id": 5576,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Would you like to come out with me tonight ?",
+            "Sorry , I can ’ t .",
+            "Tomorrow night , then ?",
+            "I ’ d like to . But I ’ m afraid I can ’ t .",
+            "I was wondering if you like to go to the theatre then .",
+            "That sounds great .",
+            "Ok . How about give me a ring , then ?",
+            "No . I ’ d better not .",
+            "Why not ?",
+            "Because I don ’ t think my husband would like it . Thank you for inviting me anyway ."
+        ],
+        "das_generated": [
+            "Hey Anna, hast du Lust, heute Abend mit uns in den Biergarten zu gehen?",
+            "Oh, das klingt wirklich nett, aber ich kann heute Abend leider nicht.",
+            "Wie sieht's denn morgen Abend aus? Hättest du da Zeit?",
+            "Morgen Abend würde ich wirklich gerne mitkommen, aber es passt leider auch nicht.",
+            "Vielleicht könnten wir mal zusammen ins Theater gehen? Hättest du da Interesse?",
+            "Oh ja, das klingt fantastisch! Ich liebe Theater!",
+            "Super, dann könntest du mir ja Bescheid geben, wenn du Zeit hast.",
+            "Ich glaube, das mit dem Anrufen wird schwierig.",
+            "Warum denn nicht? Vielleicht in der Zukunft?",
+            "Mein Mann ist da nicht so begeistert von. Aber danke trotzdem für die Einladung!"
+        ]
+    },
+    {
+        "id": 7184,
+        "category": "Relationship",
+        "original_dialogue": [
+            "not a single email until now ? it's already twelve o'clock . I can't believe it !",
+            "can't bear it , right ? I've been there before . I'll feel comfortable if no one calls me or sends me text messages , like there is something missing .",
+            "yeah , that's right . If no one sends me test messages , I'll go crazy .",
+            "actually , this is a kind of addiction called \" infomania \" or \" information overload \" .",
+            "addiction ? checking emails and text messages often can be called an addiction ? no way !",
+            "yes , it is . Do you consider a frequent check of your income emails to be an integral part of your working day ?",
+            "absolutely .",
+            "do you have your cell phone with you wherever you go and check text messages and phone calls from time to time ?",
+            "yeah , it's a must . Otherwise , I may miss important phone calls and text messages .",
+            "do you open all your IM tools whenever you're using a computer ?",
+            "yes . MSN , QQ , Skype , Google Talk , Ali wangwang , everything , so that I'll be in touch with all friends and relatives .",
+            "now I can tell you're definitely addicted to the overflow of information ."
+        ],
+        "das_generated": [
+            "Wo sind eigentlich all die E-Mails geblieben? Ich kann kaum glauben, dass mein Posteingang heute so leer ist!",
+            "Geht's dir auch so? Ich hatte letztens ein ähnliches Erlebnis und fand es irgendwie unangenehm, nicht ständig kommunizieren zu können.",
+            "Ja, das kenne ich. Es macht mich richtig nervös, wenn ich keine Nachrichten bekomme.",
+            "Hast du schon mal von Infomanie gehört? Das ist quasi eine Sucht nach Informationen.",
+            "Sucht nach E-Mails und Nachrichten? Das kann doch nicht wahr sein!",
+            "Doch, das ist tatsächlich eine Art von Sucht. Wie wichtig ist es für dich, ständig deine E-Mails zu checken?",
+            "Ja, ich muss zugeben, das ist ziemlich wichtig für mich.",
+            "Wie oft benutzt du eigentlich dein Handy und wo?",
+            "Ich brauche es ständig, um in Kontakt zu bleiben, egal wo ich bin.",
+            "Und wie oft nutzt du Instant-Messaging-Tools?",
+            "Sehr oft, um mit anderen zu kommunizieren.",
+            "Ich glaube, ich bin wirklich süchtig nach Informationen."
+        ]
+    },
+    {
+        "id": 7140,
+        "category": "Relationship",
+        "original_dialogue": [
+            "hi , betty !",
+            "hi , Andy , how are you finding your new job ?",
+            "pretty good . My colleagues seem alright . So far everything is great .",
+            "that's nice . What do they have you doing over there ?",
+            "well , I work in the marketing department . The corporate culture is totally different from my last employer . Before , when I was assigned a task , I was totally on my own but here most of the work is don",
+            "that ' s really good . It's very important to feel like you are part of the team at work .",
+            "indeed . Team work is highly valued in this new company . I like our boss too . He is easy to get along with treats everybody with respect and appreciation . He's highly respected by all his employees .",
+            "that's great , that's good for a positive work environment and helps motivate employees . I wish my boss was like that .",
+            "true , take my former supervisor as an example . He was extremely controlling and overbearing . He always had to micromanage everything .",
+            "well , now you don't have to worry about that . This new place sounds really good .",
+            "yeah it is ."
+        ],
+        "das_generated": [
+            "Hallo Bettina, schön dich zu sehen!",
+            "Hallo Andreas! Wie läuft es denn bei deinem neuen Job?",
+            "Es läuft wirklich gut. Ich bin ziemlich zufrieden mit der neuen Stelle.",
+            "Das klingt super! Was genau machst du denn jetzt in der Marketingabteilung?",
+            "Ich arbeite in der Marketingabteilung und es ist wirklich spannend. Die Unternehmenskultur ist ganz anders als bei meinem letzten Arbeitgeber.",
+            "Das klingt toll! Eine gute Unternehmenskultur ist so wichtig. Der Teamzusammenhalt macht wirklich einen großen Unterschied.",
+            "Da stimme ich dir zu. Die Teamarbeit wird bei uns sehr geschätzt und mein Chef behandelt uns alle mit viel Respekt.",
+            "Das hört sich nach einem tollen Arbeitsumfeld an. Ich wünschte, mein Chef wäre auch so.",
+            "Ja, mein früherer Vorgesetzter war ziemlich kontrollierend.",
+            "Zum Glück hast du jetzt einen besseren Job gefunden. Das freut mich für dich.",
+            "Ja, da hast du recht."
+        ]
+    },
+    {
+        "id": 7715,
+        "category": "Tourism",
+        "original_dialogue": [
+            "OK , Mr . Wang . Thank you very much for coming to the airport to see us off . Your great country and your hospitality have left a very deep impression on all of us and your working attitude and your way of doing business have changed my opinions about Chinese people .",
+            "Really ? I'm glad to hear that .",
+            "That's true . And this trip has been a very productive one for us .",
+            "Thank you again for your visit . We are looking forward to your reply .",
+            "Believe me , Mr . Wang . I'll do my best to promote the transaction .",
+            "We are happy that we have established business relations . I really hope that we'll have more business to do and more opportunities to meet each other .",
+            "It ’ s very kind of you to say so .",
+            "You are very nice and helpful . Hope to see you again .",
+            "I think we will have opportunities to meet each other in the future .",
+            "OK , I think it's time for you to check in . If you run into any difficulty , we'll be here to assist you immediately .",
+            "Fine . Thank you very much . Bye-bye .",
+            "Goodbye ."
+        ],
+        "das_generated": [
+            "Herr Meier, ich möchte mich herzlich für Ihre großartige Gastfreundschaft bedanken. Ihre Arbeitsethik hat mich wirklich beeindruckt.",
+            "Vielen Dank, Herr Müller. Meinen Sie das wirklich? Es freut mich sehr, dass Sie so positiv über unseren Besuch denken.",
+            "Ja, absolut. Die Reise war sehr produktiv.",
+            "Ich danke Ihnen für Ihren Besuch. Ich freue mich schon auf Ihre Antwort.",
+            "Ich versichere Ihnen, dass ich unser Geschäft weiter fördern werde.",
+            "Das freut mich sehr zu hören. Ich hoffe auf viele zukünftige Geschäftsmöglichkeiten.",
+            "Vielen Dank für Ihre freundlichen Worte.",
+            "Ich bewundere Ihre Hilfsbereitschaft. Ich hoffe, wir treffen uns bald wieder.",
+            "Ich bin optimistisch, dass wir uns bald wiedersehen werden.",
+            "Das hoffe ich auch. Ich muss jetzt einchecken. Falls Sie Hilfe benötigen, lassen Sie es mich bitte wissen.",
+            "Vielen Dank für Ihr Hilfsangebot, Herr Meier. Auf Wiedersehen!",
+            "Auf Wiedersehen, Herr Müller!"
+        ]
+    },
+    {
+        "id": 8459,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Hi . I need a wake-up call tomorrow .",
+            "What time would you like your wake-up call ?",
+            "I need two calls , one at 7 and another at 7 fifteen .",
+            "That is no problem at all , of course . You'll get a call at 7 o'colock and another at 7 fifteen .",
+            "Then again , I think 7 fifteen is too early . Change 7 fifteen to 7 thirty , please .",
+            "So , that'll be a call at 7 and another at 7 thirty.Do you have any other requests ?",
+            "Not just now , but if I do think of something later , I'll give you a ring .",
+            "Okay , sir . Sleep well ."
+        ],
+        "das_generated": [
+            "Guten Morgen, Tanja. Ich habe hier eine Anfrage für einen Weckruf für morgen.",
+            "Guten Morgen, Christian. Um welche Uhrzeit soll der Weckruf stattfinden?",
+            "Der Gast hat um 7 Uhr und um 7:15 Uhr gebeten.",
+            "Alles klar, ich notiere den Weckruf für 7 Uhr und 7:15 Uhr.",
+            "Ich bin mir nicht ganz sicher, ob das die beste Entscheidung war. Könnten wir den Weckruf von 7:15 Uhr auf 7:30 Uhr ändern?",
+            "Natürlich, ich ändere den Weckruf auf 7 Uhr und 7:30 Uhr. Gibt es noch weitere Wünsche des Gastes?",
+            "Nein, im Moment gibt es keine weiteren Anfragen. Ich werde den Gast bei Bedarf kontaktieren.",
+            "Alles klar, danke. Ich wünsche Ihnen noch einen schönen Tag!"
+        ]
+    },
+    {
+        "id": 7673,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Is there a daily passenger ship to Dalian ?",
+            "Yes .",
+            "How many days does it take to Dalian ?",
+            "About one day . It arrives in Dalian at 10:00 a . m . tomorrow .",
+            "How many ports do we call at on our passage to Qingdao ?",
+            "Four ports .",
+            "The ship is going very fast .",
+            "Perhaps she makes about 25 knots an hour .",
+            "The sea is calm and peaceful . A sea trip is always enjoyable in fine weather like this .",
+            "Yes . I hope it will remain fine all the way ."
+        ],
+        "das_generated": [
+            "Sag mal, fährt dieses Passagierschiff eigentlich täglich nach Hamburg?",
+            "Ja, das Schiff fährt täglich nach Hamburg. Es gibt immer Plätze.",
+            "Und wie lange dauert die Fahrt nach Hamburg?",
+            "Die Fahrt dauert einen Tag. Wir kommen morgen um 10 Uhr in Hamburg an.",
+            "Hält das Schiff auch in Kiel?",
+            "Ja, es gibt vier Stopps in Kiel.",
+            "Das Schiff ist wirklich schnell unterwegs.",
+            "Ja, es fährt mit etwa 25 Knoten pro Stunde, denke ich.",
+            "Das Meer ist gerade so ruhig und friedlich. Ich genieße die Seereise bei diesem schönen Wetter wirklich.",
+            "Da stimme ich dir zu. Ich hoffe, das Wetter bleibt so gut für den Rest der Reise."
+        ]
+    },
+    {
+        "id": 8505,
+        "category": "Health",
+        "original_dialogue": [
+            "Why are you handing me a plastic cup ?",
+            "Your doctor wants to test your urine and needs a sample .",
+            "How am I supposed to do that ?",
+            "We need you to urinate like you normally would , and then stop and finish into the cup .",
+            "What am I supposed to do with the cup when I am done ?",
+            "Leave the cup in the cubby in the restroom . Just close the cubby door and walk away .",
+            "What kind of test is this ?",
+            "He wants to know if you have bacteria in your urine , which could signal an infection .",
+            "How long will it take to get the results ?",
+            "We will send your doctor the results , and he will contact you ."
+        ],
+        "das_generated": [
+            "Warum habe ich diesen Plastikbecher bekommen?",
+            "Der Arzt benötigt eine Urinprobe für einen Test.",
+            "Wie genau läuft das mit der Urinprobe ab?",
+            "Sie urinieren ganz normal und fangen dann etwas Urin im Becher auf.",
+            "Und was mache ich mit dem Becher, nachdem ich fertig bin?",
+            "Den Becher lassen Sie bitte im Fach im WC.",
+            "Welche Art von Test wird mit der Urinuntersuchung gemacht?",
+            "Der Arzt prüft auf Bakterien im Urin, um Anzeichen einer Infektion zu erkennen.",
+            "Wann bekomme ich die Testergebnisse?",
+            "Wir senden die Ergebnisse an Ihren Arzt."
+        ]
+    },
+    {
+        "id": 8503,
+        "category": "Health",
+        "original_dialogue": [
+            "What is that plastic cup for ?",
+            "Your doctor has requested a urine sample .",
+            "Am I supposed to pee into the cup ?",
+            "We want what we call a clean sample . Urinate a drop or so into the toilet , and then stop the flow and urinate into the cup .",
+            "Then what do I do with the cup ?",
+            "You put the cup in the little cubby in the restroom and close the door to the cubby .",
+            "What is this test for ?",
+            "He is looking to see if you have a bladder or urinary tract infection .",
+            "When will I know the results ?",
+            "Your doctor will call you in a few days with the results ."
+        ],
+        "das_generated": [
+            "Könnten Sie mir bitte sagen, wofür der Plastikbecher gedacht ist?",
+            "Der Arzt hat eine Urinprobe angefordert, um einige Tests durchzuführen.",
+            "Und wie genau soll ich das machen? Soll ich direkt in den Becher urinieren?",
+            "Ja, genau. Es ist wichtig, dass Sie zuerst auf die Toilette gehen und dann den Becher verwenden, um eine saubere Probe zu erhalten.",
+            "Was mache ich dann als nächstes mit dem Becher?",
+            "Nachdem Sie die Probe genommen haben, stellen Sie den Becher bitte in das dafür vorgesehene Fach.",
+            "Und wofür genau ist dieser Test gedacht?",
+            "Der Arzt möchte überprüfen, ob Sie möglicherweise eine Blasen- oder Harnwegsinfektion haben.",
+            "Wann kann ich mit den Ergebnissen rechnen?",
+            "Der Arzt wird Sie in einigen Tagen anrufen, um Ihnen die Ergebnisse mitzuteilen."
+        ]
+    },
+    {
+        "id": 8625,
+        "category": "Health",
+        "original_dialogue": [
+            "Good morning , doctor . I've been suffering very much from a toothache lately .",
+            "Well , let me have a look . Will you sit down in this chair and open your mouth wide ?",
+            "I think one of the back ones at the top is giving me the most trouble .",
+            "Yes . This big one is badly decayed . I'm afraid it must be taken out .",
+            "Oh , I hate having teeth pulled out . Will it hurt ?",
+            "No need to worry . You won't feel anything at all . I'll give you an injection to stop the pain . Just wash your mouth out with this water , will you ?",
+            "Will it take long ?",
+            "No , it'll be over soon . Nurse , get some X-rays of our patient's molars . Then we'll start . Open your mouth wide . Don't be so nervous . Now open wider ... now stay , that's over ...",
+            "Is it out ?",
+            "Not yet , but it soon will be . Now open again please ... It's out ! Look !",
+            "Well , really ! That was wonderful ! I felt no pain at all . Thank you , doctor ."
+        ],
+        "das_generated": [
+            "Guten Tag, ich habe im Moment starke Zahnschmerzen.",
+            "Bitte setzen Sie sich auf den Stuhl und öffnen Sie Ihren Mund.",
+            "Der Zahn hinten oben macht mir Probleme.",
+            "Der Zahn ist stark verfault und muss dringend entfernt werden.",
+            "Oh nein, ich mag Zahnextraktionen überhaupt nicht. Wird das sehr weh tun?",
+            "Keine Sorge, Sie werden keine Schmerzen spüren. Ich gebe Ihnen eine Injektion zur Schmerzlinderung. Bitte spülen Sie jetzt Ihren Mund.",
+            "Wie lange wird die Prozedur dauern?",
+            "Es wird nur kurz dauern. Frau Schmidt, könnten Sie bitte die Röntgenbilder der Molaren holen? Und öffnen Sie bitte wieder Ihren Mund. Sie machen das sehr gut.",
+            "Ist der Zahn schon draußen?",
+            "Gleich ist es soweit. Öffnen Sie bitte noch einmal Ihren Mund. Der Zahn ist jetzt entfernt.",
+            "Wow, das ging schnell! Ich bin so erleichtert, dass es nicht wehgetan hat. Vielen Dank für Ihre Hilfe, Frau Doktor."
+        ]
+    },
+    {
+        "id": 9753,
+        "category": "Work",
+        "original_dialogue": [
+            "Hello , BCD Company , can I help you ?",
+            "Hello , may I speak to Mrs Smith ?",
+            "This is Mrs Smith , may I have your name ?",
+            "This is Sun , and I interviewed with you yesterday .",
+            "Hello , Mr . Sun .",
+            "I am calling to thank you for giving me the interview for the Sales Manager position yesterday .",
+            "You are welcome , Mr . Sun .",
+            "I really enjoyed meeting with you .",
+            "You certainly made a good impression on me , as well .",
+            "I am very interested in this position .",
+            "We'll be making the decision by the end of this week and we'll contact you as soon as possible .",
+            "Well , thank you for your time and consideration again .",
+            "You are welcome ."
+        ],
+        "das_generated": [
+            "Guten Tag, wie kann ich Ihnen helfen?",
+            "Guten Tag, könnte ich bitte mit Frau Schmidt sprechen?",
+            "Ja, hier spricht Frau Schmidt. Darf ich Ihren Namen erfahren?",
+            "Ja, hier ist Herr Sonnenschein. Ich hatte gestern ein Vorstellungsgespräch.",
+            "Guten Tag!",
+            "Ich rufe an, um mich herzlich für das Interview zu bedanken.",
+            "Vielen Dank für Ihre Dankbarkeit.",
+            "Es hat mich sehr gefreut, Sie kennenzulernen.",
+            "Ich hatte auch einen sehr positiven Eindruck von Ihnen.",
+            "Ich bin sehr an der Position interessiert.",
+            "Wir werden unsere Entscheidung bis Ende der Woche treffen und uns dann sofort bei Ihnen melden.",
+            "Vielen Dank für Ihre Zeit und Überlegung.",
+            "Gern geschehen."
+        ]
+    },
+    {
+        "id": 9674,
+        "category": "Work",
+        "original_dialogue": [
+            "Good morning , Miss Monica . Nice to meet you again !",
+            "Good morning , Mr . Thomas , it is nice to see you too .",
+            "After the internal discussion , we have all agreed that you are the most suitable person for this position among all the candidates . So , today let ’ s talk about your expected salary and social benefits . What is your expected salary ?",
+            "I ’ Ve worked in the field for more than 4 years . Depend on my work qualifications and experience , I would like to have 5000 Yuan to start .",
+            "The basic salary for this position in our company would be 4800 Yuan to start with increases giving according to your performance .",
+            "It is a bit lower than I expected . But I can accept that . What are the working hours ?",
+            "40 hours a week , Monday to Friday , 9 AM to 5 PM with one hour lunch break every day ..",
+            "Do I have to work on weekend ? If so , how do you pay for the overtime ?",
+            "We do expect overtime work when it is necessary , but we pay twice of the work hour for working on weekends and three times for working on national holidays like Spring Festival and the Mid-Autumn Day .",
+            "Is there probation ?",
+            "No probation is involved . If you feel good , you can start next week ."
+        ],
+        "das_generated": [
+            "Guten Tag, Frau Schneider. Schön, dass Sie heute hier sind.",
+            "Guten Tag, Herr Müller. Vielen Dank für die Einladung.",
+            "Wir haben intern über Ihre Eignung für die Position gesprochen und sind zu einer positiven Einigung gekommen.",
+            "Lassen Sie uns nun über das erwartete Gehalt und die sozialen Leistungen sprechen.",
+            "Was sind Ihre Gehaltsvorstellungen?",
+            "Ich habe vier Jahre Berufserfahrung in der Branche.",
+            "Aufgrund meiner Qualifikationen und Erfahrung stelle ich mir ein Gehalt von 5000 Euro vor.",
+            "Unser Grundgehalt für diese Position liegt bei 4800 Euro, mit der Möglichkeit leistungsabhängiger Erhöhungen.",
+            "Das ist etwas enttäuschend, aber ich verstehe.",
+            "Ich akzeptiere das Gehaltsangebot.",
+            "Wie sind die Arbeitszeiten für diese Position?",
+            "Die Arbeitszeiten sind von Montag bis Freitag, 9 Uhr bis 17 Uhr, mit einer 40-Stunden-Woche und einer Stunde Mittagspause.",
+            "Muss ich auch am Wochenende arbeiten?",
+            "Wie sieht es mit der Überstundenvergütung bei Wochenendarbeit aus?",
+            "Überstunden sind nur bei Notwendigkeit zu erwarten. Die Vergütung beträgt das Doppelte bei Wochenendarbeit und das Dreifache an Feiertagen.",
+            "Gibt es eine Probezeit für die Position?",
+            "Nein, es gibt keine Probezeit.",
+            "Wir würden uns freuen, wenn Sie nächste Woche starten könnten, wenn Sie ein gutes Gefühl haben."
+        ]
+    },
+    {
+        "id": 9472,
+        "category": "Work",
+        "original_dialogue": [
+            "Good morning .",
+            "Er , good morning , yes , er ...",
+            "I'm phoning about the job that was in the paper last night .",
+            "Oh , yes.Erm , well , could you tell me your name , please ?",
+            "Oh , Candida Fawcett .",
+            "Oh , yes.Erm , well , what exactly is it that interests you about the job ?",
+            "Well , I just thought that it was right up my street you know .",
+            "Really , hmmmm.Erm , well , could you perhaps tell me a little about yourself ?",
+            "Yes , arm , I'm 23 . I've been working abroad , I'm um ...",
+            "Where exactly have you been working , please ?"
+        ],
+        "das_generated": [
+            "Guten Tag, Herr Müller.",
+            "Guten Tag. Wie kann ich Ihnen helfen?",
+            "Ich rufe an wegen der Stellenanzeige, die ich gestern Abend in der Süddeutschen Zeitung gesehen habe.",
+            "Könnten Sie mir bitte Ihren Namen nennen?",
+            "Ja, natürlich. Mein Name ist Clara Fischer.",
+            "Was interessiert Sie an der Stelle?",
+            "Ich denke, die Stelle passt gut zu meinen Fähigkeiten und Interessen, besonders im Bereich internationales Geschäft.",
+            "Könnten Sie mir bitte ein wenig über sich erzählen?",
+            "Gerne. Ich bin 23 Jahre alt und habe in den letzten zwei Jahren im Ausland gearbeitet.",
+            "Wo genau haben Sie gearbeitet, wenn ich fragen darf?"
+        ]
+    },
+    {
+        "id": 10125,
+        "category": "Politics",
+        "original_dialogue": [
+            "You voted , right ?",
+            "You know I did .",
+            "Who did you vote for ?",
+            "I voted for Obama , of course !",
+            "Can you believe that he actually won ?",
+            "I knew he would win .",
+            "I didn ’ t think he would .",
+            "He was the top candidate .",
+            "I figured people wouldn ’ t vote for him because he ’ s African American .",
+            "That just goes to show that America is finally turning over a new leaf .",
+            "You ’ re absolutely right .",
+            "I ’ m excited that Barack Obama is our President ."
+        ],
+        "das_generated": [
+            "Hast du bei der Wahl abgestimmt?",
+            "Ja, ich habe gewählt.",
+            "Wen hast du gewählt?",
+            "Ich habe für Merkel gestimmt.",
+            "Glaubst du, dass Merkel gewinnen würde?",
+            "Ja, ich dachte schon, dass sie gewinnen würde.",
+            "Ich war mir da nicht so sicher.",
+            "Merkel war ja die Top-Kandidatin.",
+            "Ich dachte, dass viele Menschen nicht für Merkel stimmen würden, weil sie eine Frau ist.",
+            "Aber Deutschland verändert sich gerade, es gibt sozialen Fortschritt.",
+            "Da hast du recht.",
+            "Ich bin wirklich begeistert von Merkels Kanzlerschaft!"
+        ]
+    },
+    {
+        "id": 10168,
+        "category": "Politics",
+        "original_dialogue": [
+            "Did you see who the suspect was ?",
+            "I got a perfect look at the suspect .",
+            "Would you be able to pick him out of a line-up ?",
+            "That'll be easy .",
+            "Please take a careful look at these five men .",
+            "Okay .",
+            "Is the suspect in this line ?",
+            "I see him .",
+            "Which number is he ?",
+            "The suspect is number four .",
+            "Your cooperation is very much appreciated .",
+            "I'm happy to be of assistance ."
+        ],
+        "das_generated": [
+            "Können Sie mir bitte erzählen, was Sie über den Verdächtigen beobachtet haben?",
+            "Ja, ich habe den Verdächtigen sehr genau gesehen und kann mich gut an ihn erinnern.",
+            "Glauben Sie, dass Sie den Verdächtigen in einer Gegenüberstellung identifizieren können?",
+            "Ja, ich bin mir sehr sicher, dass ich das kann.",
+            "Könnten Sie sich bitte die fünf Männer ansehen und uns sagen, ob Sie den Verdächtigen erkennen?",
+            "Natürlich, das mache ich gerne.",
+            "Können Sie mir sagen, ob der Verdächtige in der Reihe steht?",
+            "Ja, ich habe ihn erkannt.",
+            "An welcher Position steht der Verdächtige in der Gegenüberstellung?",
+            "Er steht an Position Nummer vier.",
+            "Vielen Dank für Ihre Hilfe und Zusammenarbeit.",
+            "Gern geschehen, ich bin froh, dass ich helfen konnte."
+        ]
+    },
+    {
+        "id": 10179,
+        "category": "Politics",
+        "original_dialogue": [
+            "911 . What can I do for you ?",
+            "I am reporting a break-in .",
+            "When did it happen ?",
+            "It happened last night .",
+            "Where did it happen ?",
+            "It happened at my house .",
+            "What was taken ?",
+            "I don't know .",
+            "How do you know there was a break-in ?",
+            "Someone busted my window .",
+            "I will send a squad car to your house right now .",
+            "Please do ."
+        ],
+        "das_generated": [
+            "Notruf 112, wie kann ich Ihnen helfen?",
+            "Hallo, ich möchte einen Einbruch melden.",
+            "Wann hat der Einbruch stattgefunden?",
+            "Das muss letzte Nacht passiert sein.",
+            "Wo genau ist der Einbruch passiert?",
+            "In meinem Haus.",
+            "Können Sie mir sagen, was gestohlen wurde?",
+            "Ich bin mir nicht sicher, ich muss noch alles überprüfen.",
+            "Gibt es irgendwelche Beweise für den Einbruch, die Sie bemerkt haben?",
+            "Ja, ein Fenster ist beschädigt.",
+            "Ich schicke sofort einen Streifenwagen zu Ihnen.",
+            "Danke, das wäre sehr hilfreich."
+        ]
+    },
+    {
+        "id": 10134,
+        "category": "Finance",
+        "original_dialogue": [
+            "As an existing banker , that will speed up the process . You said you had the documents with you ?",
+            "That's right . Here you go .",
+            "Before I verify those , I need you to fill in some forms . Then , as I said , I need to see valid credentials , your occupation and income details ...",
+            "OK , as I expected . How much will you allow me to borrow ? I mean , I don't need a massive sum of money .",
+            "You are authorized to borrow up to 20,000 RIB , with a repayment period of up to 1 year .",
+            "That'll be enough , and the repayment period sounds good to me .",
+            "We can also look at your current credit status and adjust the interest accordingly .",
+            "How soon before this goes through ?",
+            "If you sort out all of the paperwork today , you could have your loan by the end of the week .",
+            "Perfect . So , I guess my next job is to go to the newsagent and buy some car magazines . Thanks for everything ."
+        ],
+        "das_generated": [
+            "Herr Schmidt, um den Prozess zu beschleunigen, haben Sie alle erforderlichen Dokumente dabei?",
+            "Ja, Frau Müller, ich habe alle Unterlagen mitgebracht.",
+            "Bitte füllen Sie diese Formulare aus und geben Sie mir Ihre Ausweisdokumente, damit wir schnell weitermachen können.",
+            "Natürlich, das mache ich gleich. Wie hoch wird der Kreditbetrag sein?",
+            "Sie sind für einen Kredit von 20.000 Euro autorisiert, mit einer Laufzeit von einem Jahr.",
+            "Das klingt sehr gut, danke.",
+            "Ich schlage vor, dass wir auch Ihren Schufa-Status überprüfen, um eventuell die Zinsen anzupassen.",
+            "Wie lange wird die Bearbeitung des Kredits dauern?",
+            "Wenn wir heute alle Unterlagen abschließen, können Sie den Kredit bis Ende der Woche erhalten.",
+            "Das freut mich sehr zu hören, Frau Müller. Vielen Dank für Ihre Hilfe!"
+        ]
+    },
+    {
+        "id": 10534,
+        "category": "Finance",
+        "original_dialogue": [
+            "I hate to be the bearer of bad news , but it's that time of year again . Have you got your performance evaluations finished yet ?",
+            "Oh no ! Evaluations ! You can tell that's not my favorite job ; I haven't even started yet . When is the deadline for turning in thecompleted forms ?",
+            "Well , you do still have three weeks . But remember the employee must sign them , too . Filling them in is nothing - it's meetingwith the employees that takes so much time .",
+            "I never know how to rate the employees ' work . Of course attendance and productivity are easy , I just look at the sales figures .",
+            "So it's the subjective criteria like team building and colleague support that you find hard ?",
+            "Exactly ! Attitude ... how do you rate attitude ?",
+            "I suggest letting each employee fill out his or her own evaluation for those items . Then , based on their self - assessment , you can add your comments . It's a great starting point for discussion",
+            "Great idea . And after all , that's the whole point of an evaluation . I almost can't wait to give it a try ."
+        ],
+        "das_generated": [
+            "Ich bin mir nicht ganz sicher, wie ich Ihnen das sagen soll, aber ich habe einige nicht so gute Nachrichten. Wie weit sind Sie mit den Leistungsbewertungen?",
+            "Ehrlich gesagt, ich mag diese Bewertungen überhaupt nicht. Ich habe noch nicht einmal angefangen. Wissen Sie, wann die Formulare fertig sein müssen?",
+            "Keine Sorge, Sie haben noch drei Wochen Zeit. Die Mitarbeiter müssen die Formulare auch noch unterschreiben. Ich finde diese Treffen mit den Mitarbeitern manchmal etwas zeitaufwendig.",
+            "Ich bin mir nicht sicher, wie ich die Mitarbeiter bewerten soll. Die Anwesenheit und Produktivität sind einfach zu bewerten, besonders wenn man sich die Verkaufszahlen ansieht.",
+            "Haben Sie Schwierigkeiten mit den subjektiven Kriterien?",
+            "Ja, das stimmt. Wie gehen Sie bei der Bewertung vor?",
+            "Ich schlage vor, dass Sie die Mitarbeiter eine Selbsteinschätzung zu den subjektiven Punkten machen lassen. Dann können Sie Ihre Kommentare auf dieser Grundlage hinzufügen. Das ist ein guter Ausgangspunkt für eine Diskussion über die wahrgenommene Qualität.",
+            "Das ist eine großartige Idee! Ich freue mich darauf, diesen Vorschlag auszuprobieren."
+        ]
+    },
+    {
+        "id": 10224,
+        "category": "Finance",
+        "original_dialogue": [
+            "Good morning , Madam . What can I do for you ?",
+            "I'd like to withdraw 35,000 RIB from my Corporate Account .",
+            "Do you have an appointment ?",
+            "Yes , my name is Ms Jane Reeve , R-E-E-V-E .",
+            "Ah , yes , Ms Reeve . I have all of your information here . Do you have the cash cheque ?",
+            "Here you go .",
+            "I'm sorry Ms Reeve , it says 45,000 RIB here .",
+            "Oh , how silly of me . Can we correct it here ?",
+            "I'm sorry , we cannot make corrections on these . You'll have to bring another one with the correct amount , I'm afraid ."
+        ],
+        "das_generated": [
+            "Guten Tag, wie kann ich Ihnen heute helfen?",
+            "Guten Tag, ich möchte 35.000 Euro von meinem Firmenkonto abheben.",
+            "Haben Sie aktuell einen Termin bei uns?",
+            "Ja, auf den Namen Frau Jane Reeve, buchstabiert R-E-E-V-E.",
+            "Alles klar, Frau Reeve. Haben Sie einen Barscheck dabei?",
+            "Ja, ich habe einen Barscheck vorbereitet.",
+            "Es gibt allerdings eine Diskrepanz beim Betrag. Der Scheck ist über 45.000 Euro ausgestellt.",
+            "Oh, das ist mir peinlich. Kann ich den Scheck jetzt korrigieren?",
+            "Leider kann ich das nicht zulassen, da es gegen unsere Richtlinien verstößt. Bitte bringen Sie einen neuen Scheck mit dem korrekten Betrag."
+        ]
+    }
+]

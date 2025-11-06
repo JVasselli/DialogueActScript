@@ -1,0 +1,2358 @@
+[
+    {
+        "id": 1347,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "I’m a bit worried about you going shopping by yourself this afternoon.",
+            "Oh don’t worry, I’ll be fine.",
+            "But what will you do if you need to know the price of something?",
+            "If I need to know the price, I’ll just look at the label.",
+            "Ok, but what will you do if you want to check the size of the clothes?",
+            "I'll try them on.",
+            "And what will you do if you don’t have enough cash?",
+            "Then I’ll just use my credit card."
+        ],
+        "translated_dialogue": [
+            "我有点担心你今天下午一个人去购物。",
+            "哦，别担心，我会没事的。",
+            "但是如果你需要知道某样东西的价格怎么办？",
+            "如果我需要知道价格，我就看标签。",
+            "好的，但如果你想检查衣服的尺码怎么办？",
+            "我会试穿。",
+            "如果你现金不够怎么办？",
+            "那我就用信用卡。"
+        ]
+    },
+    {
+        "id": 2593,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "May I take your drink order while you are looking over your menu?",
+            "Yes, do you have a wine list?",
+            "The wine list is on the second page of your menu.",
+            "Do you have mixed drinks in this restaurant?",
+            "Yes, we have a full bar here.",
+            "I am not sure what I want. Do you have any house specials?",
+            "Actually, we are famous for our Cuervo Gold margaritas.",
+            "That sounds good! Please bring me one of those.",
+            "Would you like that drink blended or on the rocks?",
+            "I would like it blended.",
+            "Would you like it with salt or no salt?",
+            "I would like my margarita with no salt, thank you."
+        ],
+        "translated_dialogue": [
+            "在您查看菜单时，我可以为您点饮料吗？",
+            "好的，你们有酒单吗？",
+            "酒单在您菜单的第二页。",
+            "这家餐厅有混合饮料吗？",
+            "是的，我们这里有一个完整的酒吧。",
+            "我不太确定我想要什么。你们有特色饮品吗？",
+            "事实上，我们的Cuervo Gold玛格丽塔非常有名。",
+            "听起来不错！请给我来一杯。",
+            "您想要这杯饮料是搅拌的还是加冰块的？",
+            "我想要搅拌的。",
+            "您想要加盐还是不加盐？",
+            "我想要不加盐的玛格丽塔，谢谢。"
+        ]
+    },
+    {
+        "id": 2666,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "I heard there was an accident today.",
+            "Nobody told you what happened?",
+            "Tell me the news.",
+            "A truck turned over on the freeway.",
+            "Are you kidding?",
+            "I am completely serious.",
+            "Did anyone get hurt?",
+            "I believe that two people did get hurt.",
+            "Were the injuries minor?",
+            "I believe so.",
+            "That's great to hear.",
+            "Yes, it is."
+        ],
+        "translated_dialogue": [
+            "我听说今天发生了一起事故。",
+            "没有人告诉你发生了什么吗？",
+            "告诉我消息。",
+            "一辆卡车在高速公路上翻车了。",
+            "你在开玩笑吗？",
+            "我完全是认真的。",
+            "有人受伤吗？",
+            "我相信有两个人受伤了。",
+            "伤势轻吗？",
+            "我相信是的。",
+            "听到这个消息真好。",
+            "是的，确实如此。"
+        ]
+    },
+    {
+        "id": 293,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Tomorrow I will be the new owner of all dad's assets.",
+            "It still feels really strange to me.",
+            "I know. I miss him terribly.",
+            "How does it feel to be in charge of so much money?",
+            "I thought I would feel like I was in the lap of luxury.",
+            "I guess you could choose that if you wanted.",
+            "No, I think I will run things much the same way that Dad did.",
+            "Dad really knew what he was doing when he chose you to take over for him when he was gone!"
+        ],
+        "translated_dialogue": [
+            "明天我将成为爸爸所有资产的新主人。",
+            "我还是觉得很奇怪。",
+            "我知道。我非常想念他。",
+            "掌管这么多钱是什么感觉？",
+            "我以为我会觉得自己身处奢华之中。",
+            "如果你愿意，我想你可以选择那样。",
+            "不，我想我会像爸爸那样管理这些事情。",
+            "爸爸真的很清楚自己在做什么，他选择了你来接替他的位置！"
+        ]
+    },
+    {
+        "id": 2778,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "I am looking for a pan.",
+            "No problem. What size would you like?",
+            "A big one would be nice.",
+            "How about this one? It's our biggest — 16” in diameter.",
+            "Oh, yes. I like that one. But it's too heavy.",
+            "Okay, try this one. It's made of aluminum.",
+            "Oh, yes, this is much better. But it has an aluminum handle.",
+            "Here you go. Same pan, but with a state-of-the-art, heat-resistant plastic handle.",
+            "Yes, that's perfect. I'll take it.",
+            "Great. Will that be cash or charge?",
+            "Oh, wait a minute. What about a lid for the pan?",
+            "I'm sorry. I forgot to show you the lid. It comes with the pan."
+        ],
+        "translated_dialogue": [
+            "我在找一个锅。",
+            "没问题。你想要多大的？",
+            "一个大一点的就好。",
+            "这个怎么样？这是我们最大的——直径16英寸。",
+            "哦，是的。我喜欢这个。但它太重了。",
+            "好的，试试这个。它是铝制的。",
+            "哦，是的，这个好多了。但它有一个铝制的手柄。",
+            "给你。还是同样的锅，但配有最先进的耐热塑料手柄。",
+            "是的，这很完美。我就要这个。",
+            "好的。是现金还是刷卡？",
+            "哦，等一下。锅盖呢？",
+            "对不起。我忘了给你看锅盖。它是和锅一起的。"
+        ]
+    },
+    {
+        "id": 3061,
+        "category": "School Life",
+        "original_dialogue": [
+            "How should we commemorate the centenary of the founding of the university? We have been given quite a large budget to pay for some events.",
+            "We should certainly hold a big party for the professors and students. We could have a firework display.",
+            "Do you think that we should invite alumni and former professors?",
+            "If we do, too many people might attend. Perhaps we should invited all of them, but make a small charge to attend.",
+            "Good idea. We should also hold a series of presentations. We could have presentations on the history of the university, the courses we offer, and our links with other universities.",
+            "Good idea! I think we could also have presentations by former students on how their experience here helped them in their lives.",
+            "We could have another on the successes of graduates from here.",
+            "I think that we could also produce some merchandise for the centenary-you know, T-shirts, mugs, plates, pens, and things like that.",
+            "That’s an excellent idea. Hopefully, we would be able to make a profit! A few professors and students are writing a book on the history of the university.",
+            "I’m looking forward to reading that. We could have book signings by famous professors an alumni.",
+            "A group of students from the art and music faculty are producing a short film.",
+            "I’m sure that will be very popular... OK, let’s think about how we can put these ideas into practice."
+        ],
+        "translated_dialogue": [
+            "我们应该如何纪念大学成立一百周年？我们获得了相当大的预算来支付一些活动。",
+            "我们当然应该为教授和学生举办一个大型聚会。我们可以放烟花。",
+            "你认为我们应该邀请校友和前教授吗？",
+            "如果我们这样做，可能会有太多人参加。也许我们应该邀请所有人，但收取少量费用。",
+            "好主意。我们还应该举办一系列演讲。我们可以介绍大学的历史、我们提供的课程以及我们与其他大学的联系。",
+            "好主意！我认为我们还可以让以前的学生介绍他们在这里的经历如何帮助了他们的生活。",
+            "我们可以再举办一个关于这里毕业生成功的演讲。",
+            "我认为我们还可以为百年纪念制作一些商品，比如T恤、杯子、盘子、笔之类的。",
+            "这是个很好的主意。希望我们能盈利！一些教授和学生正在撰写一本关于大学历史的书。",
+            "我很期待阅读那本书。我们可以请著名教授和校友来签书。",
+            "艺术和音乐学院的一组学生正在制作一部短片。",
+            "我相信那会很受欢迎……好的，让我们想想如何将这些想法付诸实践。"
+        ]
+    },
+    {
+        "id": 2935,
+        "category": "School Life",
+        "original_dialogue": [
+            "Can I help you?",
+            "Yes. I am interested in applying for graduate school in America.",
+            "We have some catalogues from U.S. universities. You may check in the reference stacks over there.",
+            "Can you recommend some universities with good graduate schools?",
+            "Well, generally in the U.S. each university has its own outstanding fields. But the graduate school accepts no applications after January 29th.",
+            "Oh, no. It's already February 5th.",
+            "So you have to apply to begin the first semester next year.",
+            "I will think about it."
+        ],
+        "translated_dialogue": [
+            "我能帮你吗？",
+            "是的。我对申请美国的研究生院感兴趣。",
+            "我们有一些美国大学的目录。你可以在那边的参考书架上查看。",
+            "你能推荐一些有优秀研究生院的大学吗？",
+            "嗯，一般来说，美国的每所大学都有自己的优势领域。但是研究生院在1月29日之后不再接受申请。",
+            "哦，不。现在已经是2月5日了。",
+            "所以你必须申请明年第一学期开始。",
+            "我会考虑的。"
+        ]
+    },
+    {
+        "id": 3074,
+        "category": "School Life",
+        "original_dialogue": [
+            "Do you offer a course in business management?",
+            "Yes, we do.",
+            "How many nights a week is it?",
+            "It's 3 nights a week, Monday, Tuesday and Thursday.",
+            "And how long does the course last?",
+            "It lasts for 9 months.",
+            "When does it start?",
+            "The next beginning class starts on October 25th.",
+            "What time is the class?",
+            "From 7 to 9 o'clock.",
+            "How much does it cost?",
+            "It costs 125 dollars a month.",
+            "Yes, that's all right. I want to enroll in the course.",
+            "Thank you, please fill out this form for us.",
+            "Do you want me to fill it out now?",
+            "Yes, please. we need a record of you education and your work experiences."
+        ],
+        "translated_dialogue": [
+            "你们有开设商业管理课程吗？",
+            "是的，我们有。",
+            "每周上几晚课？",
+            "每周三晚，周一、周二和周四。",
+            "课程持续多长时间？",
+            "持续9个月。",
+            "什么时候开始？",
+            "下一期开课是10月25日。",
+            "课程时间是几点？",
+            "从7点到9点。",
+            "费用是多少？",
+            "每月125美元。",
+            "好的，没问题。我想报名参加这个课程。",
+            "谢谢，请填写这张表格。",
+            "你希望我现在填写吗？",
+            "是的，请填写。我们需要你的教育背景和工作经历记录。"
+        ]
+    },
+    {
+        "id": 3189,
+        "category": "School Life",
+        "original_dialogue": [
+            "Excuse me, I need your assistance.",
+            "Sure, what's up?",
+            "I have no idea where my class is.",
+            "Tell me which building it's in.",
+            "My class is in the C building.",
+            "I know where the C building is.",
+            "Do you mind telling me where it is?",
+            "Of course, which room number is it?",
+            "Number 261.",
+            "I actually have a class right around there.",
+            "Can you please show me?",
+            "I can do that."
+        ],
+        "translated_dialogue": [
+            "打扰一下，我需要你的帮助。",
+            "当然，怎么了？",
+            "我不知道我的课在哪。",
+            "告诉我在哪栋楼。",
+            "我的课在C楼。",
+            "我知道C楼在哪。",
+            "你介意告诉我它在哪吗？",
+            "当然，房间号是多少？",
+            "261号。",
+            "我正好在那附近有课。",
+            "你能带我去吗？",
+            "我可以。"
+        ]
+    },
+    {
+        "id": 2916,
+        "category": "School Life",
+        "original_dialogue": [
+            "Who are we going to play with today?",
+            "We are playing against Hainan.",
+            "Oh, the basketball team from No. 1 College? I know they're a tough team.",
+            "Sure they are.",
+            "Who's winning?",
+            "We are, 27 to 26.",
+            "Really? I thought that they'd been killing us by now.",
+            "How can it be? We are a tough team as well."
+        ],
+        "translated_dialogue": [
+            "我们今天要和谁比赛？",
+            "我们要和海南队比赛。",
+            "哦，是第一学院的篮球队吗？我知道他们是个强队。",
+            "当然是。",
+            "谁领先？",
+            "我们领先，27比26。",
+            "真的吗？我还以为他们早就把我们打得落花流水了。",
+            "怎么可能？我们也是个强队。"
+        ]
+    },
+    {
+        "id": 3458,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "OK class, so today we are going to continue with our anatomy class, today we will review everything we have learned. Can anyone tell me what the first major organ is?",
+            "The brain!",
+            "That's right, the brain! It serves as a control center for the body, handling the processes of the central nervous system as well as cognition. Then what major organ is in our chest?",
+            "The heart!",
+            "Very good! It pumps blood throughout the body, using the circulatory system such as blood vessels and veins. Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive! Now what about the organs that help us digest food?",
+            "The stomach and intestines!",
+            "Very good! Let's not forget that the stomach is the one that breaks down our food and our intestines process that food and then expel the waste. Are we forgetting anything?",
+            "Yeah! Our kidneys, liver and bladder!",
+            "Oh yes, you are right. Very important organs indeed.",
+            "So what do these organs do, teacher?",
+            "Well, mumm, they... Time for a break! We can talk about it when you get back."
+        ],
+        "translated_dialogue": [
+            "好的，同学们，今天我们将继续我们的解剖课，今天我们将复习我们所学的一切。谁能告诉我第一个主要器官是什么？",
+            "大脑！",
+            "没错，是大脑！它是身体的控制中心，负责处理中枢神经系统的过程以及认知。那么我们胸部的主要器官是什么？",
+            "心脏！",
+            "很好！它通过血管和静脉等循环系统将血液泵送到全身。现在别忘了我们的肺为心脏和身体提供氧气以维持生命！那么帮助我们消化食物的器官是什么？",
+            "胃和肠！",
+            "很好！别忘了胃是分解食物的器官，而肠道则处理食物并排出废物。我们忘记了什么吗？",
+            "是的！我们的肾脏、肝脏和膀胱！",
+            "哦，是的，你说得对。这些确实是非常重要的器官。",
+            "那么这些器官有什么作用，老师？",
+            "嗯，嗯，它们……休息时间到了！我们可以等你回来再谈。"
+        ]
+    },
+    {
+        "id": 3310,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "Do you know where you want to transfer to?",
+            "I don’t have the slightest clue.",
+            "What school would you like to go to?",
+            "I’m not sure.",
+            "You honestly have no idea?",
+            "PCC is perfectly fine for me.",
+            "You might as well stay here.",
+            "That’s not a bad idea.",
+            "PCC is a wonderful institution.",
+            "You have a point.",
+            "So, what are you going to do?",
+            "I’m just going to keep going to PCC."
+        ],
+        "translated_dialogue": [
+            "你知道你想转到哪里去吗？",
+            "我一点头绪都没有。",
+            "你想去哪个学校？",
+            "我不确定。",
+            "你真的一点想法都没有吗？",
+            "PCC对我来说很好。",
+            "你不如就待在这里。",
+            "这主意不错。",
+            "PCC是一所很棒的学校。",
+            "你说得对。",
+            "那么，你打算怎么做？",
+            "我就继续在PCC上学。"
+        ]
+    },
+    {
+        "id": 3466,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "Are you new here?",
+            "Yes, I am.",
+            "Is this your first year in college?",
+            "I actually transferred here from another school.",
+            "Which school?",
+            "I transferred from PCC.",
+            "How do you like it here compared to PCC?",
+            "I love it here.",
+            "Do you like it better here or at PCC?",
+            "Don’t get me wrong. I like it here, but PCC is better.",
+            "So, why did you leave PCC?",
+            "Because I got my AA and now I am going towards my bachelor degree."
+        ],
+        "translated_dialogue": [
+            "你是新来的吗？",
+            "是的，我是新来的。",
+            "这是你在大学的第一年吗？",
+            "实际上，我是从另一所学校转过来的。",
+            "哪所学校？",
+            "我从PCC转过来的。",
+            "你觉得这里和PCC相比怎么样？",
+            "我很喜欢这里。",
+            "你更喜欢这里还是PCC？",
+            "别误会，我喜欢这里，但PCC更好。",
+            "那么，你为什么离开PCC？",
+            "因为我拿到了副学士学位，现在我正在攻读学士学位。"
+        ]
+    },
+    {
+        "id": 3173,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "I’ve always wondered, what’s the difference between English for Chinese students and English for native students?",
+            "I don’t know. What do you think?",
+            "I think a Chinese student concentrates on written English, and uses it as a basis for communicating. From start to finish he’s learning vocabulary and fundamentals of grammar. This is a very difficult way to learn.",
+            "What do natives get?",
+            "They get higher level English, which is more formal than everyday spoken English. They also deal with matters of style and creativity.",
+            "Do you mean that a native doesn’t make any mistakes in grammar?",
+            "Absolutely not! Native speakers make a lot of grammar mistakes, especially if they come from a home where nonstandard English is spoken.",
+            "I suppose that only a small percentage of college students don’t know standard English in American universities.",
+            "Actually there are more non-native speakers than you think. That’s why it’s so important to quit worrying about making mistakes. Just talk to everyone every chance you get."
+        ],
+        "translated_dialogue": [
+            "我一直在想，中国学生学的英语和母语学生学的英语有什么区别？",
+            "我不知道。你怎么看？",
+            "我认为中国学生更注重书面英语，并以此为基础进行交流。从头到尾，他们都在学习词汇和语法基础。这是一种非常困难的学习方式。",
+            "那母语者学什么呢？",
+            "他们学的是更高水平的英语，比日常口语更正式。他们还涉及风格和创造力的问题。",
+            "你的意思是母语者在语法上不会犯错吗？",
+            "当然不是！母语者也会犯很多语法错误，尤其是那些来自讲非标准英语家庭的人。",
+            "我想在美国大学里，只有很小一部分大学生不懂标准英语。",
+            "实际上，非母语者比你想象的要多。这就是为什么不必担心犯错是如此重要。只要有机会就和每个人交流。"
+        ]
+    },
+    {
+        "id": 3177,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "How's your time spent in the United States?",
+            "Well, pretty good.",
+            "I'm glad to hear that. What impressed you most?",
+            "Well, the cultural differences impressed me most.",
+            "You mean we Chinese think differently from the Americans?",
+            "That's right, quite different. One day one of my American friend looked pale, so I asked him whether he was sick or not. But he was reluctant to answer my question.",
+            "That's weird.",
+            "And what's more, when he told me he had caught a cold for several days, I suggested him to go to the hospital as soon as possible.",
+            "You really cared about your friend.",
+            "Sure I am. But he responded by saying 'what do you mean?'",
+            "I'm confused. Why did he say that?",
+            "I felt the same at first. Later he told me that I'd better not give him any suggestions when he was sick. Offering unsolicited help or advice is like showing sympathy to the weak or the poor. But back in China, helping others is always regarded being kind.",
+            "Absolutely. Now I understand why he responded that way."
+        ],
+        "translated_dialogue": [
+            "你在美国的时间过得怎么样？",
+            "嗯，挺好的。",
+            "很高兴听到这个。什么让你印象最深刻？",
+            "嗯，文化差异让我印象最深。",
+            "你是说我们中国人的思维方式和美国人不同吗？",
+            "没错，非常不同。有一天，我的一个美国朋友看起来脸色苍白，所以我问他是不是生病了。但他不太愿意回答我的问题。",
+            "这很奇怪。",
+            "更奇怪的是，当他说他感冒了好几天时，我建议他尽快去医院。",
+            "你真的很关心你的朋友。",
+            "当然。我很关心。但他回答说“你什么意思？”",
+            "我很困惑。他为什么这么说？",
+            "起初我也有同样的感觉。后来他告诉我，最好不要在他生病时给他任何建议。提供未经请求的帮助或建议就像是对弱者或穷人的同情。但在中国，帮助别人总是被认为是善良的表现。",
+            "确实如此。现在我明白他为什么那样回应了。"
+        ]
+    },
+    {
+        "id": 3875,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Can I help you, sir?",
+            "Yes, I've been sitting here for a few minutes. I'm waiting for someone to put gas in my car.",
+            "I'm sorry, sir. But this is the self-service pump.",
+            "Self-service?",
+            "Yes. You must fill up the car yourself.",
+            "Are you serious?",
+            "Yes. Are you traveling here?",
+            "Yes, I'm from Taiwan. I never heard of a gas station where you fill up your own car.",
+            "In America, most gas stations are like this.",
+            "Do I really have to do it? I don't know how.",
+            "Well, since this is your first time, I will do it for you.But next time, if you want a full-service gas station, you should look at the sign.",
+            "What sign?",
+            "Under the sign for the gas station, there will be a smaller sign that says Self-Serve or Full-Service. And some gas stations have both. But if they have both, some pumps will be self-serve and some will be full-serve. You have to look at the signs.",
+            "I see."
+        ],
+        "translated_dialogue": [
+            "先生，我可以帮您吗？",
+            "是的，我已经在这里坐了几分钟。我在等人给我的车加油。",
+            "对不起，先生。但这是自助加油泵。",
+            "自助？",
+            "是的。您必须自己给车加油。",
+            "你是认真的吗？",
+            "是的。您是来这里旅游的吗？",
+            "是的，我来自台湾。我从来没听说过需要自己加油的加油站。",
+            "在美国，大多数加油站都是这样的。",
+            "我真的必须自己加吗？我不知道怎么做。",
+            "好吧，既然这是您第一次，我会帮您加。但下次，如果您想要全服务的加油站，您应该看标志。",
+            "什么标志？",
+            "在加油站的标志下，会有一个较小的标志，上面写着自助或全服务。有些加油站两者都有。但如果两者都有，一些加油泵是自助的，一些是全服务的。您必须看标志。",
+            "我明白了。"
+        ]
+    },
+    {
+        "id": 3531,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "How about a movie tonight?",
+            "It doesn’t matter to me.",
+            "Does 7 o'clock suit you?",
+            "Either way. I don’t care.",
+            "How about a snack after work?",
+            "I couldn’t careless.",
+            "Would you rather stay home?",
+            "Whatever you say.",
+            "Are you really interested in doing something?",
+            "I don’t mind if you want to."
+        ],
+        "translated_dialogue": [
+            "今晚看电影怎么样？",
+            "我无所谓。",
+            "七点钟合适吗？",
+            "都行。我不在乎。",
+            "下班后吃点零食怎么样？",
+            "我无所谓。",
+            "你宁愿呆在家里吗？",
+            "随便你说。",
+            "你真的对做点什么感兴趣吗？",
+            "如果你想，我不介意。"
+        ]
+    },
+    {
+        "id": 3986,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "I was thinking of holding the company retreat in the mountains.",
+            "I agree, I think that that would be perfect!",
+            "I was thinking it could take place sometime in January.",
+            "That might be a little too cold for some people.",
+            "Yes, you are right.",
+            "What about April? April has good weather that isn't too cold or too hot.",
+            "Yes, that would work out better.",
+            "You know, maybe we could take a survey to see how that works for everyone.",
+            "Good idea! We'll have to get right on it.",
+            "Fine! Well, I'll get right on it now!"
+        ],
+        "translated_dialogue": [
+            "我在想把公司度假安排在山里。",
+            "我同意，我觉得那会很完美！",
+            "我在想可以安排在一月份的某个时候。",
+            "对一些人来说可能有点太冷了。",
+            "是的，你说得对。",
+            "四月份怎么样？四月份的天气很好，不冷也不热。",
+            "是的，那样会更好。",
+            "你知道的，也许我们可以做个调查，看看大家的意见。",
+            "好主意！我们得马上着手去做。",
+            "好的！那么，我现在就去做！"
+        ]
+    },
+    {
+        "id": 3993,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "I was wondering if I could borrow the company van for a fundraiser this weekend.",
+            "Sure, I think that would be possible. Where is the fundraiser?",
+            "It is in the park downtown.",
+            "Would you need it for both Saturday and Sunday?",
+            "We will need it for Saturday only.",
+            "I think that would be OK. Who will be driving it?",
+            "Mary and I will be driving the van.",
+            "Could you drop it off on Sunday night?",
+            "Yes, we can do that. Can we borrow the chairs from the lunchroom also?",
+            "Yes, that would be fine. Just make sure that everything is returned by Sunday night."
+        ],
+        "translated_dialogue": [
+            "我想知道这个周末我能不能借用公司的面包车去参加一个募捐活动。",
+            "当然，我觉得这是可以的。募捐活动在哪里？",
+            "在市中心的公园里。",
+            "你需要在周六和周日都用到它吗？",
+            "我们只需要在周六用。",
+            "我觉得这样可以。谁来开车？",
+            "玛丽和我会开面包车。",
+            "你能在周日晚上把车送回来吗？",
+            "可以，我们可以做到。我们也可以借用餐厅的椅子吗？",
+            "可以，没问题。只要确保所有东西在周日晚上归还就行。"
+        ]
+    },
+    {
+        "id": 3392,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Ah! No! Damn it!",
+            "It's a blackout. Now I can't see Seinfeld.",
+            "So what? I just lost one hour's worth of work.",
+            "Really? How could you do that? Don't you save every couple minutes?",
+            "No, I didn't save this time.Damn it! And I'm sick of writing this paper. Now I have to write it all over again too.",
+            "I've had that problem too many times. So I learned to save.When I'm writing something, I save every three sentences or so. I don't want to lose anything.",
+            "I hate computers. Sometimes I think they cause more trouble than they're worth.",
+            "What are we going to do now?",
+            "I don't know. I feel like going out.",
+            "I wonder how much of the city is down.",
+            "It doesn't matter. I still can go out and buy a beer.",
+            "Maybe. But if there's a blackout, probably the pubs are closed.And besides, I know you have a political science exam tomorrow. I thought you had a lot of reading to do.",
+            "Yes, that's true. Damn! I just lost half my paper, and now I can't even do my homework.This is a bad time for this to happen.",
+            "I have a flashlight in my closet. If you want to use that to read, you can."
+        ],
+        "translated_dialogue": [
+            "啊！不！该死！",
+            "停电了。现在我看不了《宋飞正传》了。",
+            "那又怎样？我刚刚丢了一小时的工作。",
+            "真的吗？你怎么会这样？你不是每隔几分钟就保存一次吗？",
+            "不，这次我没保存。该死！我已经厌倦写这篇论文了。现在我还得重新写一遍。",
+            "我也遇到过太多次这种问题。所以我学会了保存。当我写东西时，我每三句话就保存一次。我不想丢掉任何东西。",
+            "我讨厌电脑。有时候我觉得它们带来的麻烦比它们的价值还多。",
+            "我们现在该怎么办？",
+            "我不知道。我想出去。",
+            "我想知道有多少地方停电了。",
+            "没关系。我还是可以出去买啤酒。",
+            "也许吧。但如果停电，酒吧可能关门了。而且，我知道你明天有政治学考试。我以为你有很多书要读。",
+            "是的，没错。该死！我刚刚丢了一半的论文，现在连作业都做不了。这真是个糟糕的时机。",
+            "我衣柜里有个手电筒。如果你想用它来看书，可以的。"
+        ]
+    },
+    {
+        "id": 7379,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Susan, good evening. Why are you so dressed up?",
+            "I'm on my way out to a New Year's banquet. How do I look? Is my make-up ok?",
+            "You look great. Your make-up is perfect.",
+            "Do your think I should wear a different dress?",
+            "No, the one you have on looks fabulous, especially with your hair like that.",
+            "Thanks for saying. Do you have any ideas which necklace I should wear?",
+            "With that dress I'd like to say your white diamond necklace would look perfect.",
+            "Thanks for helping out. Now Im ready, what are you doing tonight?",
+            "Not much, Just a house party with some friends.",
+            "Sounds fun. Anyone I know?",
+            "Yeah, most of the people are from my office.",
+            "Sounds like I'm missing out on a good time. Oh, well, there's always next year.",
+            "I'm sure you will have fun no matter where you go. Remember to take your bag."
+        ],
+        "translated_dialogue": [
+            "苏珊，晚上好。你为什么打扮得这么漂亮？",
+            "我正要去参加一个新年宴会。我看起来怎么样？我的妆还好吗？",
+            "你看起来很棒。你的妆很完美。",
+            "你觉得我应该换一件衣服吗？",
+            "不用，你穿的这件看起来很棒，特别是配上你的发型。",
+            "谢谢你这么说。你觉得我应该戴哪条项链？",
+            "配这件衣服，我觉得你的白色钻石项链会很完美。",
+            "谢谢你的帮助。我现在准备好了，你今晚有什么安排？",
+            "没什么特别的，只是和一些朋友在家里聚会。",
+            "听起来很有趣。有我认识的人吗？",
+            "是的，大多数人都是我办公室的同事。",
+            "听起来我错过了一个好时光。哦，好吧，总有明年。",
+            "我相信无论你去哪里都会玩得开心。记得带上你的包。"
+        ]
+    },
+    {
+        "id": 7561,
+        "category": "Relationship",
+        "original_dialogue": [
+            "I really love this meal.",
+            "Thanks. I was hoping that you would all enjoy this meal.",
+            "Where did you learn to cook these amazing dishes?",
+            "I got a really wonderful cookbook for my birthday and decided to try out a few of the recipes.",
+            "The chicken is out of this world!",
+            "I love that dish as well. It is coconut chicken with rice.",
+            "I was wondering if there was shrimp in the soup.",
+            "Yes, that soup has a shrimp base. I also added sea vegetables and lemon grass.",
+            "It worked out well that the wine that I brought to share seems to blend well with this meal.",
+            "I love this wine! It goes very well with the chicken."
+        ],
+        "translated_dialogue": [
+            "我真的很喜欢这顿饭。",
+            "谢谢。我希望你们都能喜欢这顿饭。",
+            "你是在哪里学会做这些美味的菜的？",
+            "我生日时收到了一本很棒的食谱，然后决定尝试一些菜谱。",
+            "这鸡肉真是太棒了！",
+            "我也很喜欢这道菜。这是椰子鸡配米饭。",
+            "我在想汤里是不是有虾。",
+            "是的，那汤是以虾为底。我还加了海菜和香茅。",
+            "我带来分享的酒似乎和这顿饭很搭配，真是太好了。",
+            "我喜欢这酒！它和鸡肉非常搭配。"
+        ]
+    },
+    {
+        "id": 7243,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Look, Bob. This is a photograph I took during my trip to Australia.",
+            "Let me see it, can I? This is a good photograph. Who are these people?",
+            "They’re people I met during the trip. That’s the ship we traveled on.",
+            "What a beautiful ship! Who’s this?",
+            "That’s the man I told you about. Remember?",
+            "Ah yes. The one who offered you a job in Australia.",
+            "That’s right.",
+            "Who’s this?",
+            "Guess!",
+            "It’s not you, is it?",
+            "That’s right. I grew a beard during the trip, but I shaved it off when I came home.",
+            "Why did you shave it off?",
+            "My wife didn’t like it!"
+        ],
+        "translated_dialogue": [
+            "看，鲍勃。这是我在澳大利亚旅行时拍的照片。",
+            "让我看看，可以吗？这是一张好照片。这些人是谁？",
+            "他们是我旅行时遇到的人。那是我们乘坐的船。",
+            "多漂亮的船啊！这是谁？",
+            "那是我跟你提过的那个人。记得吗？",
+            "啊，是的。就是那个在澳大利亚给你提供工作的人。",
+            "没错。",
+            "这是谁？",
+            "猜猜看！",
+            "不会是你吧？",
+            "没错。我在旅行时留了胡子，但回家后就剃掉了。",
+            "你为什么剃掉它？",
+            "我妻子不喜欢！"
+        ]
+    },
+    {
+        "id": 5232,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Would you like to go to a concert tonight?",
+            "I'd like to very much.",
+            "All right, then.There is one at the new concert hall.",
+            "Who's playing?",
+            "It's the Powell orchestra.",
+            "Do you know what they are playing?",
+            "They're doing a seventeenth-century program.",
+            "And who is directing?",
+            "Well, I'm not sure of his name, but I know it's going to be his farewell performance."
+        ],
+        "translated_dialogue": [
+            "你今晚想去听音乐会吗？",
+            "我很想去。",
+            "好吧，那么。在新音乐厅有一场。",
+            "谁在演奏？",
+            "是鲍威尔乐团。",
+            "你知道他们演奏什么吗？",
+            "他们在演奏十七世纪的曲目。",
+            "谁在指挥？",
+            "嗯，我不确定他的名字，但我知道这将是他的告别演出。"
+        ]
+    },
+    {
+        "id": 5324,
+        "category": "Relationship",
+        "original_dialogue": [
+            "It's nice and bright today, isn't it?",
+            "Yeah. The autumn is marvelous here.",
+            "How about winter?",
+            "That's a hard time. The air is cold and damp, and the road is often icy.",
+            "It's boring, right?",
+            "Sure.",
+            "Do you get much rain during the summer?",
+            "Plenty. We never worry about lack of rainwater in our area.",
+            "So you should bring an umbrella often.",
+            "That's right."
+        ],
+        "translated_dialogue": [
+            "今天阳光明媚，不是吗？",
+            "是的。这里的秋天很美。",
+            "那冬天呢？",
+            "那是个艰难的时期。空气又冷又潮湿，路面经常结冰。",
+            "很无聊，对吧？",
+            "当然。",
+            "夏天雨水多吗？",
+            "很多。我们从不担心我们地区缺少雨水。",
+            "所以你应该经常带伞。",
+            "没错。"
+        ]
+    },
+    {
+        "id": 8170,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Did you enjoy your weekend at the highland hotel? I heard it’s and excellent place to stay and has good facilities.",
+            "I had a wonderful time. The rooms are not very big, but they are well furnished. The restaurant is excellent and reasonably priced. There’s a sauna and a Jacuzzi.",
+            "Do they have a swimming pool?",
+            "No, they don’t. they have a beauty parlor, but I didn’t go there.",
+            "What’s the service like?",
+            "It’s very good. Check in and check out at the reception only took a few minutes. The wait staff is very good. A waiter recommended their baked fish, which tasted wonderful. The hotel was quite full, so I’d suggest making a reservation if you intend to go there. The hotel offers a discount at the weekends.",
+            "It sounds perfect. Did you have any complaints at all?",
+            "There was a problem with the internet access, so I couldn’t check my email, but I didn’t complain about it to the management.",
+            "I suppose you were happy to forget about the outside world.",
+            "Yes, I was. Here’s their business card.",
+            "Thanks. Was there a mina bar in the room?",
+            "No, there wasn’t. There is a bar on the ground floor and of course you can buy drinks in the restaurant to go with your meal.",
+            "One of the things I dislike about hotels is that everyone expects tips.",
+            "I know. At the inland hotel, they have an interesting policy. When you check out, you put some money in a special box at reception. Each evening, the money in the box is shared equally by the hotel staff."
+        ],
+        "translated_dialogue": [
+            "你在高地酒店的周末过得愉快吗？我听说那是个很棒的住宿地点，设施也很好。",
+            "我过得很愉快。房间不大，但布置得很好。餐厅很棒，价格也合理。还有桑拿和按摩浴缸。",
+            "他们有游泳池吗？",
+            "没有，他们有美容院，但我没去。",
+            "服务怎么样？",
+            "服务很好。办理入住和退房手续只花了几分钟。服务员很不错。有个服务员推荐了他们的烤鱼，味道很棒。酒店几乎满员，所以如果你打算去的话，我建议提前预订。酒店周末有折扣。",
+            "听起来很完美。你有任何不满吗？",
+            "网络有点问题，所以我无法查看邮件，但我没有向管理层投诉。",
+            "我想你很乐意忘记外面的世界。",
+            "是的，我是。给你他们的名片。",
+            "谢谢。房间里有小酒吧吗？",
+            "没有。楼下有个酒吧，当然你也可以在餐厅买饮料配餐。",
+            "我不喜欢酒店的一个原因是每个人都期待小费。",
+            "我知道。在高地酒店，他们有一个有趣的政策。退房时，你把一些钱放在接待处的一个特殊盒子里。每天晚上，盒子里的钱会被酒店员工平分。"
+        ]
+    },
+    {
+        "id": 8165,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Madison Suites, how may I help you?",
+            "Yes, I'm calling from Mexico. I will be in town next week and would like to know if you have availability.",
+            "OK ma'am, can you tell me the date you expect to check in?",
+            "Yes, July ninth. I will be there for seven nights.",
+            "We have a junior single suite or a superior double suite available for those dates.",
+            "What's the difference?",
+            "The junior suite is smaller and has one twin bed, while the superior suite has a double bed and mini-bar.",
+            "OK, I would like to reserve the superior suite. Is breakfast included?",
+            "Yes, a buffet breakfast is served every morning. I will need your name and your credit card details in order to complete the reservation.",
+            "Sure, my credit card number is..."
+        ],
+        "translated_dialogue": [
+            "麦迪逊套房酒店，请问有什么可以帮您的吗？",
+            "是的，我从墨西哥打来电话。我下周会到城里，想知道你们有没有空房。",
+            "好的，女士，您能告诉我您预计入住的日期吗？",
+            "好的，七月九号。我会住七个晚上。",
+            "在那些日期，我们有小型单人套房或高级双人套房可供选择。",
+            "有什么区别？",
+            "小型套房较小，只有一张单人床，而高级套房有一张双人床和迷你吧。",
+            "好的，我想预订高级套房。包含早餐吗？",
+            "是的，每天早上提供自助早餐。我需要您的姓名和信用卡信息以完成预订。",
+            "好的，我的信用卡号码是..."
+        ]
+    },
+    {
+        "id": 7846,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Excuse me, can you tell me how to apply for a visa to America?",
+            "Log on to the website of American Embassy in Beijing and fill in the application forms.",
+            "And what should I do next?",
+            "Then make an appointment by telephone and wait for the interview.",
+            "How long will I wait for?",
+            "It all depends.",
+            "What's the fee for application?",
+            "About 800 yuan.",
+            "Thank you very much.",
+            "You are welcome."
+        ],
+        "translated_dialogue": [
+            "请问，您能告诉我如何申请美国签证吗？",
+            "登录美国驻北京大使馆的网站，填写申请表。",
+            "那我接下来应该做什么？",
+            "然后通过电话预约并等待面试。",
+            "我需要等多久？",
+            "这要看情况。",
+            "申请费用是多少？",
+            "大约800元。",
+            "非常感谢。",
+            "不客气。"
+        ]
+    },
+    {
+        "id": 8354,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Can I help you, sir?",
+            "Yes, I'm checking out.",
+            "Can I have your key and room number, please?",
+            "Room 1419. Here's my key.",
+            "Here's your bill, sir. Could you please check it?",
+            "It's all right. Please charge it to my credit card.",
+            "Here you are, sir. You're all set. I hope you enjoyed your stay. And that next time you're in town, you will stay with us again.",
+            "I will. Where can I leave my luggage? I really want to leave after lunch.",
+            "The bell captain will put it in the storage room. When you're ready to leave, you can claim your luggage from him.",
+            "Thanks very much. And good-bye."
+        ],
+        "translated_dialogue": [
+            "先生，我能为您效劳吗？",
+            "是的，我要退房。",
+            "请问您的房间号和钥匙？",
+            "1419房间。这是我的钥匙。",
+            "这是您的账单，先生。请您核对一下好吗？",
+            "没问题。请把费用记在我的信用卡上。",
+            "给您，先生。您一切都办好了。希望您这次住得愉快。下次来城里时，希望您再次选择我们。",
+            "我会的。我可以把行李放在哪里？我想午饭后离开。",
+            "行李员会把它放在储藏室。您准备离开时，可以向他领取行李。",
+            "非常感谢。再见。"
+        ]
+    },
+    {
+        "id": 8158,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Good morning. More Hotel. At your service.",
+            "Good morning! I'd like to make a reservation, please. Do you have any rooms available for the next week?",
+            "All right. Single-room or double-room?",
+            "Double-room, please. It's for an American couple.",
+            "Hold on, please. Let me check the bookings. Yes, we have double-rooms available. What kind of room would you like, sir?",
+            "I'd like a room with a nice view, please.",
+            "We have a nice garden-view room.",
+            "Good. I'll take that one. Is there a bar in your hotel?",
+            "Yes, sir. And there is also a party going on each Saturday night in the bar till next morning.",
+            "Party all night? Hotel California? No kidding. Anyway, what's the room charge?",
+            "888 Yuan per night. With breakfast. “Northern Star” buffet! What's there arriving time?",
+            "They turn up around 4p.m. next Monday, and they check out on next Sunday.",
+            "I see. May I have your name and phone number?",
+            "Yes. 123-4567. Benjamin."
+        ],
+        "translated_dialogue": [
+            "早上好。这里是摩尔酒店。为您服务。",
+            "早上好！我想预订一个房间。下周有空房吗？",
+            "好的。单人间还是双人间？",
+            "请给我一个双人间。是为一对美国夫妇预订的。",
+            "请稍等。我查一下预订情况。是的，我们有双人间。您想要什么样的房间，先生？",
+            "我想要一个风景好的房间。",
+            "我们有一个花园景观的房间。",
+            "好的。我就要那个。你们酒店有酒吧吗？",
+            "是的，先生。每个星期六晚上酒吧都有派对，一直持续到第二天早上。",
+            "通宵派对？加州旅馆？开玩笑吧。不管怎样，房费是多少？",
+            "每晚888元。含早餐。“北极星”自助餐！他们的到达时间是？",
+            "他们下周一下午四点左右到达，下周日退房。",
+            "我明白了。可以告诉我您的名字和电话号码吗？",
+            "好的。123-4567。本杰明。"
+        ]
+    },
+    {
+        "id": 8553,
+        "category": "Health",
+        "original_dialogue": [
+            "I came here to get a chest X-ray.",
+            "I will need you to take your clothes off from the waist up and put on the gown, leaving the opening in the back.",
+            "What comes next?",
+            "I will need you to face this glass plate right over here.",
+            "Should I do anything else?",
+            "Your arms need to be raised to shoulder height.",
+            "Is this OK?",
+            "So far, so good.",
+            "How come you are walking away?",
+            "I am not leaving. I just need you to take a really deep breath, hold it, and then let it out.",
+            "Will I be finished then?",
+            "You will be able to put your clothes on as soon as I have checked the film."
+        ],
+        "translated_dialogue": [
+            "我来这里做胸部X光检查。",
+            "请您脱掉腰部以上的衣物，穿上这件袍子，背后留个开口。",
+            "接下来要做什么？",
+            "请您面对这块玻璃板。",
+            "我还需要做什么吗？",
+            "请把手臂抬到肩膀的高度。",
+            "这样可以吗？",
+            "目前为止，一切都很好。",
+            "你怎么走开了？",
+            "我没有离开。我只是需要您深吸一口气，屏住呼吸，然后再呼出来。",
+            "那我就完成了吗？",
+            "我检查完胶片后，您就可以穿上衣服了。"
+        ]
+    },
+    {
+        "id": 8453,
+        "category": "Health",
+        "original_dialogue": [
+            "How do I take the tablets?",
+            "Please take 2 tablets each time, 4 times a day.",
+            "How do I take the sucking lozenges?",
+            "Please put one under your tongue, do not swallow it.",
+            "How do I take the pills?",
+            "Please dissolve one pill in water before taking it.",
+            "Well, thanks very much.",
+            "You're welcome."
+        ],
+        "translated_dialogue": [
+            "我该如何服用这些药片？",
+            "请每次服用2片，每天4次。",
+            "我该如何服用这些含片？",
+            "请将一片放在舌下，不要吞咽。",
+            "我该如何服用这些药丸？",
+            "请将一粒药丸溶解在水中后服用。",
+            "好的，非常感谢。",
+            "不客气。"
+        ]
+    },
+    {
+        "id": 8549,
+        "category": "Health",
+        "original_dialogue": [
+            "How have you been doing?",
+            "I can’t sleep or eat. I have a really bad pain in my tooth!",
+            "How long have you had this toothache?",
+            "It bothers me off and on, but it’s gotten much worse these past few weeks.",
+            "Is there anything that you’Ve done to your tooth that might have caused the pain?",
+            "My girlfriend told me that I grind my teeth a lot when I sleep. Maybe that is the problem.",
+            "When you brush your teeth, what do you use?",
+            "I use a soft bristle toothbrush.",
+            "Does it bother you when you have to chew a lot?",
+            "Absolutely. That set it off big time!"
+        ],
+        "translated_dialogue": [
+            "你最近怎么样？",
+            "我睡不着也吃不下。我牙痛得厉害！",
+            "你牙痛多久了？",
+            "时好时坏，但这几周变得更严重了。",
+            "你有没有对牙齿做过什么可能导致疼痛的事情？",
+            "我女朋友告诉我，我睡觉时经常磨牙。也许这就是问题所在。",
+            "你刷牙时用什么？",
+            "我用软毛牙刷。",
+            "你需要多嚼的时候会不舒服吗？",
+            "当然，那会让它疼得厉害！"
+        ]
+    },
+    {
+        "id": 8628,
+        "category": "Health",
+        "original_dialogue": [
+            "Billy, you don’t look too well. Maybe you should take the day off school.",
+            "But Mom! Today we’re playing football! I love football!",
+            "You’ve god a fever and playing football isn’t a good idea for a boy with a fever. What’s that on your arm?",
+            "I don’t know. It was there when I woke up this morning.",
+            "It’s a rash. I’d better take you to see the doctor. How did you get that bruise on your leg?",
+            "I bashed it against the chair in my room.",
+            "Does it hurt?",
+            "A little, but not much.",
+            "Here. Put this wet towel on your face to keep your temperature down. I’ll take you to the doctor’s after breakfast.",
+            "If I’m better this afternoon, can I go to school?",
+            "If you are better, but I doubt you will be."
+        ],
+        "translated_dialogue": [
+            "比利，你看起来不太好。也许你应该请一天假，不去上学。",
+            "可是妈妈！今天我们要踢足球！我喜欢足球！",
+            "你发烧了，发烧的男孩踢足球不是个好主意。你手臂上那是什么？",
+            "我不知道。我今天早上醒来时就有了。",
+            "这是皮疹。我最好带你去看医生。你腿上的淤青是怎么来的？",
+            "我在房间里撞到了椅子上。",
+            "疼吗？",
+            "有一点，但不太疼。",
+            "来，把这条湿毛巾放在脸上降温。早餐后我带你去看医生。",
+            "如果我下午好些了，我可以去上学吗？",
+            "如果你好了，但我怀疑你会好。"
+        ]
+    },
+    {
+        "id": 8410,
+        "category": "Health",
+        "original_dialogue": [
+            "Good afternoon, Miss Qi.",
+            "Good afternoon. It's very nice to see you again.",
+            "How are you feeling today?",
+            "I'm much better. The stomachache is gone, and the doctor is about to give me another endoscope examination to see whether the ulcer has healed.",
+            "That's good. Well, these are for you. I hope you will like them.",
+            "How beautiful they are! Thank you so much.",
+            "I've also brought some magazines for you. I hope they'll keep you from getting bored while you're in the hospital.",
+            "You're so thoughtful!",
+            "It's time for me to leave. I hope you will recover soon. See you later.",
+            "Thank you for coming. Good-bye."
+        ],
+        "translated_dialogue": [
+            "下午好，齐小姐。",
+            "下午好。很高兴再次见到你。",
+            "你今天感觉怎么样？",
+            "我好多了。胃痛已经消失了，医生准备给我做另一次内窥镜检查，看看溃疡是否已经愈合。",
+            "那就好。这些是给你的，希望你会喜欢。",
+            "它们真漂亮！非常感谢。",
+            "我还给你带了一些杂志。希望它们能让你在医院里不那么无聊。",
+            "你真贴心！",
+            "我该走了。希望你早日康复。再见。",
+            "谢谢你的到来。再见。"
+        ]
+    },
+    {
+        "id": 9619,
+        "category": "Work",
+        "original_dialogue": [
+            "Mr. McKenna, do you have a second? I need to talk to you about something.",
+            "Sure, Liv, what can I do for you ?",
+            "Well, I was just wondering... you see, I know I’ve used up all my vacation days this year, but my sister is getting married, and the wedding is overseas, and, well...",
+            "You wanna take some time off, is that right ?",
+            "Well, sir, I was just hoping that I might be able to take some unpaid leave this year.",
+            "What dates are you planning on taking off? I’ll need at least two months notice, so that I can plan for your absence.",
+            "I was thinking of taking off from September first until the thirtieth. Would you be okay with that?",
+            "Well, I guess so."
+        ],
+        "translated_dialogue": [
+            "麦肯纳先生，您有空吗？我需要和您谈谈。",
+            "当然，莉芙，我能为你做些什么？",
+            "嗯，我只是想问一下……您看，我知道我今年的假期已经用完了，但我妹妹要结婚，婚礼在国外，所以……",
+            "你想请假，对吗？",
+            "嗯，先生，我只是希望今年能请一些无薪假。",
+            "你打算请哪些日期的假？我需要至少提前两个月通知，以便安排你的缺席。",
+            "我想从九月一号请到三十号。您觉得可以吗？",
+            "嗯，我想可以。"
+        ]
+    },
+    {
+        "id": 9099,
+        "category": "Work",
+        "original_dialogue": [
+            "Today is Saturday, isn't it?",
+            "Yes, what's wrong?",
+            "What's the date today?",
+            "Today is September 28th, 2007.",
+            "I have a meeting this afternoon.",
+            "When will it begin?",
+            "It will begin at three o'cock. What's the time now?",
+            "It is half past one.",
+            "I have to go now. I don't want to be late.",
+            "Don't worry, time is enough."
+        ],
+        "translated_dialogue": [
+            "今天是星期六，对吗？",
+            "是的，怎么了？",
+            "今天几号？",
+            "今天是2007年9月28日。",
+            "我今天下午有个会议。",
+            "什么时候开始？",
+            "三点开始。现在几点了？",
+            "现在一点半。",
+            "我得走了，我不想迟到。",
+            "别担心，时间还够。"
+        ]
+    },
+    {
+        "id": 8694,
+        "category": "Work",
+        "original_dialogue": [
+            "Janice, do you still remember how our filing system works?",
+            "Yes, I have read the Filling Instruction carefully, since you showed me it last week.",
+            "Very good. What is the essence of filing, do you know?",
+            "The essence of filing I remember is to bring together in a single folder or file all papers relating to a particular subject. And outgoing and incoming letters are kept in this file cabinet.",
+            "Yes, ' One customer--one file ' is essential. And remember to update them timely.",
+            "And each file should be named clearly, either in block capitals or in jet black typed capitals.",
+            "Correct.",
+            "A card index is very important in the filing system. It is a most helpful friend to a secretary, so it must be kept handy and up to date.",
+            "Yes, prompt and careful filing contributes greatly to the efficiency of our office."
+        ],
+        "translated_dialogue": [
+            "珍妮丝，你还记得我们的文件归档系统是如何运作的吗？",
+            "记得，我已经仔细阅读了归档说明，因为你上周给我看过。",
+            "很好。你知道归档的要点是什么吗？",
+            "我记得归档的要点是将所有与特定主题相关的文件集中在一个文件夹或文件中。发出和收到的信件都保存在这个文件柜里。",
+            "是的，“一个客户——一个文件”是很重要的。记得及时更新它们。",
+            "每个文件都应该清楚地命名，可以用大写字母或黑色打印的大写字母。",
+            "正确。",
+            "卡片索引在文件归档系统中非常重要。它是秘书最有用的助手之一，因此必须随时可用并保持更新。",
+            "是的，及时和仔细的归档对我们办公室的效率有很大贡献。"
+        ]
+    },
+    {
+        "id": 8740,
+        "category": "Work",
+        "original_dialogue": [
+            "Hi, is this Sue?",
+            "Yes?",
+            "Sue, this is Tom Lin from Allied Trust and I'm calling to offer you a position with our firm.",
+            "What position?",
+            "Senior account rep.",
+            "How much does it pay?",
+            "It starts at $30,000.",
+            "I'm sorry but my bottom figure is $36,000."
+        ],
+        "translated_dialogue": [
+            "你好，是Sue吗？",
+            "是的？",
+            "Sue，我是来自Allied Trust的Tom Lin，我打电话是想给你提供一个职位。",
+            "什么职位？",
+            "高级客户代表。",
+            "薪水是多少？",
+            "起薪是30,000美元。",
+            "抱歉，但我的最低要求是36,000美元。"
+        ]
+    },
+    {
+        "id": 8649,
+        "category": "Work",
+        "original_dialogue": [
+            "Can I talk to you for a moment, manager?",
+            "Yes, of course. What is it?",
+            "I've decided to leave.",
+            "Leave? Why?",
+            "I've worked here for two years. And I want to do something different.",
+            "What do you mean by something different?",
+            "I want to live abroad and learn to speak a different language.",
+            "I'm really sorry. But I understand.",
+            "Thank you, manager."
+        ],
+        "translated_dialogue": [
+            "经理，我可以和您谈谈吗？",
+            "当然可以。有什么事吗？",
+            "我决定离开了。",
+            "离开？为什么？",
+            "我在这里工作了两年。我想做一些不同的事情。",
+            "你所说的不同的事情是什么意思？",
+            "我想去国外生活，学习说另一种语言。",
+            "我真的很遗憾。但我理解。",
+            "谢谢您，经理。"
+        ]
+    },
+    {
+        "id": 10077,
+        "category": "Politics",
+        "original_dialogue": [
+            "Could I speak to you for a minute?",
+            "What do you want to speak to me about?",
+            "I want to talk about this year’s election.",
+            "Oh, you do?",
+            "I am volunteering for the campaign.",
+            "What made you decide to volunteer?",
+            "I want to be a part of history.",
+            "Good for you.",
+            "Do you plan on voting?",
+            "I will be voting.",
+            "You should try and make it early to your polling place.",
+            "Thanks for letting me know."
+        ],
+        "translated_dialogue": [
+            "我可以和你谈谈吗？",
+            "你想和我谈什么？",
+            "我想谈谈今年的选举。",
+            "哦，是吗？",
+            "我在为竞选活动做志愿者。",
+            "是什么让你决定做志愿者的？",
+            "我想成为历史的一部分。",
+            "那很好。",
+            "你打算投票吗？",
+            "我会投票的。",
+            "你应该尽早去投票站。",
+            "谢谢你告诉我。"
+        ]
+    },
+    {
+        "id": 10166,
+        "category": "Politics",
+        "original_dialogue": [
+            "Will you be voting?",
+            "I will. Will you be voting?",
+            "Well, when is the election?",
+            "You don’t know that?",
+            "I just don’t know.",
+            "It’s this Tuesday.",
+            "You can’t be serious.",
+            "Why would I joke?",
+            "Thanks for telling me.",
+            "You should’ve known already.",
+            "I forgot.",
+            "As long as you go vote, that’s all that matters."
+        ],
+        "translated_dialogue": [
+            "你会去投票吗？",
+            "我会的。你会去投票吗？",
+            "那么，选举是什么时候？",
+            "你不知道吗？",
+            "我真的不知道。",
+            "就是这个星期二。",
+            "你不是认真的吧。",
+            "我为什么要开玩笑？",
+            "谢谢你告诉我。",
+            "你早该知道的。",
+            "我忘了。",
+            "只要你去投票，这才是最重要的。"
+        ]
+    },
+    {
+        "id": 10151,
+        "category": "Politics",
+        "original_dialogue": [
+            "Where are you going?",
+            "I have to go to work.",
+            "Going to work where?",
+            "I’m working at the polling place.",
+            "I didn’t know you were working there this year.",
+            "I work at the polling place every year.",
+            "How did you get that job?",
+            "I signed up for it online.",
+            "That’s really cool.",
+            "It’s a very cool job.",
+            "Do they pay you a lot?",
+            "They pay well enough."
+        ],
+        "translated_dialogue": [
+            "你要去哪里？",
+            "我要去上班。",
+            "去哪里上班？",
+            "我在投票站工作。",
+            "我不知道你今年在那里工作。",
+            "我每年都在投票站工作。",
+            "你是怎么得到那份工作的？",
+            "我在网上报名的。",
+            "那真不错。",
+            "这是一份很不错的工作。",
+            "他们给你很多钱吗？",
+            "他们给的报酬还不错。"
+        ]
+    },
+    {
+        "id": 10157,
+        "category": "Politics",
+        "original_dialogue": [
+            "You heard who won the election, right?",
+            "Who was elected?",
+            "McCain won the election.",
+            "That can’t be true!",
+            "I’m upset, too.",
+            "I can’t believe people voted for him.",
+            "People must want him as our President.",
+            "That doesn’t make any sense.",
+            "I have more bad news.",
+            "How could the news get any worse?",
+            "I was only kidding, because Obama won the election.",
+            "That’s great news!"
+        ],
+        "translated_dialogue": [
+            "你听说谁赢得了选举，对吧？",
+            "谁当选了？",
+            "麦凯恩赢得了选举。",
+            "这不可能是真的！",
+            "我也很不高兴。",
+            "我不敢相信人们投票给他。",
+            "人们一定想要他成为我们的总统。",
+            "这没有任何意义。",
+            "我还有更坏的消息。",
+            "消息怎么可能更糟？",
+            "我只是开玩笑，因为奥巴马赢得了选举。",
+            "那是个好消息！"
+        ]
+    },
+    {
+        "id": 10153,
+        "category": "Politics",
+        "original_dialogue": [
+            "We’re asking for donations today.",
+            "What are you collecting donations for?",
+            "We’re trying to raise money for the campaigns.",
+            "How much are you planning on raising?",
+            "As much as possible.",
+            "What kind of fundraisers are you doing?",
+            "We are going door to door.",
+            "You should try actual fundraisers, too.",
+            "What else can we do?",
+            "Try having a car wash or selling candy.",
+            "I didn’t think of that.",
+            "I know. It’ll also help you make more money."
+        ],
+        "translated_dialogue": [
+            "我们今天在募捐。",
+            "你们在为什么募捐？",
+            "我们正在为活动筹集资金。",
+            "你们计划筹集多少？",
+            "尽可能多。",
+            "你们在做什么类型的筹款活动？",
+            "我们正在挨家挨户地募捐。",
+            "你们也应该尝试一些实际的筹款活动。",
+            "我们还能做什么？",
+            "试试洗车或卖糖果。",
+            "我没想到这一点。",
+            "我知道。这也会帮助你们赚更多的钱。"
+        ]
+    },
+    {
+        "id": 10547,
+        "category": "Finance",
+        "original_dialogue": [
+            "May I ask you a few questions about insurance?",
+            "Yes.",
+            "Now we've given a CIF Shanghai price for some steel plates. What insurance rate do you suggest we should get?",
+            "Well. Obviously, you won’t want All Risks cover.",
+            "Why not?",
+            "Because they aren’t delicate goods and won’t likely be damaged on the voyage. FPA will be good enough.",
+            "Then am I right in understanding that FPA doesn't cover partial loss for the nature of particular average.",
+            "That's right. On the other hand, a WA policy covers you against partial loss in all cases.",
+            "Are there any other clauses in marine policies?",
+            "Oh, lots of them. For instance, War Risks, TEND and SICC.",
+            "Well, thank you very much for all that information. Could you give me a quotation for my consignment now?",
+            "Are you going to make an offer today?",
+            "Yes. My customer is in urgent need of the steel plates.",
+            "Ok, I'll get this rate right away.",
+            "Thank you."
+        ],
+        "translated_dialogue": [
+            "我可以问你几个关于保险的问题吗？",
+            "可以。",
+            "我们现在给了一些钢板的CIF上海价格。你建议我们应该买什么保险费率？",
+            "嗯。显然，你不需要全险。",
+            "为什么不呢？",
+            "因为它们不是易碎品，在航程中不太可能受损。FPA就足够了。",
+            "那么，我理解FPA不包括特定海损性质的部分损失是对的吗？",
+            "没错。另一方面，WA保单在所有情况下都能为你提供部分损失的保障。",
+            "海洋保险单中还有其他条款吗？",
+            "哦，有很多。例如，战争风险、TEND和SICC。",
+            "好的，非常感谢你提供的所有信息。你现在能给我这批货的报价吗？",
+            "你今天要报价吗？",
+            "是的。我的客户急需这些钢板。",
+            "好的，我马上给你这个费率。",
+            "谢谢。"
+        ]
+    },
+    {
+        "id": 10278,
+        "category": "Finance",
+        "original_dialogue": [
+            "How can I help you today?",
+            "I want to sign up for some funds units. How do I go about it?",
+            "Have you got some ID and your cash card?",
+            "Yes. I've already got a fund account with you too.",
+            "How many more fund units would you like to purchase today?",
+            "I'm not quite sure. You see, I already have more than 5,000 RIB in my cash card, but I really don't know how much I should get.",
+            "The usual minimum purchase is 5,000 RIB.",
+            "That settles it then. 5,000 RIB it is, thanks."
+        ],
+        "translated_dialogue": [
+            "今天我能为您做些什么？",
+            "我想购买一些基金单位。我该如何办理？",
+            "您有身份证和现金卡吗？",
+            "有的。我已经在你们这里开了一个基金账户。",
+            "您今天想购买多少基金单位？",
+            "我不太确定。您看，我的现金卡里已经有超过5000 RIB，但我真的不知道应该买多少。",
+            "通常的最低购买金额是5000 RIB。",
+            "那就这样定了。就买5000 RIB，谢谢。"
+        ]
+    },
+    {
+        "id": 10333,
+        "category": "Finance",
+        "original_dialogue": [
+            "Welcome to the International Business Department. How can I help you?",
+            "Hello. I'm Ms Dawson from Lexington Software. I need to send these documents to Vietnam via L/C.",
+            "No problem, I can do that for you right now. Have you checked the documents?",
+            "I have, but I have never done this before so would it be possible for you to double check them?",
+            "Of course, that's all part of the service.",
+            "Thank you. I don't think there should be any problems, but just to be sure...",
+            "Don't worry; I'm sure it will be fine. If I do have any queries I'll call you, OK?",
+            "That's fine. Thank you again."
+        ],
+        "translated_dialogue": [
+            "欢迎来到国际商务部。我能为您做些什么？",
+            "你好。我是来自莱克星顿软件公司的道森女士。我需要通过信用证将这些文件发送到越南。",
+            "没问题，我现在就可以为您处理。您检查过这些文件了吗？",
+            "我检查过了，但我以前从未做过这种事情，所以您能帮我再检查一遍吗？",
+            "当然，这是我们服务的一部分。",
+            "谢谢。我认为不应该有任何问题，但为了确保万无一失……",
+            "别担心，我相信一切都会好的。如果我有任何问题，我会打电话给您，好吗？",
+            "好的。再次感谢您。"
+        ]
+    },
+    {
+        "id": 10086,
+        "category": "Finance",
+        "original_dialogue": [
+            "IBA, Maria speaking. How can I help?",
+            "Hello, I called earlier regarding interest rates on loans. Sorry, I just have a couple more questions.",
+            "I'm here to help. Tell me your questions and I'll do my best to answer them.",
+            "What if I require a loan for a short period of time?",
+            "What repayment period were you thinking of?",
+            "Say, 6 months? Or less in fact. I want to repay the loan ASAP; I don't like debt hanging over my head.",
+            "A wise decision. If you decide to take out a short-term loan with us, say for 6 months or less, the interest rate shall be for that of a 6-month loan.",
+            "What if I repay it early. Any perks?",
+            "Well, we could adjust the interest rate based on the original rate and the amount of days you actually borrowed the money for.",
+            "So, the quicker I pay it back, the more I can save in interest? That's excellent. Thanks so much for your information. I'll come in shortly to take the relevant steps for the loan.",
+            "It's our pleasure. We are always happy to have another satisfied customer. Thanks for calling. Goodbye."
+        ],
+        "translated_dialogue": [
+            "IBA，这里是玛丽亚。请问有什么可以帮您的吗？",
+            "你好，我之前打电话咨询过贷款利率。抱歉，我还有几个问题想问。",
+            "我在这里为您服务。请告诉我您的问题，我会尽力回答。",
+            "如果我需要短期贷款怎么办？",
+            "您考虑的还款期限是多久？",
+            "比如说，6个月？或者更短。我想尽快还清贷款；我不喜欢债务压在我头上。",
+            "这是一个明智的决定。如果您决定在我们这里申请短期贷款，比如6个月或更短，利率将按照6个月的贷款利率计算。",
+            "如果我提前还款，有什么好处吗？",
+            "我们可以根据原始利率和您实际借款的天数调整利率。",
+            "所以，我还款越快，节省的利息就越多？太好了。非常感谢您的信息。我会很快过来办理贷款相关手续。",
+            "这是我们的荣幸。我们总是很高兴能有满意的客户。感谢您的来电。再见。"
+        ]
+    },
+    {
+        "id": 10105,
+        "category": "Finance",
+        "original_dialogue": [
+            "How can I help you this afternoon?",
+            "I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter.",
+            "Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up.",
+            "Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon.",
+            "You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please?",
+            "I did that already, while I was waiting. Also, here's my card.",
+            "Thank you. And you require...",
+            "800 RIB, please.",
+            "Please enter your personal code right here, on the key pad. And sign here, please.",
+            "OK...",
+            "Thank you. Here's your card back and your money. Please double check it for me.",
+            "Yes, that's great. Thanks."
+        ],
+        "translated_dialogue": [
+            "今天下午我能为您做些什么？",
+            "我想取点钱，但自动取款机前排了很长的队，所以我想在柜台办理。",
+            "不幸的是，自动取款机正在补充现金，因为它的钱用完了。这就是造成延误的原因。",
+            "哦，我明白了。我还以为只是因为时间问题，虽然下午2:30通常不忙。",
+            "您说得对，您刚刚错过了午餐高峰。请您填写一张取款单好吗？",
+            "我已经填好了，在等的时候填的。这是我的卡。",
+            "谢谢。那么您需要...",
+            "请给我800里亚尔。",
+            "请在这里的键盘上输入您的个人密码。请在这里签名。",
+            "好的...",
+            "谢谢。这是您的卡和钱。请帮我核对一下。",
+            "好的，没问题。谢谢。"
+        ]
+    },
+    {
+        "id": 410,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Hi , I'd like to return this radio .",
+            "All right . Do you have the receipt ?",
+            "Here it is .",
+            "May I ask why you're returning the radio ?",
+            "It does not work very well .",
+            "Would you like to exchange it ?",
+            "No . I'd just like a refund .",
+            "Certainly . This will take only a few seconds ."
+        ],
+        "translated_dialogue": [
+            "你好，我想退掉这台收音机。",
+            "好的。你有收据吗？",
+            "在这里。",
+            "请问你为什么要退掉这台收音机？",
+            "它工作得不太好。",
+            "你想换一台吗？",
+            "不，我只想要退款。",
+            "当然，这只需要几秒钟。"
+        ]
+    },
+    {
+        "id": 805,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Where are you going to play this weekend ?",
+            "I have not given it much thought . Do you have any good suggestions ?",
+            "I want to spend two days in the mountains with friends . The city is too noisy . Do you know Tangle Temple ?",
+            "I have been there . It is in the middle of the mountains . It is not noisy there and you have to be a vegetarian .",
+            "Do you want to climb the mountain with us ?",
+            "Does it have enough lodging ?",
+            "No problem . The temple is quite large .",
+            "There are many ancient pine trees there . It is especially quiet at night . It is wonderful to listen to the monks chanting while listening to the soothing sound of the winds in the pine trees .",
+            "I'm getting a little excited now . What clothes should I wear ?",
+            "Take some thick clothes with you . It is rather cold there at night . If you wear the T-shirt you're wearing now , you will become a ' popsicle ' .",
+            "Anything else I should bring ?",
+            "If you like taking pictures , you may bring a camera with you .",
+            "Needless to say ."
+        ],
+        "translated_dialogue": [
+            "这个周末你打算去哪儿玩？",
+            "我还没想好。你有什么好建议吗？",
+            "我想和朋友去山里待两天。城市太吵了。你知道缠绕寺吗？",
+            "我去过。它在山中间，那里不吵，而且要吃素。",
+            "你想和我们一起爬山吗？",
+            "那里住宿够吗？",
+            "没问题。寺庙很大。",
+            "那里有很多古松树，晚上特别安静。听着僧侣诵经，伴着松风声，真是美妙。",
+            "我现在有点兴奋了。应该穿什么衣服？",
+            "带些厚衣服。晚上很冷。如果你穿现在的T恤，会变成“冰棍”。",
+            "还需要带什么吗？",
+            "如果你喜欢拍照，可以带相机。",
+            "那是当然。"
+        ]
+    },
+    {
+        "id": 1757,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Come in and have some coffee , Anna . The kids have just gone out to the mall to hang out with their friends .",
+            "I saw a lot of teenagers when Alan and I were there yesterday .",
+            "They spend hours there , especially on weekends .",
+            "Speaking of that trip , Alan bought a shirt at a department store , but the sleeves are too long . Do you know a seamstress or tailor who can shorten them ?",
+            "I know several . But wouldn't it be easier to take the shirt back and exchange it for the right size ?",
+            "Isn't that complicated ?",
+            "No , it's easy . We'll just take the shirt back to the men ’ s department and show them the sales slip . They'll exchange it for the correct size or give you a refund .",
+            "We ? Do you want to go with me ?",
+            "Sure . I love going to the mall .",
+            "What do you do there ... hang around , like the kids ?"
+        ],
+        "translated_dialogue": [
+            "进来喝杯咖啡吧，安娜。孩子们刚刚去商场和朋友们玩了。",
+            "昨天我和艾伦去的时候看到很多青少年。",
+            "他们在那里待好几个小时，尤其是周末。",
+            "说到那次购物，艾伦在百货商店买了一件衬衫，但袖子太长了。你知道有裁缝可以改短吗？",
+            "我认识几个。不过，拿回去换个合适的尺码不是更简单吗？",
+            "那不会很麻烦吗？",
+            "不，很简单。我们只要把衬衫拿回男装部，给他们看小票。他们会给你换合适的尺码或者退款。",
+            "我们？你想和我一起去吗？",
+            "当然。我喜欢去商场。",
+            "你去那儿做什么……像孩子们一样闲逛吗？"
+        ]
+    },
+    {
+        "id": 3214,
+        "category": "School Life",
+        "original_dialogue": [
+            "Do you mind if I borrow the notes from last week ?",
+            "Were you here last week ?",
+            "I was unable to make it .",
+            "How come ?",
+            "I was sick that day , and couldn't make it .",
+            "Well , here are the notes .",
+            "Are there any more ?",
+            "Sorry , here you go .",
+            "Thanks a lot .",
+            "No problem ."
+        ],
+        "translated_dialogue": [
+            "你介意我借一下上周的笔记吗？",
+            "你上周在这里吗？",
+            "我没能来。",
+            "为什么呢？",
+            "那天我生病了，没法来。",
+            "好吧，这是笔记。",
+            "还有吗？",
+            "不好意思，给你。",
+            "非常感谢。",
+            "没问题。"
+        ]
+    },
+    {
+        "id": 2900,
+        "category": "School Life",
+        "original_dialogue": [
+            "Hello , Kate ! How are you doing ?",
+            "Fine , thanks . How are you ?",
+            "Fine . How are your term papers ?",
+            "Oh my lord . I haven't really started them .",
+            "How could it be ? They are due two weeks later .",
+            "I know but I was busy with my part-time job the last few days .",
+            "Kate , you know , I am thinking of getting a part-time job next year because I really need more money and I don't want to ask my parents for any more . But I'm so busy ! How am I going to work and study ? How do you do it ? Do you have some good tips on budgeting time ?",
+            "To be honest with you , Jason , I don't think I'm doing a very good job of balancing my schoolwork with my job . I'm always two steps behind . I've got to get back to the dorm and continue writing that paper . Say ! Why don ’ t you talk to your advisor ? And let me know !",
+            "My advisor ?"
+        ],
+        "translated_dialogue": [
+            "你好，凯特！你怎么样？",
+            "很好，谢谢。你呢？",
+            "还好。你的学期论文怎么样了？",
+            "天哪，我还没真正开始写呢。",
+            "怎么会这样？两周后就要交了。",
+            "我知道，但这几天我一直忙着兼职工作。",
+            "凯特，你知道吗，我在考虑明年找个兼职，因为我真的需要更多的钱，不想再向父母要了。但我太忙了！我该怎么工作和学习呢？你是怎么做到的？有没有什么好的时间管理建议？",
+            "说实话，杰森，我觉得我并没有很好地平衡学业和工作。我总是落后两步。我得回宿舍继续写论文。对了！你为什么不去找你的导师聊聊呢？然后告诉我！",
+            "我的导师？"
+        ]
+    },
+    {
+        "id": 3149,
+        "category": "School Life",
+        "original_dialogue": [
+            "what do you hope to do when you finish university ?",
+            "I ’ d like to go into management . I ’ Ve applied for several jobs already and I ’ m hopeful that I ’ ll get some job offers . How about you ?",
+            "after I graduate , I have to do some more studies to pass exams to become a lawyer . I think I ’ Ve got a good chance of passing . There ’ s a possibility of getting a job with a law firm in London , provide",
+            "we both have to overcome several obstacles if we are to achieve our ambitions .",
+            "if life were easy , then we ’ d achieve our ambition quickly and then get bored .",
+            "unfortunately , it ’ s inevitable that some people are going to work hard yet not succeed .",
+            "that ’ s why ambition need to be realistic . You can ’ t achieve something that ’ s totally unrealistic .",
+            "as long as you plan carefully , most thing are possible . It ’ s always good to have a backup plan in case things go wrong .",
+            "I think it ’ s important to be successful in a field you are truly interested in , not something that other people force you to be interested it .",
+            "my father wanted me to become a doctor , but I knew it would be impossible for me to be successful in that field .",
+            "I hope my parents don ’ t try to interfere in my choice of career ."
+        ],
+        "translated_dialogue": [
+            "你大学毕业后希望做什么？",
+            "我想从事管理工作。我已经申请了几个职位，希望能收到一些工作邀请。你呢？",
+            "毕业后，我需要继续学习，通过考试成为律师。我觉得我有很大的通过机会。也有可能在伦敦的一家律师事务所找到工作。",
+            "如果我们想实现自己的目标，就必须克服一些障碍。",
+            "如果生活很容易，我们很快就能实现目标，然后就会感到无聊。",
+            "不幸的是，有些人努力工作却无法成功，这是不可避免的。",
+            "这就是为什么目标需要现实。你无法实现完全不切实际的事情。",
+            "只要计划周密，大多数事情都是可能的。最好有一个备用计划，以防万一。",
+            "我认为在自己真正感兴趣的领域取得成功很重要，而不是被别人强迫去感兴趣的事情。",
+            "我父亲希望我成为医生，但我知道在那个领域我不可能成功。",
+            "我希望我的父母不要干涉我的职业选择。"
+        ]
+    },
+    {
+        "id": 3474,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "You ready ?",
+            "Am I ready for what ?",
+            "Are you ready to transfer to a new school tomorrow ?",
+            "Oh . Yes , I ’ m ready to transfer .",
+            "You ’ re not nervous , are you ?",
+            "I ’ m very nervous .",
+            "Why are you nervous ?",
+            "I ’ m not going to know anybody there .",
+            "That ’ s not a problem .",
+            "That makes me nervous .",
+            "It ’ s fun meeting new people .",
+            "I didn ’ t think about it that way ."
+        ],
+        "translated_dialogue": [
+            "你准备好了吗？",
+            "准备好什么？",
+            "你准备好明天转到新学校了吗？",
+            "哦，是的，我准备好转学了。",
+            "你不紧张吧？",
+            "我很紧张。",
+            "你为什么紧张？",
+            "我在那里一个人都不认识。",
+            "这没什么问题。",
+            "这让我紧张。",
+            "认识新朋友很有趣。",
+            "我没这样想过。"
+        ]
+    },
+    {
+        "id": 3472,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "Are you new here ?",
+            "This is my first day here .",
+            "Are you a freshman in college ?",
+            "I started school somewhere else .",
+            "What school did you transfer from ?",
+            "I started at PCC .",
+            "What made you transfer ?",
+            "My grades weren ’ t good enough to go here .",
+            "Did you like PCC ?",
+            "I loved PCC .",
+            "Good luck here .",
+            "I ’ m excited to be here ."
+        ],
+        "translated_dialogue": [
+            "你是新来的吗？",
+            "这是我第一天来这里。",
+            "你是大学新生吗？",
+            "我之前在别的地方上学。",
+            "你是从哪个学校转过来的？",
+            "我最开始在PCC。",
+            "你为什么转学？",
+            "我的成绩不够好，不能直接来这里。",
+            "你喜欢PCC吗？",
+            "我很喜欢PCC。",
+            "祝你在这里好运。",
+            "我很高兴能来这里。"
+        ]
+    },
+    {
+        "id": 3469,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "You ’ re ready , right ?",
+            "Ready for what ?",
+            "Are you ready to transfer tomorrow ?",
+            "Yes . I am ready .",
+            "You ’ re not nervous ?",
+            "Of course I ’ m nervous .",
+            "What are you most nervous about ?",
+            "I won ’ t know anybody at that school .",
+            "You shouldn ’ t be nervous about that .",
+            "Why not ?",
+            "Meeting new people is a good thing .",
+            "That ’ s a good way to think about it ."
+        ],
+        "translated_dialogue": [
+            "你准备好了吗？",
+            "准备好什么？",
+            "你准备好明天转学了吗？",
+            "是的，我准备好了。",
+            "你不紧张吗？",
+            "当然紧张。",
+            "你最紧张什么？",
+            "我在那所学校一个人都不认识。",
+            "你不应该为这个紧张。",
+            "为什么？",
+            "认识新朋友是件好事。",
+            "这样想挺好的。"
+        ]
+    },
+    {
+        "id": 3450,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Your knowledge of English is really surprising .",
+            "Oh , it's nothing to speak of .",
+            "No , seriously . I am impressed .",
+            "Thank you . I appreciate the compliment .",
+            "Your knowledge of English is really surprising .",
+            "Oh , it's nothing to speak of .",
+            "No , seriously . I am impressed .",
+            "Thank you . I appreciate the compliment ."
+        ],
+        "translated_dialogue": [
+            "你的英语水平真让人惊讶。",
+            "哦，这没什么。",
+            "不，真的。我很佩服。",
+            "谢谢。我很感激你的夸奖。",
+            "你的英语水平真让人惊讶。",
+            "哦，这没什么。",
+            "不，真的。我很佩服。",
+            "谢谢。我很感激你的夸奖。"
+        ]
+    },
+    {
+        "id": 3523,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "What a great weekend that was !",
+            "My feelings exactly .",
+            "I really enjoy the beach in the summer .",
+            "I couldn't agree with you more .",
+            "We should come here more often .",
+            "You are absolutely right .",
+            "I'd like to come back next weekend .",
+            "That's exactly the way I feel ."
+        ],
+        "translated_dialogue": [
+            "这个周末真棒！",
+            "我也是这么觉得。",
+            "我真的很喜欢夏天的海滩。",
+            "我完全同意。",
+            "我们应该多来这里。",
+            "你说得对。",
+            "我想下个周末再来。",
+            "我也是这么想的。"
+        ]
+    },
+    {
+        "id": 3519,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Did you go to the movie yesterday ?",
+            "Yes , I did .",
+            "What did you think of it ?",
+            "I don't think much of the film .",
+            "I think it is the worst one I have ever seen .",
+            "Oh , I'm not sure I agree with you . It was not a good one , but it was not the worst one . Actually , it wasn't too bad .",
+            "I can't think the same .",
+            "What's more , some scenes were good , much fit for the children .",
+            "I couldn't agree with you ."
+        ],
+        "translated_dialogue": [
+            "你昨天去看电影了吗？",
+            "是的，我去了。",
+            "你觉得怎么样？",
+            "我觉得这部电影不怎么样。",
+            "我觉得这是我看过最差的电影。",
+            "哦，我不太同意。虽然不算好，但也不是最差的。其实还不错。",
+            "我不这么认为。",
+            "而且，有些场景还不错，很适合小孩子。",
+            "我不同意你的看法。"
+        ]
+    },
+    {
+        "id": 5576,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Would you like to come out with me tonight ?",
+            "Sorry , I can ’ t .",
+            "Tomorrow night , then ?",
+            "I ’ d like to . But I ’ m afraid I can ’ t .",
+            "I was wondering if you like to go to the theatre then .",
+            "That sounds great .",
+            "Ok . How about give me a ring , then ?",
+            "No . I ’ d better not .",
+            "Why not ?",
+            "Because I don ’ t think my husband would like it . Thank you for inviting me anyway ."
+        ],
+        "translated_dialogue": [
+            "今晚想和我一起出去吗？",
+            "对不起，我不能。",
+            "那明晚呢？",
+            "我想去，但恐怕不行。",
+            "那你想去看戏吗？",
+            "听起来不错。",
+            "好，那给我打个电话怎么样？",
+            "不，我还是算了。",
+            "为什么？",
+            "因为我觉得我丈夫可能不太喜欢。谢谢你的邀请。"
+        ]
+    },
+    {
+        "id": 7184,
+        "category": "Relationship",
+        "original_dialogue": [
+            "not a single email until now ? it's already twelve o'clock . I can't believe it !",
+            "can't bear it , right ? I've been there before . I'll feel comfortable if no one calls me or sends me text messages , like there is something missing .",
+            "yeah , that's right . If no one sends me test messages , I'll go crazy .",
+            "actually , this is a kind of addiction called \" infomania \" or \" information overload \" .",
+            "addiction ? checking emails and text messages often can be called an addiction ? no way !",
+            "yes , it is . Do you consider a frequent check of your income emails to be an integral part of your working day ?",
+            "absolutely .",
+            "do you have your cell phone with you wherever you go and check text messages and phone calls from time to time ?",
+            "yeah , it's a must . Otherwise , I may miss important phone calls and text messages .",
+            "do you open all your IM tools whenever you're using a computer ?",
+            "yes . MSN , QQ , Skype , Google Talk , Ali wangwang , everything , so that I'll be in touch with all friends and relatives .",
+            "now I can tell you're definitely addicted to the overflow of information ."
+        ],
+        "translated_dialogue": [
+            "到现在还没有一封邮件？已经十二点了，我真不敢相信！",
+            "受不了吧？我以前也这样。如果没有人打电话或发短信给我，我会觉得不自在，好像少了点什么。",
+            "是啊，如果没有人给我发短信，我会疯掉的。",
+            "其实，这是一种叫做“信息狂”或“信息过载”的上瘾。",
+            "上瘾？经常查看邮件和短信也能叫上瘾？不可能吧！",
+            "是的。你是不是觉得频繁查看邮件是你工作日的一部分？",
+            "当然是。",
+            "你是不是无论去哪儿都带着手机，时不时查看短信和电话？",
+            "是的，必须的。不然我可能会错过重要的电话和短信。",
+            "你是不是一用电脑就打开所有的即时通讯工具？",
+            "是的，MSN、QQ、Skype、Google Talk、阿里旺旺，全部都开，这样我就能和所有的朋友和亲戚保持联系。",
+            "现在我可以说你绝对是对信息过载上瘾了。"
+        ]
+    },
+    {
+        "id": 7140,
+        "category": "Relationship",
+        "original_dialogue": [
+            "hi , betty !",
+            "hi , Andy , how are you finding your new job ?",
+            "pretty good . My colleagues seem alright . So far everything is great .",
+            "that's nice . What do they have you doing over there ?",
+            "well , I work in the marketing department . The corporate culture is totally different from my last employer . Before , when I was assigned a task , I was totally on my own but here most of the work is don",
+            "that ' s really good . It's very important to feel like you are part of the team at work .",
+            "indeed . Team work is highly valued in this new company . I like our boss too . He is easy to get along with treats everybody with respect and appreciation . He's highly respected by all his employees .",
+            "that's great , that's good for a positive work environment and helps motivate employees . I wish my boss was like that .",
+            "true , take my former supervisor as an example . He was extremely controlling and overbearing . He always had to micromanage everything .",
+            "well , now you don't have to worry about that . This new place sounds really good .",
+            "yeah it is ."
+        ],
+        "translated_dialogue": [
+            "嗨，贝蒂！",
+            "嗨，安迪，你觉得新工作怎么样？",
+            "挺好的。我的同事们都不错。目前一切都很好。",
+            "那很好。他们让你做什么工作？",
+            "我在市场部工作。公司的企业文化和我之前的公司完全不同。以前我接到任务都是自己完成，但在这里大部分工作都是团队合作。",
+            "这真不错。感觉自己是团队的一部分在工作中很重要。",
+            "确实如此。在这家公司，团队合作非常重要。我也很喜欢我们的老板。他很容易相处，对每个人都很尊重和欣赏。他在员工中很受尊敬。",
+            "这太好了，这有助于创造积极的工作环境并激励员工。我希望我的老板也能这样。",
+            "是的，以我以前的主管为例。他非常控制欲强，总是要事无巨细地管理一切。",
+            "现在你不用担心这些了。这个新地方听起来真的不错。",
+            "是的，确实如此。"
+        ]
+    },
+    {
+        "id": 7715,
+        "category": "Tourism",
+        "original_dialogue": [
+            "OK , Mr . Wang . Thank you very much for coming to the airport to see us off . Your great country and your hospitality have left a very deep impression on all of us and your working attitude and your way of doing business have changed my opinions about Chinese people .",
+            "Really ? I'm glad to hear that .",
+            "That's true . And this trip has been a very productive one for us .",
+            "Thank you again for your visit . We are looking forward to your reply .",
+            "Believe me , Mr . Wang . I'll do my best to promote the transaction .",
+            "We are happy that we have established business relations . I really hope that we'll have more business to do and more opportunities to meet each other .",
+            "It ’ s very kind of you to say so .",
+            "You are very nice and helpful . Hope to see you again .",
+            "I think we will have opportunities to meet each other in the future .",
+            "OK , I think it's time for you to check in . If you run into any difficulty , we'll be here to assist you immediately .",
+            "Fine . Thank you very much . Bye-bye .",
+            "Goodbye ."
+        ],
+        "translated_dialogue": [
+            "好的，王先生。非常感谢您来机场送我们。您的国家和热情好客给我们留下了深刻的印象，您的工作态度和做生意的方式改变了我对中国人的看法。",
+            "真的吗？很高兴听到您这么说。",
+            "确实如此。这次旅行对我们来说非常有成效。",
+            "再次感谢您的来访。我们期待您的回复。",
+            "相信我，王先生。我会尽力促成这笔交易。",
+            "我们很高兴建立了业务关系。我真心希望我们能有更多的合作机会和见面的机会。",
+            "您这么说真是太好了。",
+            "您非常友好和乐于助人。希望能再次见到您。",
+            "我相信我们将来会有机会再见面的。",
+            "好的，我想您该办理登机手续了。如果遇到任何困难，我们会立即帮助您。",
+            "好的，非常感谢。再见。",
+            "再见。"
+        ]
+    },
+    {
+        "id": 8459,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Hi . I need a wake-up call tomorrow .",
+            "What time would you like your wake-up call ?",
+            "I need two calls , one at 7 and another at 7 fifteen .",
+            "That is no problem at all , of course . You'll get a call at 7 o'colock and another at 7 fifteen .",
+            "Then again , I think 7 fifteen is too early . Change 7 fifteen to 7 thirty , please .",
+            "So , that'll be a call at 7 and another at 7 thirty.Do you have any other requests ?",
+            "Not just now , but if I do think of something later , I'll give you a ring .",
+            "Okay , sir . Sleep well ."
+        ],
+        "translated_dialogue": [
+            "你好，我明天需要叫醒服务。",
+            "您想几点叫醒？",
+            "我需要两个电话，一个在7点，另一个在7点15分。",
+            "没问题，您会在7点和7点15分接到电话。",
+            "不过，我觉得7点15分太早了，请改成7点30分。",
+            "好的，那就是7点和7点30分的电话。您还有其他要求吗？",
+            "现在没有，不过如果我想到了什么，会再打电话给你。",
+            "好的，先生。祝您睡个好觉。"
+        ]
+    },
+    {
+        "id": 7673,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Is there a daily passenger ship to Dalian ?",
+            "Yes .",
+            "How many days does it take to Dalian ?",
+            "About one day . It arrives in Dalian at 10:00 a . m . tomorrow .",
+            "How many ports do we call at on our passage to Qingdao ?",
+            "Four ports .",
+            "The ship is going very fast .",
+            "Perhaps she makes about 25 knots an hour .",
+            "The sea is calm and peaceful . A sea trip is always enjoyable in fine weather like this .",
+            "Yes . I hope it will remain fine all the way ."
+        ],
+        "translated_dialogue": [
+            "每天有去大连的客船吗？",
+            "有的。",
+            "到大连要几天？",
+            "大约一天。明天上午十点到大连。",
+            "去青岛的途中我们会停靠几个港口？",
+            "四个港口。",
+            "船开得很快。",
+            "大概每小时25节。",
+            "海面平静，天气好时海上旅行总是很愉快。",
+            "是的，希望一路都是好天气。"
+        ]
+    },
+    {
+        "id": 8505,
+        "category": "Health",
+        "original_dialogue": [
+            "Why are you handing me a plastic cup ?",
+            "Your doctor wants to test your urine and needs a sample .",
+            "How am I supposed to do that ?",
+            "We need you to urinate like you normally would , and then stop and finish into the cup .",
+            "What am I supposed to do with the cup when I am done ?",
+            "Leave the cup in the cubby in the restroom . Just close the cubby door and walk away .",
+            "What kind of test is this ?",
+            "He wants to know if you have bacteria in your urine , which could signal an infection .",
+            "How long will it take to get the results ?",
+            "We will send your doctor the results , and he will contact you ."
+        ],
+        "translated_dialogue": [
+            "你为什么给我一个塑料杯？",
+            "你的医生想要检查你的尿液，需要一个样本。",
+            "我该怎么做？",
+            "我们需要你像平常一样小便，然后停下来，把剩下的尿液接到杯子里。",
+            "用完杯子后我该怎么办？",
+            "把杯子放在洗手间的小柜子里，关上柜门就可以走了。",
+            "这是什么检查？",
+            "他想知道你的尿液中是否有细菌，这可能表示感染。",
+            "多久能拿到结果？",
+            "我们会把结果发给你的医生，他会联系你。"
+        ]
+    },
+    {
+        "id": 8503,
+        "category": "Health",
+        "original_dialogue": [
+            "What is that plastic cup for ?",
+            "Your doctor has requested a urine sample .",
+            "Am I supposed to pee into the cup ?",
+            "We want what we call a clean sample . Urinate a drop or so into the toilet , and then stop the flow and urinate into the cup .",
+            "Then what do I do with the cup ?",
+            "You put the cup in the little cubby in the restroom and close the door to the cubby .",
+            "What is this test for ?",
+            "He is looking to see if you have a bladder or urinary tract infection .",
+            "When will I know the results ?",
+            "Your doctor will call you in a few days with the results ."
+        ],
+        "translated_dialogue": [
+            "这个塑料杯是用来做什么的？",
+            "你的医生要求提供尿样。",
+            "我需要尿在杯子里吗？",
+            "我们需要一个干净的样本。先在马桶里尿一点，然后停下来，再尿到杯子里。",
+            "那我该怎么处理这个杯子？",
+            "你把杯子放在卫生间的小柜子里，然后关上柜门。",
+            "这个检查是为了什么？",
+            "他想看看你是否有膀胱或尿路感染。",
+            "我什么时候能知道结果？",
+            "几天后你的医生会打电话告诉你结果。"
+        ]
+    },
+    {
+        "id": 8625,
+        "category": "Health",
+        "original_dialogue": [
+            "Good morning , doctor . I've been suffering very much from a toothache lately .",
+            "Well , let me have a look . Will you sit down in this chair and open your mouth wide ?",
+            "I think one of the back ones at the top is giving me the most trouble .",
+            "Yes . This big one is badly decayed . I'm afraid it must be taken out .",
+            "Oh , I hate having teeth pulled out . Will it hurt ?",
+            "No need to worry . You won't feel anything at all . I'll give you an injection to stop the pain . Just wash your mouth out with this water , will you ?",
+            "Will it take long ?",
+            "No , it'll be over soon . Nurse , get some X-rays of our patient's molars . Then we'll start . Open your mouth wide . Don't be so nervous . Now open wider ... now stay , that's over ...",
+            "Is it out ?",
+            "Not yet , but it soon will be . Now open again please ... It's out ! Look !",
+            "Well , really ! That was wonderful ! I felt no pain at all . Thank you , doctor ."
+        ],
+        "translated_dialogue": [
+            "早上好，医生。我最近牙疼得厉害。",
+            "让我看看。请坐在这张椅子上，张大嘴巴。",
+            "我觉得是上面后面的牙齿最疼。",
+            "是的，这颗大牙蛀得很厉害，恐怕得拔掉。",
+            "哦，我不喜欢拔牙。会疼吗？",
+            "不用担心，你不会感觉到疼的。我会给你打麻药。请用这个水漱口。",
+            "会花很长时间吗？",
+            "不会，很快就好。护士，给病人的磨牙拍个X光片。然后我们开始。张大嘴巴，别紧张。再大一点...好了，结束了...",
+            "拔出来了吗？",
+            "还没，但很快就好了。请再张开...拔出来了！看！",
+            "真的！太好了！我一点都不疼。谢谢你，医生。"
+        ]
+    },
+    {
+        "id": 9753,
+        "category": "Work",
+        "original_dialogue": [
+            "Hello , BCD Company , can I help you ?",
+            "Hello , may I speak to Mrs Smith ?",
+            "This is Mrs Smith , may I have your name ?",
+            "This is Sun , and I interviewed with you yesterday .",
+            "Hello , Mr . Sun .",
+            "I am calling to thank you for giving me the interview for the Sales Manager position yesterday .",
+            "You are welcome , Mr . Sun .",
+            "I really enjoyed meeting with you .",
+            "You certainly made a good impression on me , as well .",
+            "I am very interested in this position .",
+            "We'll be making the decision by the end of this week and we'll contact you as soon as possible .",
+            "Well , thank you for your time and consideration again .",
+            "You are welcome ."
+        ],
+        "translated_dialogue": [
+            "你好，这里是BCD公司，请问有什么可以帮您的吗？",
+            "你好，我可以找史密斯女士吗？",
+            "我是史密斯女士，请问您贵姓？",
+            "我是孙，昨天和您面试过。",
+            "您好，孙先生。",
+            "我打电话来感谢您昨天给我销售经理职位的面试机会。",
+            "不客气，孙先生。",
+            "我很高兴能和您见面。",
+            "您也给我留下了很好的印象。",
+            "我对这个职位非常感兴趣。",
+            "我们会在本周末做出决定，并尽快联系您。",
+            "好的，再次感谢您的时间和考虑。",
+            "不客气。"
+        ]
+    },
+    {
+        "id": 9674,
+        "category": "Work",
+        "original_dialogue": [
+            "Good morning , Miss Monica . Nice to meet you again !",
+            "Good morning , Mr . Thomas , it is nice to see you too .",
+            "After the internal discussion , we have all agreed that you are the most suitable person for this position among all the candidates . So , today let ’ s talk about your expected salary and social benefits . What is your expected salary ?",
+            "I ’ Ve worked in the field for more than 4 years . Depend on my work qualifications and experience , I would like to have 5000 Yuan to start .",
+            "The basic salary for this position in our company would be 4800 Yuan to start with increases giving according to your performance .",
+            "It is a bit lower than I expected . But I can accept that . What are the working hours ?",
+            "40 hours a week , Monday to Friday , 9 AM to 5 PM with one hour lunch break every day ..",
+            "Do I have to work on weekend ? If so , how do you pay for the overtime ?",
+            "We do expect overtime work when it is necessary , but we pay twice of the work hour for working on weekends and three times for working on national holidays like Spring Festival and the Mid-Autumn Day .",
+            "Is there probation ?",
+            "No probation is involved . If you feel good , you can start next week ."
+        ],
+        "translated_dialogue": [
+            "早上好，莫妮卡小姐。很高兴再次见到你！",
+            "早上好，托马斯先生，我也很高兴见到你。",
+            "经过内部讨论，我们一致认为你是所有候选人中最适合这个职位的人。所以，今天我们来谈谈你的期望薪资和福利待遇。你期望的薪资是多少？",
+            "我在这个领域工作了四年多。根据我的工作资历和经验，我希望起薪是5000元。",
+            "我们公司这个职位的基本工资是4800元，之后会根据你的表现进行调整。",
+            "这比我预期的要低一些，但我可以接受。工作时间是怎样的？",
+            "每周工作40小时，周一到周五，上午9点到下午5点，每天有一个小时的午休。",
+            "周末需要加班吗？如果需要，加班费怎么算？",
+            "必要时我们会要求加班，但周末加班工资是平时的两倍，像春节和中秋节这样的法定节假日加班是三倍。",
+            "有试用期吗？",
+            "没有试用期。如果你觉得可以，下周就可以开始工作。"
+        ]
+    },
+    {
+        "id": 9472,
+        "category": "Work",
+        "original_dialogue": [
+            "Good morning .",
+            "Er , good morning , yes , er ...",
+            "I'm phoning about the job that was in the paper last night .",
+            "Oh , yes.Erm , well , could you tell me your name , please ?",
+            "Oh , Candida Fawcett .",
+            "Oh , yes.Erm , well , what exactly is it that interests you about the job ?",
+            "Well , I just thought that it was right up my street you know .",
+            "Really , hmmmm.Erm , well , could you perhaps tell me a little about yourself ?",
+            "Yes , arm , I'm 23 . I've been working abroad , I'm um ...",
+            "Where exactly have you been working , please ?"
+        ],
+        "translated_dialogue": [
+            "早上好。",
+            "呃，早上好，是的，呃……",
+            "我打电话是关于昨晚报纸上的那个工作。",
+            "哦，是的。呃，请问您叫什么名字？",
+            "哦，我叫坎迪达·福西特。",
+            "哦，是的。呃，您对这个工作感兴趣的具体原因是什么？",
+            "嗯，我觉得这个工作很适合我。",
+            "真的吗，嗯。呃，您能简单介绍一下自己吗？",
+            "好的，呃，我23岁。我一直在国外工作，我呃……",
+            "请问您具体在哪里工作过？"
+        ]
+    },
+    {
+        "id": 10125,
+        "category": "Politics",
+        "original_dialogue": [
+            "You voted , right ?",
+            "You know I did .",
+            "Who did you vote for ?",
+            "I voted for Obama , of course !",
+            "Can you believe that he actually won ?",
+            "I knew he would win .",
+            "I didn ’ t think he would .",
+            "He was the top candidate .",
+            "I figured people wouldn ’ t vote for him because he ’ s African American .",
+            "That just goes to show that America is finally turning over a new leaf .",
+            "You ’ re absolutely right .",
+            "I ’ m excited that Barack Obama is our President ."
+        ],
+        "translated_dialogue": [
+            "你投票了吧？",
+            "当然投了。",
+            "你投给谁了？",
+            "当然是投给奥巴马！",
+            "你能相信他真的赢了吗？",
+            "我就知道他会赢。",
+            "我还以为他不会呢。",
+            "他是最有希望的候选人。",
+            "我以为大家不会投给他，因为他是非裔。",
+            "这说明美国终于在改变了。",
+            "你说得对。",
+            "我很激动奥巴马成为我们的总统。"
+        ]
+    },
+    {
+        "id": 10168,
+        "category": "Politics",
+        "original_dialogue": [
+            "Did you see who the suspect was ?",
+            "I got a perfect look at the suspect .",
+            "Would you be able to pick him out of a line-up ?",
+            "That'll be easy .",
+            "Please take a careful look at these five men .",
+            "Okay .",
+            "Is the suspect in this line ?",
+            "I see him .",
+            "Which number is he ?",
+            "The suspect is number four .",
+            "Your cooperation is very much appreciated .",
+            "I'm happy to be of assistance ."
+        ],
+        "translated_dialogue": [
+            "你看到嫌疑犯是谁了吗？",
+            "我看得很清楚。",
+            "你能从队列中认出他吗？",
+            "这很简单。",
+            "请仔细看看这五个人。",
+            "好的。",
+            "嫌疑犯在这队里吗？",
+            "我看到了。",
+            "他是几号？",
+            "嫌疑犯是四号。",
+            "非常感谢你的配合。",
+            "很高兴能帮上忙。"
+        ]
+    },
+    {
+        "id": 10179,
+        "category": "Politics",
+        "original_dialogue": [
+            "911 . What can I do for you ?",
+            "I am reporting a break-in .",
+            "When did it happen ?",
+            "It happened last night .",
+            "Where did it happen ?",
+            "It happened at my house .",
+            "What was taken ?",
+            "I don't know .",
+            "How do you know there was a break-in ?",
+            "Someone busted my window .",
+            "I will send a squad car to your house right now .",
+            "Please do ."
+        ],
+        "translated_dialogue": [
+            "911：您好，请问有什么可以帮您的吗？",
+            "来电者：我想报告一起入室盗窃。",
+            "911：什么时候发生的？",
+            "来电者：昨晚发生的。",
+            "911：在哪里发生的？",
+            "来电者：在我家。",
+            "911：有什么东西被偷了吗？",
+            "来电者：我不知道。",
+            "911：您怎么知道是入室盗窃？",
+            "来电者：有人打破了我的窗户。",
+            "911：我会马上派警车到您家。",
+            "来电者：请尽快。"
+        ]
+    },
+    {
+        "id": 10134,
+        "category": "Finance",
+        "original_dialogue": [
+            "As an existing banker , that will speed up the process . You said you had the documents with you ?",
+            "That's right . Here you go .",
+            "Before I verify those , I need you to fill in some forms . Then , as I said , I need to see valid credentials , your occupation and income details ...",
+            "OK , as I expected . How much will you allow me to borrow ? I mean , I don't need a massive sum of money .",
+            "You are authorized to borrow up to 20,000 RIB , with a repayment period of up to 1 year .",
+            "That'll be enough , and the repayment period sounds good to me .",
+            "We can also look at your current credit status and adjust the interest accordingly .",
+            "How soon before this goes through ?",
+            "If you sort out all of the paperwork today , you could have your loan by the end of the week .",
+            "Perfect . So , I guess my next job is to go to the newsagent and buy some car magazines . Thanks for everything ."
+        ],
+        "translated_dialogue": [
+            "作为现有的银行客户，这会加快流程。你说你带了文件吗？",
+            "是的，给你。",
+            "在我核实这些之前，我需要你填写一些表格。然后，正如我所说，我需要查看有效证件、你的职业和收入详情……",
+            "好的，正如我所料。你能让我借多少？我不需要太多钱。",
+            "你可以借到最多20,000 RIB，最长还款期为1年。",
+            "这就够了，还款期对我来说也不错。",
+            "我们也可以查看你的当前信用状况，并相应调整利率。",
+            "这个多久能办好？",
+            "如果你今天把所有文件都办好，你可以在本周末拿到贷款。",
+            "太好了。那我接下来的任务就是去报刊亭买些汽车杂志。谢谢你的一切。"
+        ]
+    },
+    {
+        "id": 10534,
+        "category": "Finance",
+        "original_dialogue": [
+            "I hate to be the bearer of bad news , but it's that time of year again . Have you got your performance evaluations finished yet ?",
+            "Oh no ! Evaluations ! You can tell that's not my favorite job ; I haven't even started yet . When is the deadline for turning in thecompleted forms ?",
+            "Well , you do still have three weeks . But remember the employee must sign them , too . Filling them in is nothing - it's meetingwith the employees that takes so much time .",
+            "I never know how to rate the employees ' work . Of course attendance and productivity are easy , I just look at the sales figures .",
+            "So it's the subjective criteria like team building and colleague support that you find hard ?",
+            "Exactly ! Attitude ... how do you rate attitude ?",
+            "I suggest letting each employee fill out his or her own evaluation for those items . Then , based on their self - assessment , you can add your comments . It's a great starting point for discussion",
+            "Great idea . And after all , that's the whole point of an evaluation . I almost can't wait to give it a try ."
+        ],
+        "translated_dialogue": [
+            "我不想当坏消息的传递者，但又到了这个时候。你的绩效评估完成了吗？",
+            "哦不！评估！你知道这不是我喜欢的工作；我还没开始呢。提交完成表格的截止日期是什么时候？",
+            "嗯，你还有三周时间。但记得员工也必须签字。填写表格不算什么，和员工见面才是最耗时间的。",
+            "我从来不知道怎么评价员工的工作。当然，出勤率和生产力很简单，我只看销售数据。",
+            "所以是像团队建设和同事支持这样的主观标准让你觉得难吗？",
+            "没错！态度……你怎么评价态度？",
+            "我建议让每个员工自己填写这些项目的评估。然后，根据他们的自我评估，你可以添加你的评论。这是讨论的好起点。",
+            "好主意。毕竟，这就是评估的意义所在。我几乎迫不及待想试试了。"
+        ]
+    },
+    {
+        "id": 10224,
+        "category": "Finance",
+        "original_dialogue": [
+            "Good morning , Madam . What can I do for you ?",
+            "I'd like to withdraw 35,000 RIB from my Corporate Account .",
+            "Do you have an appointment ?",
+            "Yes , my name is Ms Jane Reeve , R-E-E-V-E .",
+            "Ah , yes , Ms Reeve . I have all of your information here . Do you have the cash cheque ?",
+            "Here you go .",
+            "I'm sorry Ms Reeve , it says 45,000 RIB here .",
+            "Oh , how silly of me . Can we correct it here ?",
+            "I'm sorry , we cannot make corrections on these . You'll have to bring another one with the correct amount , I'm afraid ."
+        ],
+        "translated_dialogue": [
+            "早上好，女士。我能为您做些什么？",
+            "我想从我的公司账户中提取35,000 RIB。",
+            "您有预约吗？",
+            "有的，我叫简·里夫，R-E-E-V-E。",
+            "好的，里夫女士。我这边有您的所有信息。您有现金支票吗？",
+            "给您。",
+            "抱歉，里夫女士，这里写的是45,000 RIB。",
+            "哦，我真粗心。我们可以在这里更正吗？",
+            "抱歉，我们不能在这些上做更正。恐怕您需要带一张正确金额的支票来。"
+        ]
+    }
+]

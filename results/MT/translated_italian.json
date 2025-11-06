@@ -1,0 +1,2358 @@
+[
+    {
+        "id": 1347,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "I’m a bit worried about you going shopping by yourself this afternoon.",
+            "Oh don’t worry, I’ll be fine.",
+            "But what will you do if you need to know the price of something?",
+            "If I need to know the price, I’ll just look at the label.",
+            "Ok, but what will you do if you want to check the size of the clothes?",
+            "I'll try them on.",
+            "And what will you do if you don’t have enough cash?",
+            "Then I’ll just use my credit card."
+        ],
+        "translated_dialogue": [
+            "Sono un po' preoccupato che tu vada a fare shopping da solo questo pomeriggio.",
+            "Oh non preoccuparti, starò bene.",
+            "Ma cosa farai se hai bisogno di sapere il prezzo di qualcosa?",
+            "Se ho bisogno di sapere il prezzo, guarderò semplicemente l'etichetta.",
+            "Ok, ma cosa farai se vuoi controllare la taglia dei vestiti?",
+            "Li proverò.",
+            "E cosa farai se non hai abbastanza contanti?",
+            "Allora userò semplicemente la mia carta di credito."
+        ]
+    },
+    {
+        "id": 2593,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "May I take your drink order while you are looking over your menu?",
+            "Yes, do you have a wine list?",
+            "The wine list is on the second page of your menu.",
+            "Do you have mixed drinks in this restaurant?",
+            "Yes, we have a full bar here.",
+            "I am not sure what I want. Do you have any house specials?",
+            "Actually, we are famous for our Cuervo Gold margaritas.",
+            "That sounds good! Please bring me one of those.",
+            "Would you like that drink blended or on the rocks?",
+            "I would like it blended.",
+            "Would you like it with salt or no salt?",
+            "I would like my margarita with no salt, thank you."
+        ],
+        "translated_dialogue": [
+            "Posso prendere il tuo ordine per le bevande mentre guardi il menu?",
+            "Sì, avete una lista dei vini?",
+            "La lista dei vini è alla seconda pagina del tuo menu.",
+            "Avete cocktail in questo ristorante?",
+            "Sì, abbiamo un bar completo qui.",
+            "Non sono sicuro di cosa voglio. Avete delle specialità della casa?",
+            "In realtà, siamo famosi per le nostre margaritas Cuervo Gold.",
+            "Sembra buono! Per favore, portamene uno.",
+            "Vuoi quel drink frullato o con ghiaccio?",
+            "Lo vorrei frullato.",
+            "Lo vuoi con sale o senza sale?",
+            "Vorrei la mia margarita senza sale, grazie."
+        ]
+    },
+    {
+        "id": 2666,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "I heard there was an accident today.",
+            "Nobody told you what happened?",
+            "Tell me the news.",
+            "A truck turned over on the freeway.",
+            "Are you kidding?",
+            "I am completely serious.",
+            "Did anyone get hurt?",
+            "I believe that two people did get hurt.",
+            "Were the injuries minor?",
+            "I believe so.",
+            "That's great to hear.",
+            "Yes, it is."
+        ],
+        "translated_dialogue": [
+            "Ho sentito che c'è stato un incidente oggi.",
+            "Nessuno ti ha detto cosa è successo?",
+            "Dimmi le notizie.",
+            "Un camion si è ribaltato sull'autostrada.",
+            "Stai scherzando?",
+            "Sono completamente serio.",
+            "Qualcuno si è fatto male?",
+            "Credo che due persone si siano ferite.",
+            "Le ferite erano lievi?",
+            "Credo di sì.",
+            "È bello sentirlo.",
+            "Sì, lo è."
+        ]
+    },
+    {
+        "id": 293,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Tomorrow I will be the new owner of all dad's assets.",
+            "It still feels really strange to me.",
+            "I know. I miss him terribly.",
+            "How does it feel to be in charge of so much money?",
+            "I thought I would feel like I was in the lap of luxury.",
+            "I guess you could choose that if you wanted.",
+            "No, I think I will run things much the same way that Dad did.",
+            "Dad really knew what he was doing when he chose you to take over for him when he was gone!"
+        ],
+        "translated_dialogue": [
+            "Domani sarò il nuovo proprietario di tutti i beni di papà.",
+            "Mi sembra ancora davvero strano.",
+            "Lo so. Mi manca terribilmente.",
+            "Come ci si sente ad essere responsabile di così tanti soldi?",
+            "Pensavo che mi sarei sentito come se fossi nel lusso più sfrenato.",
+            "Immagino che potresti scegliere questo se volessi.",
+            "No, penso che gestirò le cose più o meno come faceva papà.",
+            "Papà sapeva davvero cosa stava facendo quando ha scelto te per prendere il suo posto quando non ci sarebbe più stato!"
+        ]
+    },
+    {
+        "id": 2778,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "I am looking for a pan.",
+            "No problem. What size would you like?",
+            "A big one would be nice.",
+            "How about this one? It's our biggest — 16” in diameter.",
+            "Oh, yes. I like that one. But it's too heavy.",
+            "Okay, try this one. It's made of aluminum.",
+            "Oh, yes, this is much better. But it has an aluminum handle.",
+            "Here you go. Same pan, but with a state-of-the-art, heat-resistant plastic handle.",
+            "Yes, that's perfect. I'll take it.",
+            "Great. Will that be cash or charge?",
+            "Oh, wait a minute. What about a lid for the pan?",
+            "I'm sorry. I forgot to show you the lid. It comes with the pan."
+        ],
+        "translated_dialogue": [
+            "Sto cercando una padella.",
+            "Nessun problema. Di che dimensione la vorresti?",
+            "Una grande sarebbe perfetta.",
+            "Che ne dici di questa? È la nostra più grande — 16 pollici di diametro.",
+            "Oh, sì. Mi piace quella. Ma è troppo pesante.",
+            "Va bene, prova questa. È fatta di alluminio.",
+            "Oh, sì, questa è molto meglio. Ma ha un manico in alluminio.",
+            "Ecco qua. Stessa padella, ma con un manico in plastica resistente al calore all'avanguardia.",
+            "Sì, è perfetta. La prendo.",
+            "Perfetto. Pagherai in contanti o con carta?",
+            "Oh, aspetta un attimo. E il coperchio per la padella?",
+            "Mi dispiace. Ho dimenticato di mostrarti il coperchio. È incluso con la padella."
+        ]
+    },
+    {
+        "id": 3061,
+        "category": "School Life",
+        "original_dialogue": [
+            "How should we commemorate the centenary of the founding of the university? We have been given quite a large budget to pay for some events.",
+            "We should certainly hold a big party for the professors and students. We could have a firework display.",
+            "Do you think that we should invite alumni and former professors?",
+            "If we do, too many people might attend. Perhaps we should invited all of them, but make a small charge to attend.",
+            "Good idea. We should also hold a series of presentations. We could have presentations on the history of the university, the courses we offer, and our links with other universities.",
+            "Good idea! I think we could also have presentations by former students on how their experience here helped them in their lives.",
+            "We could have another on the successes of graduates from here.",
+            "I think that we could also produce some merchandise for the centenary-you know, T-shirts, mugs, plates, pens, and things like that.",
+            "That’s an excellent idea. Hopefully, we would be able to make a profit! A few professors and students are writing a book on the history of the university.",
+            "I’m looking forward to reading that. We could have book signings by famous professors an alumni.",
+            "A group of students from the art and music faculty are producing a short film.",
+            "I’m sure that will be very popular... OK, let’s think about how we can put these ideas into practice."
+        ],
+        "translated_dialogue": [
+            "Come dovremmo commemorare il centenario della fondazione dell'università? Ci è stato assegnato un budget piuttosto consistente per finanziare alcuni eventi.",
+            "Dovremmo sicuramente organizzare una grande festa per i professori e gli studenti. Potremmo avere uno spettacolo pirotecnico.",
+            "Pensi che dovremmo invitare gli ex studenti e i professori emeriti?",
+            "Se lo facciamo, potrebbero partecipare troppe persone. Forse dovremmo invitarli tutti, ma applicare una piccola tariffa per partecipare.",
+            "Buona idea. Dovremmo anche organizzare una serie di presentazioni. Potremmo avere presentazioni sulla storia dell'università, sui corsi che offriamo e sui nostri legami con altre università.",
+            "Buona idea! Penso che potremmo anche avere presentazioni da parte di ex studenti su come la loro esperienza qui li abbia aiutati nella vita.",
+            "Potremmo averne un'altra sui successi dei laureati di qui.",
+            "Penso che potremmo anche produrre del merchandising per il centenario, sai, magliette, tazze, piatti, penne e cose del genere.",
+            "È un'idea eccellente. Speriamo di riuscire a fare un profitto! Alcuni professori e studenti stanno scrivendo un libro sulla storia dell'università.",
+            "Non vedo l'ora di leggerlo. Potremmo organizzare sessioni di autografi con professori famosi e ex studenti.",
+            "Un gruppo di studenti della facoltà di arte e musica sta producendo un cortometraggio.",
+            "Sono sicuro che sarà molto popolare... OK, pensiamo a come possiamo mettere in pratica queste idee."
+        ]
+    },
+    {
+        "id": 2935,
+        "category": "School Life",
+        "original_dialogue": [
+            "Can I help you?",
+            "Yes. I am interested in applying for graduate school in America.",
+            "We have some catalogues from U.S. universities. You may check in the reference stacks over there.",
+            "Can you recommend some universities with good graduate schools?",
+            "Well, generally in the U.S. each university has its own outstanding fields. But the graduate school accepts no applications after January 29th.",
+            "Oh, no. It's already February 5th.",
+            "So you have to apply to begin the first semester next year.",
+            "I will think about it."
+        ],
+        "translated_dialogue": [
+            "Posso aiutarti?",
+            "Sì. Sono interessato a fare domanda per una scuola di specializzazione in America.",
+            "Abbiamo alcuni cataloghi delle università americane. Puoi controllare negli scaffali di riferimento laggiù.",
+            "Puoi raccomandare alcune università con buone scuole di specializzazione?",
+            "Beh, generalmente negli Stati Uniti ogni università ha i suoi campi di eccellenza. Ma la scuola di specializzazione non accetta domande dopo il 29 gennaio.",
+            "Oh, no. È già il 5 febbraio.",
+            "Quindi devi fare domanda per iniziare il primo semestre l'anno prossimo.",
+            "Ci penserò."
+        ]
+    },
+    {
+        "id": 3074,
+        "category": "School Life",
+        "original_dialogue": [
+            "Do you offer a course in business management?",
+            "Yes, we do.",
+            "How many nights a week is it?",
+            "It's 3 nights a week, Monday, Tuesday and Thursday.",
+            "And how long does the course last?",
+            "It lasts for 9 months.",
+            "When does it start?",
+            "The next beginning class starts on October 25th.",
+            "What time is the class?",
+            "From 7 to 9 o'clock.",
+            "How much does it cost?",
+            "It costs 125 dollars a month.",
+            "Yes, that's all right. I want to enroll in the course.",
+            "Thank you, please fill out this form for us.",
+            "Do you want me to fill it out now?",
+            "Yes, please. we need a record of you education and your work experiences."
+        ],
+        "translated_dialogue": [
+            "Offrite un corso di gestione aziendale?",
+            "Sì, lo offriamo.",
+            "Quante sere a settimana è?",
+            "È 3 sere a settimana, lunedì, martedì e giovedì.",
+            "E quanto dura il corso?",
+            "Dura 9 mesi.",
+            "Quando inizia?",
+            "La prossima classe iniziale inizia il 25 ottobre.",
+            "A che ora è la lezione?",
+            "Dalle 7 alle 9.",
+            "Quanto costa?",
+            "Costa 125 dollari al mese.",
+            "Sì, va bene. Voglio iscrivermi al corso.",
+            "Grazie, per favore compila questo modulo per noi.",
+            "Vuoi che lo compili ora?",
+            "Sì, per favore. Abbiamo bisogno di un resoconto della tua istruzione e delle tue esperienze lavorative."
+        ]
+    },
+    {
+        "id": 3189,
+        "category": "School Life",
+        "original_dialogue": [
+            "Excuse me, I need your assistance.",
+            "Sure, what's up?",
+            "I have no idea where my class is.",
+            "Tell me which building it's in.",
+            "My class is in the C building.",
+            "I know where the C building is.",
+            "Do you mind telling me where it is?",
+            "Of course, which room number is it?",
+            "Number 261.",
+            "I actually have a class right around there.",
+            "Can you please show me?",
+            "I can do that."
+        ],
+        "translated_dialogue": [
+            "Mi scusi, ho bisogno del suo aiuto.",
+            "Certo, cosa succede?",
+            "Non ho idea di dove sia la mia classe.",
+            "Dimmi in quale edificio si trova.",
+            "La mia classe è nell'edificio C.",
+            "So dov'è l'edificio C.",
+            "Ti dispiace dirmi dov'è?",
+            "Certo, qual è il numero della stanza?",
+            "Numero 261.",
+            "In realtà ho una lezione proprio lì vicino.",
+            "Puoi mostrarmelo, per favore?",
+            "Posso farlo."
+        ]
+    },
+    {
+        "id": 2916,
+        "category": "School Life",
+        "original_dialogue": [
+            "Who are we going to play with today?",
+            "We are playing against Hainan.",
+            "Oh, the basketball team from No. 1 College? I know they're a tough team.",
+            "Sure they are.",
+            "Who's winning?",
+            "We are, 27 to 26.",
+            "Really? I thought that they'd been killing us by now.",
+            "How can it be? We are a tough team as well."
+        ],
+        "translated_dialogue": [
+            "Con chi giochiamo oggi?",
+            "Giochiamo contro Hainan.",
+            "Oh, la squadra di basket del College No. 1? So che sono una squadra forte.",
+            "Certo che lo sono.",
+            "Chi sta vincendo?",
+            "Noi, 27 a 26.",
+            "Davvero? Pensavo che ci avrebbero già battuto.",
+            "Come può essere? Anche noi siamo una squadra forte."
+        ]
+    },
+    {
+        "id": 3458,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "OK class, so today we are going to continue with our anatomy class, today we will review everything we have learned. Can anyone tell me what the first major organ is?",
+            "The brain!",
+            "That's right, the brain! It serves as a control center for the body, handling the processes of the central nervous system as well as cognition. Then what major organ is in our chest?",
+            "The heart!",
+            "Very good! It pumps blood throughout the body, using the circulatory system such as blood vessels and veins. Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive! Now what about the organs that help us digest food?",
+            "The stomach and intestines!",
+            "Very good! Let's not forget that the stomach is the one that breaks down our food and our intestines process that food and then expel the waste. Are we forgetting anything?",
+            "Yeah! Our kidneys, liver and bladder!",
+            "Oh yes, you are right. Very important organs indeed.",
+            "So what do these organs do, teacher?",
+            "Well, mumm, they... Time for a break! We can talk about it when you get back."
+        ],
+        "translated_dialogue": [
+            "OK classe, oggi continueremo con la nostra lezione di anatomia, oggi rivedremo tutto ciò che abbiamo imparato. Qualcuno può dirmi qual è il primo organo principale?",
+            "Il cervello!",
+            "Esatto, il cervello! Funziona come un centro di controllo per il corpo, gestendo i processi del sistema nervoso centrale e la cognizione. E quale organo principale si trova nel nostro petto?",
+            "Il cuore!",
+            "Molto bene! Pompa il sangue in tutto il corpo, utilizzando il sistema circolatorio come i vasi sanguigni e le vene. Ora non dimentichiamo che i nostri polmoni forniscono ossigeno al nostro cuore e al corpo per tenerci in vita! E ora, quali sono gli organi che ci aiutano a digerire il cibo?",
+            "Lo stomaco e gli intestini!",
+            "Molto bene! Non dimentichiamo che lo stomaco è quello che scompone il nostro cibo e i nostri intestini elaborano quel cibo e poi espellono i rifiuti. Stiamo dimenticando qualcosa?",
+            "Sì! I nostri reni, il fegato e la vescica!",
+            "Oh sì, hai ragione. Organi davvero molto importanti.",
+            "Quindi cosa fanno questi organi, insegnante?",
+            "Beh, mmm, loro... È ora di una pausa! Ne possiamo parlare quando torni."
+        ]
+    },
+    {
+        "id": 3310,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "Do you know where you want to transfer to?",
+            "I don’t have the slightest clue.",
+            "What school would you like to go to?",
+            "I’m not sure.",
+            "You honestly have no idea?",
+            "PCC is perfectly fine for me.",
+            "You might as well stay here.",
+            "That’s not a bad idea.",
+            "PCC is a wonderful institution.",
+            "You have a point.",
+            "So, what are you going to do?",
+            "I’m just going to keep going to PCC."
+        ],
+        "translated_dialogue": [
+            "Sai dove vuoi trasferirti?",
+            "Non ne ho la minima idea.",
+            "In quale scuola ti piacerebbe andare?",
+            "Non sono sicuro.",
+            "Davvero non hai idea?",
+            "PCC va benissimo per me.",
+            "Potresti anche restare qui.",
+            "Non è una cattiva idea.",
+            "PCC è un'istituzione meravigliosa.",
+            "Hai ragione.",
+            "Quindi, cosa farai?",
+            "Continuerò semplicemente ad andare al PCC."
+        ]
+    },
+    {
+        "id": 3466,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "Are you new here?",
+            "Yes, I am.",
+            "Is this your first year in college?",
+            "I actually transferred here from another school.",
+            "Which school?",
+            "I transferred from PCC.",
+            "How do you like it here compared to PCC?",
+            "I love it here.",
+            "Do you like it better here or at PCC?",
+            "Don’t get me wrong. I like it here, but PCC is better.",
+            "So, why did you leave PCC?",
+            "Because I got my AA and now I am going towards my bachelor degree."
+        ],
+        "translated_dialogue": [
+            "Sei nuovo qui?",
+            "Sì, lo sono.",
+            "È il tuo primo anno all'università?",
+            "In realtà mi sono trasferito qui da un'altra scuola.",
+            "Quale scuola?",
+            "Mi sono trasferito dal PCC.",
+            "Come ti trovi qui rispetto al PCC?",
+            "Mi piace molto qui.",
+            "Ti piace di più qui o al PCC?",
+            "Non fraintendermi. Mi piace qui, ma il PCC è meglio.",
+            "Allora, perché hai lasciato il PCC?",
+            "Perché ho ottenuto il mio AA e ora sto andando verso la laurea."
+        ]
+    },
+    {
+        "id": 3173,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "I’ve always wondered, what’s the difference between English for Chinese students and English for native students?",
+            "I don’t know. What do you think?",
+            "I think a Chinese student concentrates on written English, and uses it as a basis for communicating. From start to finish he’s learning vocabulary and fundamentals of grammar. This is a very difficult way to learn.",
+            "What do natives get?",
+            "They get higher level English, which is more formal than everyday spoken English. They also deal with matters of style and creativity.",
+            "Do you mean that a native doesn’t make any mistakes in grammar?",
+            "Absolutely not! Native speakers make a lot of grammar mistakes, especially if they come from a home where nonstandard English is spoken.",
+            "I suppose that only a small percentage of college students don’t know standard English in American universities.",
+            "Actually there are more non-native speakers than you think. That’s why it’s so important to quit worrying about making mistakes. Just talk to everyone every chance you get."
+        ],
+        "translated_dialogue": [
+            "Mi sono sempre chiesto, qual è la differenza tra l'inglese per studenti cinesi e l'inglese per studenti madrelingua?",
+            "Non lo so. Cosa ne pensi?",
+            "Penso che uno studente cinese si concentri sull'inglese scritto e lo usi come base per comunicare. Dall'inizio alla fine sta imparando il vocabolario e i fondamenti della grammatica. Questo è un modo molto difficile di imparare.",
+            "Cosa ottengono i madrelingua?",
+            "Ottengono un inglese di livello superiore, che è più formale rispetto all'inglese parlato quotidianamente. Si occupano anche di questioni di stile e creatività.",
+            "Vuoi dire che un madrelingua non commette errori di grammatica?",
+            "Assolutamente no! I madrelingua commettono molti errori di grammatica, specialmente se provengono da una casa dove si parla un inglese non standard.",
+            "Suppongo che solo una piccola percentuale di studenti universitari non conosca l'inglese standard nelle università americane.",
+            "In realtà ci sono più parlanti non nativi di quanto pensi. Ecco perché è così importante smettere di preoccuparsi di fare errori. Parla con tutti ogni volta che ne hai l'opportunità."
+        ]
+    },
+    {
+        "id": 3177,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "How's your time spent in the United States?",
+            "Well, pretty good.",
+            "I'm glad to hear that. What impressed you most?",
+            "Well, the cultural differences impressed me most.",
+            "You mean we Chinese think differently from the Americans?",
+            "That's right, quite different. One day one of my American friend looked pale, so I asked him whether he was sick or not. But he was reluctant to answer my question.",
+            "That's weird.",
+            "And what's more, when he told me he had caught a cold for several days, I suggested him to go to the hospital as soon as possible.",
+            "You really cared about your friend.",
+            "Sure I am. But he responded by saying 'what do you mean?'",
+            "I'm confused. Why did he say that?",
+            "I felt the same at first. Later he told me that I'd better not give him any suggestions when he was sick. Offering unsolicited help or advice is like showing sympathy to the weak or the poor. But back in China, helping others is always regarded being kind.",
+            "Absolutely. Now I understand why he responded that way."
+        ],
+        "translated_dialogue": [
+            "Come stai passando il tuo tempo negli Stati Uniti?",
+            "Bene, abbastanza bene.",
+            "Sono felice di sentirlo. Cosa ti ha colpito di più?",
+            "Beh, le differenze culturali mi hanno colpito di più.",
+            "Vuoi dire che noi cinesi pensiamo diversamente dagli americani?",
+            "Esatto, abbastanza diverso. Un giorno uno dei miei amici americani sembrava pallido, quindi gli ho chiesto se fosse malato o meno. Ma era riluttante a rispondere alla mia domanda.",
+            "È strano.",
+            "E inoltre, quando mi ha detto che aveva preso un raffreddore da diversi giorni, gli ho suggerito di andare in ospedale il prima possibile.",
+            "Ti sei davvero preoccupato per il tuo amico.",
+            "Certo che sì. Ma ha risposto dicendo 'cosa intendi?'",
+            "Sono confuso. Perché ha detto così?",
+            "All'inizio mi sono sentito allo stesso modo. Più tardi mi ha detto che sarebbe stato meglio non dargli alcun consiglio quando era malato. Offrire aiuto o consigli non richiesti è come mostrare simpatia per i deboli o i poveri. Ma in Cina, aiutare gli altri è sempre considerato un gesto di gentilezza.",
+            "Assolutamente. Ora capisco perché ha risposto in quel modo."
+        ]
+    },
+    {
+        "id": 3875,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Can I help you, sir?",
+            "Yes, I've been sitting here for a few minutes. I'm waiting for someone to put gas in my car.",
+            "I'm sorry, sir. But this is the self-service pump.",
+            "Self-service?",
+            "Yes. You must fill up the car yourself.",
+            "Are you serious?",
+            "Yes. Are you traveling here?",
+            "Yes, I'm from Taiwan. I never heard of a gas station where you fill up your own car.",
+            "In America, most gas stations are like this.",
+            "Do I really have to do it? I don't know how.",
+            "Well, since this is your first time, I will do it for you.But next time, if you want a full-service gas station, you should look at the sign.",
+            "What sign?",
+            "Under the sign for the gas station, there will be a smaller sign that says Self-Serve or Full-Service. And some gas stations have both. But if they have both, some pumps will be self-serve and some will be full-serve. You have to look at the signs.",
+            "I see."
+        ],
+        "translated_dialogue": [
+            "Posso aiutarla, signore?",
+            "Sì, sono seduto qui da qualche minuto. Sto aspettando che qualcuno metta benzina nella mia auto.",
+            "Mi dispiace, signore. Ma questa è una pompa self-service.",
+            "Self-service?",
+            "Sì. Deve fare il pieno da solo.",
+            "Sta scherzando?",
+            "Sì. Sta viaggiando qui?",
+            "Sì, vengo da Taiwan. Non ho mai sentito parlare di una stazione di servizio dove si fa il pieno da soli.",
+            "In America, la maggior parte delle stazioni di servizio sono così.",
+            "Devo davvero farlo? Non so come.",
+            "Bene, dato che è la sua prima volta, lo farò io per lei. Ma la prossima volta, se vuole una stazione di servizio completa, dovrebbe guardare il cartello.",
+            "Quale cartello?",
+            "Sotto il cartello della stazione di servizio, ci sarà un cartello più piccolo che dice Self-Serve o Full-Service. E alcune stazioni di servizio hanno entrambi. Ma se hanno entrambi, alcune pompe saranno self-service e altre saranno full-service. Deve guardare i cartelli.",
+            "Capisco."
+        ]
+    },
+    {
+        "id": 3531,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "How about a movie tonight?",
+            "It doesn’t matter to me.",
+            "Does 7 o'clock suit you?",
+            "Either way. I don’t care.",
+            "How about a snack after work?",
+            "I couldn’t careless.",
+            "Would you rather stay home?",
+            "Whatever you say.",
+            "Are you really interested in doing something?",
+            "I don’t mind if you want to."
+        ],
+        "translated_dialogue": [
+            "Che ne dici di un film stasera?",
+            "Non mi importa.",
+            "Le sette vanno bene per te?",
+            "In ogni caso. Non mi interessa.",
+            "Che ne dici di uno spuntino dopo il lavoro?",
+            "Non potrebbe importarmi di meno.",
+            "Preferiresti restare a casa?",
+            "Come vuoi.",
+            "Sei davvero interessato a fare qualcosa?",
+            "Non mi dispiace se vuoi."
+        ]
+    },
+    {
+        "id": 3986,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "I was thinking of holding the company retreat in the mountains.",
+            "I agree, I think that that would be perfect!",
+            "I was thinking it could take place sometime in January.",
+            "That might be a little too cold for some people.",
+            "Yes, you are right.",
+            "What about April? April has good weather that isn't too cold or too hot.",
+            "Yes, that would work out better.",
+            "You know, maybe we could take a survey to see how that works for everyone.",
+            "Good idea! We'll have to get right on it.",
+            "Fine! Well, I'll get right on it now!"
+        ],
+        "translated_dialogue": [
+            "Stavo pensando di organizzare il ritiro aziendale in montagna.",
+            "Sono d'accordo, penso che sarebbe perfetto!",
+            "Pensavo che potesse svolgersi a gennaio.",
+            "Potrebbe essere un po' troppo freddo per alcune persone.",
+            "Sì, hai ragione.",
+            "Che ne dici di aprile? Aprile ha un buon clima che non è né troppo freddo né troppo caldo.",
+            "Sì, sarebbe meglio.",
+            "Sai, forse potremmo fare un sondaggio per vedere come funziona per tutti.",
+            "Buona idea! Dobbiamo metterci subito al lavoro.",
+            "Va bene! Bene, mi ci metto subito!"
+        ]
+    },
+    {
+        "id": 3993,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "I was wondering if I could borrow the company van for a fundraiser this weekend.",
+            "Sure, I think that would be possible. Where is the fundraiser?",
+            "It is in the park downtown.",
+            "Would you need it for both Saturday and Sunday?",
+            "We will need it for Saturday only.",
+            "I think that would be OK. Who will be driving it?",
+            "Mary and I will be driving the van.",
+            "Could you drop it off on Sunday night?",
+            "Yes, we can do that. Can we borrow the chairs from the lunchroom also?",
+            "Yes, that would be fine. Just make sure that everything is returned by Sunday night."
+        ],
+        "translated_dialogue": [
+            "Mi chiedevo se potessi prendere in prestito il furgone aziendale per una raccolta fondi questo fine settimana.",
+            "Certo, penso che sia possibile. Dove si tiene la raccolta fondi?",
+            "È nel parco in centro.",
+            "Avresti bisogno del furgone sia per sabato che per domenica?",
+            "Ne avremo bisogno solo per sabato.",
+            "Penso che vada bene. Chi lo guiderà?",
+            "Io e Mary guideremo il furgone.",
+            "Potresti riportarlo domenica sera?",
+            "Sì, possiamo farlo. Possiamo prendere in prestito anche le sedie dalla sala mensa?",
+            "Sì, va bene. Assicurati solo che tutto venga restituito entro domenica sera."
+        ]
+    },
+    {
+        "id": 3392,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Ah! No! Damn it!",
+            "It's a blackout. Now I can't see Seinfeld.",
+            "So what? I just lost one hour's worth of work.",
+            "Really? How could you do that? Don't you save every couple minutes?",
+            "No, I didn't save this time.Damn it! And I'm sick of writing this paper. Now I have to write it all over again too.",
+            "I've had that problem too many times. So I learned to save.When I'm writing something, I save every three sentences or so. I don't want to lose anything.",
+            "I hate computers. Sometimes I think they cause more trouble than they're worth.",
+            "What are we going to do now?",
+            "I don't know. I feel like going out.",
+            "I wonder how much of the city is down.",
+            "It doesn't matter. I still can go out and buy a beer.",
+            "Maybe. But if there's a blackout, probably the pubs are closed.And besides, I know you have a political science exam tomorrow. I thought you had a lot of reading to do.",
+            "Yes, that's true. Damn! I just lost half my paper, and now I can't even do my homework.This is a bad time for this to happen.",
+            "I have a flashlight in my closet. If you want to use that to read, you can."
+        ],
+        "translated_dialogue": [
+            "Ah! No! Dannazione!",
+            "È un blackout. Ora non posso vedere Seinfeld.",
+            "E allora? Ho appena perso un'ora di lavoro.",
+            "Davvero? Come hai potuto farlo? Non salvi ogni paio di minuti?",
+            "No, non ho salvato questa volta. Dannazione! E sono stufo di scrivere questo documento. Ora devo riscriverlo tutto da capo.",
+            "Ho avuto quel problema troppe volte. Quindi ho imparato a salvare. Quando scrivo qualcosa, salvo ogni tre frasi circa. Non voglio perdere nulla.",
+            "Odio i computer. A volte penso che causino più problemi di quanto valgano.",
+            "Cosa facciamo adesso?",
+            "Non lo so. Ho voglia di uscire.",
+            "Mi chiedo quanto della città sia senza corrente.",
+            "Non importa. Posso comunque uscire e comprare una birra.",
+            "Forse. Ma se c'è un blackout, probabilmente i pub sono chiusi. E poi, so che hai un esame di scienze politiche domani. Pensavo avessi molto da leggere.",
+            "Sì, è vero. Dannazione! Ho appena perso metà del mio documento, e ora non posso nemmeno fare i compiti. Questo è un brutto momento perché accada.",
+            "Ho una torcia nel mio armadio. Se vuoi usarla per leggere, puoi."
+        ]
+    },
+    {
+        "id": 7379,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Susan, good evening. Why are you so dressed up?",
+            "I'm on my way out to a New Year's banquet. How do I look? Is my make-up ok?",
+            "You look great. Your make-up is perfect.",
+            "Do your think I should wear a different dress?",
+            "No, the one you have on looks fabulous, especially with your hair like that.",
+            "Thanks for saying. Do you have any ideas which necklace I should wear?",
+            "With that dress I'd like to say your white diamond necklace would look perfect.",
+            "Thanks for helping out. Now Im ready, what are you doing tonight?",
+            "Not much, Just a house party with some friends.",
+            "Sounds fun. Anyone I know?",
+            "Yeah, most of the people are from my office.",
+            "Sounds like I'm missing out on a good time. Oh, well, there's always next year.",
+            "I'm sure you will have fun no matter where you go. Remember to take your bag."
+        ],
+        "translated_dialogue": [
+            "Susan, buonasera. Perché sei così elegante?",
+            "Sto andando a un banchetto di Capodanno. Come sto? Il mio trucco va bene?",
+            "Stai benissimo. Il tuo trucco è perfetto.",
+            "Pensi che dovrei indossare un vestito diverso?",
+            "No, quello che indossi è favoloso, soprattutto con i tuoi capelli così.",
+            "Grazie per averlo detto. Hai qualche idea su quale collana dovrei indossare?",
+            "Con quel vestito direi che la tua collana di diamanti bianchi sarebbe perfetta.",
+            "Grazie per l'aiuto. Ora sono pronta, cosa fai stasera?",
+            "Non molto, solo una festa in casa con alcuni amici.",
+            "Sembra divertente. Qualcuno che conosco?",
+            "Sì, la maggior parte delle persone sono del mio ufficio.",
+            "Sembra che mi stia perdendo un bel momento. Oh, beh, c'è sempre l'anno prossimo.",
+            "Sono sicuro che ti divertirai ovunque tu vada. Ricordati di prendere la tua borsa."
+        ]
+    },
+    {
+        "id": 7561,
+        "category": "Relationship",
+        "original_dialogue": [
+            "I really love this meal.",
+            "Thanks. I was hoping that you would all enjoy this meal.",
+            "Where did you learn to cook these amazing dishes?",
+            "I got a really wonderful cookbook for my birthday and decided to try out a few of the recipes.",
+            "The chicken is out of this world!",
+            "I love that dish as well. It is coconut chicken with rice.",
+            "I was wondering if there was shrimp in the soup.",
+            "Yes, that soup has a shrimp base. I also added sea vegetables and lemon grass.",
+            "It worked out well that the wine that I brought to share seems to blend well with this meal.",
+            "I love this wine! It goes very well with the chicken."
+        ],
+        "translated_dialogue": [
+            "Mi piace davvero questo pasto.",
+            "Grazie. Speravo che tutti voi avreste apprezzato questo pasto.",
+            "Dove hai imparato a cucinare questi piatti straordinari?",
+            "Ho ricevuto un libro di cucina davvero meraviglioso per il mio compleanno e ho deciso di provare alcune delle ricette.",
+            "Il pollo è fuori dal mondo!",
+            "Anche a me piace quel piatto. È pollo al cocco con riso.",
+            "Mi chiedevo se ci fossero gamberetti nella zuppa.",
+            "Sì, quella zuppa ha una base di gamberetti. Ho anche aggiunto verdure di mare e citronella.",
+            "È andata bene che il vino che ho portato da condividere sembra abbinarsi bene a questo pasto.",
+            "Adoro questo vino! Si abbina molto bene con il pollo."
+        ]
+    },
+    {
+        "id": 7243,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Look, Bob. This is a photograph I took during my trip to Australia.",
+            "Let me see it, can I? This is a good photograph. Who are these people?",
+            "They’re people I met during the trip. That’s the ship we traveled on.",
+            "What a beautiful ship! Who’s this?",
+            "That’s the man I told you about. Remember?",
+            "Ah yes. The one who offered you a job in Australia.",
+            "That’s right.",
+            "Who’s this?",
+            "Guess!",
+            "It’s not you, is it?",
+            "That’s right. I grew a beard during the trip, but I shaved it off when I came home.",
+            "Why did you shave it off?",
+            "My wife didn’t like it!"
+        ],
+        "translated_dialogue": [
+            "Guarda, Bob. Questa è una fotografia che ho scattato durante il mio viaggio in Australia.",
+            "Fammi vedere, posso? Questa è una bella fotografia. Chi sono queste persone?",
+            "Sono persone che ho incontrato durante il viaggio. Quella è la nave su cui abbiamo viaggiato.",
+            "Che bella nave! Chi è questo?",
+            "Quello è l'uomo di cui ti ho parlato. Ricordi?",
+            "Ah sì. Quello che ti ha offerto un lavoro in Australia.",
+            "Esatto.",
+            "Chi è questo?",
+            "Indovina!",
+            "Non sei tu, vero?",
+            "Esatto. Ho fatto crescere la barba durante il viaggio, ma l'ho rasata quando sono tornato a casa.",
+            "Perché l'hai rasata?",
+            "A mia moglie non piaceva!"
+        ]
+    },
+    {
+        "id": 5232,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Would you like to go to a concert tonight?",
+            "I'd like to very much.",
+            "All right, then.There is one at the new concert hall.",
+            "Who's playing?",
+            "It's the Powell orchestra.",
+            "Do you know what they are playing?",
+            "They're doing a seventeenth-century program.",
+            "And who is directing?",
+            "Well, I'm not sure of his name, but I know it's going to be his farewell performance."
+        ],
+        "translated_dialogue": [
+            "Ti piacerebbe andare a un concerto stasera?",
+            "Mi piacerebbe molto.",
+            "Va bene, allora. Ce n'è uno nella nuova sala concerti.",
+            "Chi suona?",
+            "È l'orchestra Powell.",
+            "Sai cosa suonano?",
+            "Stanno facendo un programma del diciassettesimo secolo.",
+            "E chi dirige?",
+            "Beh, non sono sicuro del suo nome, ma so che sarà la sua esibizione d'addio."
+        ]
+    },
+    {
+        "id": 5324,
+        "category": "Relationship",
+        "original_dialogue": [
+            "It's nice and bright today, isn't it?",
+            "Yeah. The autumn is marvelous here.",
+            "How about winter?",
+            "That's a hard time. The air is cold and damp, and the road is often icy.",
+            "It's boring, right?",
+            "Sure.",
+            "Do you get much rain during the summer?",
+            "Plenty. We never worry about lack of rainwater in our area.",
+            "So you should bring an umbrella often.",
+            "That's right."
+        ],
+        "translated_dialogue": [
+            "È bello e luminoso oggi, vero?",
+            "Sì. L'autunno è meraviglioso qui.",
+            "E l'inverno?",
+            "È un periodo difficile. L'aria è fredda e umida, e la strada è spesso ghiacciata.",
+            "È noioso, vero?",
+            "Certo.",
+            "Piove molto durante l'estate?",
+            "Abbastanza. Non ci preoccupiamo mai della mancanza di acqua piovana nella nostra zona.",
+            "Quindi dovresti portare spesso un ombrello.",
+            "Esatto."
+        ]
+    },
+    {
+        "id": 8170,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Did you enjoy your weekend at the highland hotel? I heard it’s and excellent place to stay and has good facilities.",
+            "I had a wonderful time. The rooms are not very big, but they are well furnished. The restaurant is excellent and reasonably priced. There’s a sauna and a Jacuzzi.",
+            "Do they have a swimming pool?",
+            "No, they don’t. they have a beauty parlor, but I didn’t go there.",
+            "What’s the service like?",
+            "It’s very good. Check in and check out at the reception only took a few minutes. The wait staff is very good. A waiter recommended their baked fish, which tasted wonderful. The hotel was quite full, so I’d suggest making a reservation if you intend to go there. The hotel offers a discount at the weekends.",
+            "It sounds perfect. Did you have any complaints at all?",
+            "There was a problem with the internet access, so I couldn’t check my email, but I didn’t complain about it to the management.",
+            "I suppose you were happy to forget about the outside world.",
+            "Yes, I was. Here’s their business card.",
+            "Thanks. Was there a mina bar in the room?",
+            "No, there wasn’t. There is a bar on the ground floor and of course you can buy drinks in the restaurant to go with your meal.",
+            "One of the things I dislike about hotels is that everyone expects tips.",
+            "I know. At the inland hotel, they have an interesting policy. When you check out, you put some money in a special box at reception. Each evening, the money in the box is shared equally by the hotel staff."
+        ],
+        "translated_dialogue": [
+            "Ti sei divertito durante il fine settimana all'hotel Highland? Ho sentito che è un ottimo posto dove soggiornare e ha buone strutture.",
+            "Ho passato un tempo meraviglioso. Le camere non sono molto grandi, ma sono ben arredate. Il ristorante è eccellente e a prezzi ragionevoli. C'è una sauna e una Jacuzzi.",
+            "Hanno una piscina?",
+            "No, non ce l'hanno. Hanno un salone di bellezza, ma non ci sono andato.",
+            "Com'è il servizio?",
+            "È molto buono. Il check-in e il check-out alla reception hanno richiesto solo pochi minuti. Il personale di sala è molto bravo. Un cameriere ha consigliato il loro pesce al forno, che era delizioso. L'hotel era abbastanza pieno, quindi suggerirei di fare una prenotazione se intendi andarci. L'hotel offre uno sconto nei fine settimana.",
+            "Sembra perfetto. Hai avuto qualche lamentela?",
+            "C'era un problema con l'accesso a Internet, quindi non ho potuto controllare la mia email, ma non mi sono lamentato con la direzione.",
+            "Suppongo che fossi felice di dimenticare il mondo esterno.",
+            "Sì, lo ero. Ecco il loro biglietto da visita.",
+            "Grazie. C'era un minibar nella stanza?",
+            "No, non c'era. C'è un bar al piano terra e naturalmente puoi comprare bevande nel ristorante da accompagnare al tuo pasto.",
+            "Una delle cose che non mi piacciono degli hotel è che tutti si aspettano mance.",
+            "Lo so. All'hotel Highland, hanno una politica interessante. Quando fai il check-out, metti dei soldi in una scatola speciale alla reception. Ogni sera, il denaro nella scatola viene diviso equamente tra il personale dell'hotel."
+        ]
+    },
+    {
+        "id": 8165,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Madison Suites, how may I help you?",
+            "Yes, I'm calling from Mexico. I will be in town next week and would like to know if you have availability.",
+            "OK ma'am, can you tell me the date you expect to check in?",
+            "Yes, July ninth. I will be there for seven nights.",
+            "We have a junior single suite or a superior double suite available for those dates.",
+            "What's the difference?",
+            "The junior suite is smaller and has one twin bed, while the superior suite has a double bed and mini-bar.",
+            "OK, I would like to reserve the superior suite. Is breakfast included?",
+            "Yes, a buffet breakfast is served every morning. I will need your name and your credit card details in order to complete the reservation.",
+            "Sure, my credit card number is..."
+        ],
+        "translated_dialogue": [
+            "Madison Suites, come posso aiutarla?",
+            "Sì, chiamo dal Messico. Sarò in città la prossima settimana e vorrei sapere se avete disponibilità.",
+            "Va bene signora, può dirmi la data in cui prevede di fare il check-in?",
+            "Sì, il nove luglio. Sarò lì per sette notti.",
+            "Abbiamo una junior suite singola o una suite doppia superiore disponibili per quelle date.",
+            "Qual è la differenza?",
+            "La junior suite è più piccola e ha un letto singolo, mentre la suite superiore ha un letto matrimoniale e un mini-bar.",
+            "Va bene, vorrei prenotare la suite superiore. La colazione è inclusa?",
+            "Sì, una colazione a buffet viene servita ogni mattina. Avrò bisogno del suo nome e dei dettagli della sua carta di credito per completare la prenotazione.",
+            "Certo, il numero della mia carta di credito è..."
+        ]
+    },
+    {
+        "id": 7846,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Excuse me, can you tell me how to apply for a visa to America?",
+            "Log on to the website of American Embassy in Beijing and fill in the application forms.",
+            "And what should I do next?",
+            "Then make an appointment by telephone and wait for the interview.",
+            "How long will I wait for?",
+            "It all depends.",
+            "What's the fee for application?",
+            "About 800 yuan.",
+            "Thank you very much.",
+            "You are welcome."
+        ],
+        "translated_dialogue": [
+            "Mi scusi, può dirmi come fare domanda per un visto per l'America?",
+            "Acceda al sito web dell'Ambasciata Americana a Pechino e compili i moduli di domanda.",
+            "E cosa devo fare dopo?",
+            "Poi fissi un appuntamento per telefono e aspetti l'intervista.",
+            "Quanto tempo dovrò aspettare?",
+            "Dipende.",
+            "Qual è la tassa per la domanda?",
+            "Circa 800 yuan.",
+            "Grazie mille.",
+            "Prego."
+        ]
+    },
+    {
+        "id": 8354,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Can I help you, sir?",
+            "Yes, I'm checking out.",
+            "Can I have your key and room number, please?",
+            "Room 1419. Here's my key.",
+            "Here's your bill, sir. Could you please check it?",
+            "It's all right. Please charge it to my credit card.",
+            "Here you are, sir. You're all set. I hope you enjoyed your stay. And that next time you're in town, you will stay with us again.",
+            "I will. Where can I leave my luggage? I really want to leave after lunch.",
+            "The bell captain will put it in the storage room. When you're ready to leave, you can claim your luggage from him.",
+            "Thanks very much. And good-bye."
+        ],
+        "translated_dialogue": [
+            "Posso aiutarla, signore?",
+            "Sì, sto facendo il check-out.",
+            "Posso avere la sua chiave e il numero della stanza, per favore?",
+            "Stanza 1419. Ecco la mia chiave.",
+            "Ecco il suo conto, signore. Potrebbe controllarlo, per favore?",
+            "Va bene. Per favore, addebitatelo sulla mia carta di credito.",
+            "Ecco a lei, signore. È tutto a posto. Spero che abbia gradito il suo soggiorno. E che la prossima volta che sarà in città, soggiornerà di nuovo con noi.",
+            "Lo farò. Dove posso lasciare il mio bagaglio? Vorrei davvero partire dopo pranzo.",
+            "Il capo facchino lo metterà nel deposito bagagli. Quando sarà pronto a partire, potrà ritirare il suo bagaglio da lui.",
+            "Grazie mille. E arrivederci."
+        ]
+    },
+    {
+        "id": 8158,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Good morning. More Hotel. At your service.",
+            "Good morning! I'd like to make a reservation, please. Do you have any rooms available for the next week?",
+            "All right. Single-room or double-room?",
+            "Double-room, please. It's for an American couple.",
+            "Hold on, please. Let me check the bookings. Yes, we have double-rooms available. What kind of room would you like, sir?",
+            "I'd like a room with a nice view, please.",
+            "We have a nice garden-view room.",
+            "Good. I'll take that one. Is there a bar in your hotel?",
+            "Yes, sir. And there is also a party going on each Saturday night in the bar till next morning.",
+            "Party all night? Hotel California? No kidding. Anyway, what's the room charge?",
+            "888 Yuan per night. With breakfast. “Northern Star” buffet! What's there arriving time?",
+            "They turn up around 4p.m. next Monday, and they check out on next Sunday.",
+            "I see. May I have your name and phone number?",
+            "Yes. 123-4567. Benjamin."
+        ],
+        "translated_dialogue": [
+            "Buongiorno. More Hotel. A sua disposizione.",
+            "Buongiorno! Vorrei fare una prenotazione, per favore. Avete delle camere disponibili per la prossima settimana?",
+            "Va bene. Camera singola o doppia?",
+            "Camera doppia, per favore. È per una coppia americana.",
+            "Un momento, per favore. Lasci che controlli le prenotazioni. Sì, abbiamo camere doppie disponibili. Che tipo di camera desidera, signore?",
+            "Vorrei una camera con una bella vista, per favore.",
+            "Abbiamo una bella camera con vista sul giardino.",
+            "Bene. Prenderò quella. C'è un bar nel vostro hotel?",
+            "Sì, signore. E c'è anche una festa ogni sabato sera nel bar fino al mattino successivo.",
+            "Festa tutta la notte? Hotel California? Non scherza. Comunque, qual è il costo della camera?",
+            "888 Yuan a notte. Con colazione. Buffet “Northern Star”! Qual è l'orario di arrivo?",
+            "Arrivano intorno alle 16:00 il prossimo lunedì e partono la domenica successiva.",
+            "Capisco. Posso avere il suo nome e numero di telefono?",
+            "Sì. 123-4567. Benjamin."
+        ]
+    },
+    {
+        "id": 8553,
+        "category": "Health",
+        "original_dialogue": [
+            "I came here to get a chest X-ray.",
+            "I will need you to take your clothes off from the waist up and put on the gown, leaving the opening in the back.",
+            "What comes next?",
+            "I will need you to face this glass plate right over here.",
+            "Should I do anything else?",
+            "Your arms need to be raised to shoulder height.",
+            "Is this OK?",
+            "So far, so good.",
+            "How come you are walking away?",
+            "I am not leaving. I just need you to take a really deep breath, hold it, and then let it out.",
+            "Will I be finished then?",
+            "You will be able to put your clothes on as soon as I have checked the film."
+        ],
+        "translated_dialogue": [
+            "Sono venuto qui per fare una radiografia al torace.",
+            "Avrò bisogno che ti spogli dalla vita in su e indossi il camice, lasciando l'apertura sul retro.",
+            "Cosa succede dopo?",
+            "Avrò bisogno che ti metta di fronte a questa lastra di vetro proprio qui.",
+            "Devo fare qualcos'altro?",
+            "Le tue braccia devono essere sollevate all'altezza delle spalle.",
+            "Va bene così?",
+            "Finora, tutto bene.",
+            "Perché ti stai allontanando?",
+            "Non me ne sto andando. Ho solo bisogno che tu faccia un respiro profondo, lo trattenga e poi lo lasci andare.",
+            "Avrò finito allora?",
+            "Potrai rimetterti i vestiti non appena avrò controllato la pellicola."
+        ]
+    },
+    {
+        "id": 8453,
+        "category": "Health",
+        "original_dialogue": [
+            "How do I take the tablets?",
+            "Please take 2 tablets each time, 4 times a day.",
+            "How do I take the sucking lozenges?",
+            "Please put one under your tongue, do not swallow it.",
+            "How do I take the pills?",
+            "Please dissolve one pill in water before taking it.",
+            "Well, thanks very much.",
+            "You're welcome."
+        ],
+        "translated_dialogue": [
+            "Come prendo le compresse?",
+            "Per favore, prenda 2 compresse ogni volta, 4 volte al giorno.",
+            "Come prendo le pastiglie da succhiare?",
+            "Per favore, metta una sotto la lingua, non la inghiotta.",
+            "Come prendo le pillole?",
+            "Per favore, sciolga una pillola in acqua prima di prenderla.",
+            "Bene, grazie mille.",
+            "Prego."
+        ]
+    },
+    {
+        "id": 8549,
+        "category": "Health",
+        "original_dialogue": [
+            "How have you been doing?",
+            "I can’t sleep or eat. I have a really bad pain in my tooth!",
+            "How long have you had this toothache?",
+            "It bothers me off and on, but it’s gotten much worse these past few weeks.",
+            "Is there anything that you’Ve done to your tooth that might have caused the pain?",
+            "My girlfriend told me that I grind my teeth a lot when I sleep. Maybe that is the problem.",
+            "When you brush your teeth, what do you use?",
+            "I use a soft bristle toothbrush.",
+            "Does it bother you when you have to chew a lot?",
+            "Absolutely. That set it off big time!"
+        ],
+        "translated_dialogue": [
+            "Come stai?",
+            "Non riesco a dormire né a mangiare. Ho un dolore terribile al dente!",
+            "Da quanto tempo hai questo mal di denti?",
+            "Mi dà fastidio a intermittenza, ma è peggiorato molto nelle ultime settimane.",
+            "Hai fatto qualcosa al dente che potrebbe aver causato il dolore?",
+            "La mia ragazza mi ha detto che digrigno molto i denti quando dormo. Forse è questo il problema.",
+            "Quando ti lavi i denti, cosa usi?",
+            "Uso uno spazzolino a setole morbide.",
+            "Ti dà fastidio quando devi masticare molto?",
+            "Assolutamente. Questo lo scatena di brutto!"
+        ]
+    },
+    {
+        "id": 8628,
+        "category": "Health",
+        "original_dialogue": [
+            "Billy, you don’t look too well. Maybe you should take the day off school.",
+            "But Mom! Today we’re playing football! I love football!",
+            "You’ve god a fever and playing football isn’t a good idea for a boy with a fever. What’s that on your arm?",
+            "I don’t know. It was there when I woke up this morning.",
+            "It’s a rash. I’d better take you to see the doctor. How did you get that bruise on your leg?",
+            "I bashed it against the chair in my room.",
+            "Does it hurt?",
+            "A little, but not much.",
+            "Here. Put this wet towel on your face to keep your temperature down. I’ll take you to the doctor’s after breakfast.",
+            "If I’m better this afternoon, can I go to school?",
+            "If you are better, but I doubt you will be."
+        ],
+        "translated_dialogue": [
+            "Billy, non sembri stare molto bene. Forse dovresti prenderti un giorno di riposo dalla scuola.",
+            "Ma mamma! Oggi giochiamo a calcio! Amo il calcio!",
+            "Hai la febbre e giocare a calcio non è una buona idea per un ragazzo con la febbre. Cos'è quello sul tuo braccio?",
+            "Non lo so. Era lì quando mi sono svegliato stamattina.",
+            "È un'eruzione cutanea. È meglio che ti porti dal dottore. Come ti sei fatto quel livido sulla gamba?",
+            "L'ho sbattuto contro la sedia nella mia stanza.",
+            "Fa male?",
+            "Un po', ma non molto.",
+            "Ecco. Metti questo asciugamano bagnato sul viso per abbassare la temperatura. Ti porterò dal dottore dopo colazione.",
+            "Se sto meglio questo pomeriggio, posso andare a scuola?",
+            "Se stai meglio, ma dubito che lo sarai."
+        ]
+    },
+    {
+        "id": 8410,
+        "category": "Health",
+        "original_dialogue": [
+            "Good afternoon, Miss Qi.",
+            "Good afternoon. It's very nice to see you again.",
+            "How are you feeling today?",
+            "I'm much better. The stomachache is gone, and the doctor is about to give me another endoscope examination to see whether the ulcer has healed.",
+            "That's good. Well, these are for you. I hope you will like them.",
+            "How beautiful they are! Thank you so much.",
+            "I've also brought some magazines for you. I hope they'll keep you from getting bored while you're in the hospital.",
+            "You're so thoughtful!",
+            "It's time for me to leave. I hope you will recover soon. See you later.",
+            "Thank you for coming. Good-bye."
+        ],
+        "translated_dialogue": [
+            "Buon pomeriggio, signorina Qi.",
+            "Buon pomeriggio. È molto bello rivederti.",
+            "Come ti senti oggi?",
+            "Sto molto meglio. Il mal di stomaco è passato e il dottore sta per farmi un'altra endoscopia per vedere se l'ulcera è guarita.",
+            "È una buona notizia. Bene, questi sono per te. Spero che ti piacciano.",
+            "Quanto sono belli! Grazie mille.",
+            "Ho portato anche delle riviste per te. Spero che ti aiutino a non annoiarti mentre sei in ospedale.",
+            "Sei così premuroso!",
+            "È ora che vada. Spero che ti riprenda presto. A presto.",
+            "Grazie per essere venuto. Arrivederci."
+        ]
+    },
+    {
+        "id": 9619,
+        "category": "Work",
+        "original_dialogue": [
+            "Mr. McKenna, do you have a second? I need to talk to you about something.",
+            "Sure, Liv, what can I do for you ?",
+            "Well, I was just wondering... you see, I know I’ve used up all my vacation days this year, but my sister is getting married, and the wedding is overseas, and, well...",
+            "You wanna take some time off, is that right ?",
+            "Well, sir, I was just hoping that I might be able to take some unpaid leave this year.",
+            "What dates are you planning on taking off? I’ll need at least two months notice, so that I can plan for your absence.",
+            "I was thinking of taking off from September first until the thirtieth. Would you be okay with that?",
+            "Well, I guess so."
+        ],
+        "translated_dialogue": [
+            "Signor McKenna, ha un momento? Devo parlarle di qualcosa.",
+            "Certo, Liv, cosa posso fare per te?",
+            "Beh, mi chiedevo... vedi, so che ho usato tutti i miei giorni di vacanza quest'anno, ma mia sorella si sposa e il matrimonio è all'estero, e, beh...",
+            "Vuoi prenderti un po' di tempo libero, giusto?",
+            "Beh, signore, speravo di poter prendere un congedo non retribuito quest'anno.",
+            "Quali date hai intenzione di prendere? Avrò bisogno di almeno due mesi di preavviso, così posso pianificare la tua assenza.",
+            "Pensavo di prendermi dal primo settembre fino al trenta. Saresti d'accordo con questo?",
+            "Beh, suppongo di sì."
+        ]
+    },
+    {
+        "id": 9099,
+        "category": "Work",
+        "original_dialogue": [
+            "Today is Saturday, isn't it?",
+            "Yes, what's wrong?",
+            "What's the date today?",
+            "Today is September 28th, 2007.",
+            "I have a meeting this afternoon.",
+            "When will it begin?",
+            "It will begin at three o'cock. What's the time now?",
+            "It is half past one.",
+            "I have to go now. I don't want to be late.",
+            "Don't worry, time is enough."
+        ],
+        "translated_dialogue": [
+            "Oggi è sabato, vero?",
+            "Sì, cosa c'è che non va?",
+            "Qual è la data di oggi?",
+            "Oggi è il 28 settembre 2007.",
+            "Ho una riunione questo pomeriggio.",
+            "Quando inizierà?",
+            "Inizierà alle tre. Che ore sono adesso?",
+            "È l'una e mezza.",
+            "Devo andare adesso. Non voglio essere in ritardo.",
+            "Non preoccuparti, c'è abbastanza tempo."
+        ]
+    },
+    {
+        "id": 8694,
+        "category": "Work",
+        "original_dialogue": [
+            "Janice, do you still remember how our filing system works?",
+            "Yes, I have read the Filling Instruction carefully, since you showed me it last week.",
+            "Very good. What is the essence of filing, do you know?",
+            "The essence of filing I remember is to bring together in a single folder or file all papers relating to a particular subject. And outgoing and incoming letters are kept in this file cabinet.",
+            "Yes, ' One customer--one file ' is essential. And remember to update them timely.",
+            "And each file should be named clearly, either in block capitals or in jet black typed capitals.",
+            "Correct.",
+            "A card index is very important in the filing system. It is a most helpful friend to a secretary, so it must be kept handy and up to date.",
+            "Yes, prompt and careful filing contributes greatly to the efficiency of our office."
+        ],
+        "translated_dialogue": [
+            "Janice, ti ricordi ancora come funziona il nostro sistema di archiviazione?",
+            "Sì, ho letto attentamente le istruzioni per l'archiviazione, da quando me le hai mostrate la settimana scorsa.",
+            "Molto bene. Sai qual è l'essenza dell'archiviazione?",
+            "L'essenza dell'archiviazione, che ricordo, è riunire in una singola cartella o file tutti i documenti relativi a un particolare argomento. E le lettere in uscita e in entrata sono conservate in questo schedario.",
+            "Sì, 'Un cliente--un file' è essenziale. E ricorda di aggiornarli tempestivamente.",
+            "E ogni file dovrebbe essere nominato chiaramente, sia in maiuscolo che in maiuscolo nero a stampa.",
+            "Corretto.",
+            "Un indice a schede è molto importante nel sistema di archiviazione. È un amico molto utile per una segretaria, quindi deve essere tenuto a portata di mano e aggiornato.",
+            "Sì, un'archiviazione tempestiva e accurata contribuisce notevolmente all'efficienza del nostro ufficio."
+        ]
+    },
+    {
+        "id": 8740,
+        "category": "Work",
+        "original_dialogue": [
+            "Hi, is this Sue?",
+            "Yes?",
+            "Sue, this is Tom Lin from Allied Trust and I'm calling to offer you a position with our firm.",
+            "What position?",
+            "Senior account rep.",
+            "How much does it pay?",
+            "It starts at $30,000.",
+            "I'm sorry but my bottom figure is $36,000."
+        ],
+        "translated_dialogue": [
+            "Ciao, è Sue?",
+            "Sì?",
+            "Sue, sono Tom Lin di Allied Trust e ti sto chiamando per offrirti una posizione nella nostra azienda.",
+            "Quale posizione?",
+            "Rappresentante senior dei conti.",
+            "Quanto paga?",
+            "Inizia a $30,000.",
+            "Mi dispiace, ma la mia cifra minima è $36,000."
+        ]
+    },
+    {
+        "id": 8649,
+        "category": "Work",
+        "original_dialogue": [
+            "Can I talk to you for a moment, manager?",
+            "Yes, of course. What is it?",
+            "I've decided to leave.",
+            "Leave? Why?",
+            "I've worked here for two years. And I want to do something different.",
+            "What do you mean by something different?",
+            "I want to live abroad and learn to speak a different language.",
+            "I'm really sorry. But I understand.",
+            "Thank you, manager."
+        ],
+        "translated_dialogue": [
+            "Posso parlarti un momento, manager?",
+            "Sì, certo. Di cosa si tratta?",
+            "Ho deciso di andarmene.",
+            "Andartene? Perché?",
+            "Ho lavorato qui per due anni. E voglio fare qualcosa di diverso.",
+            "Cosa intendi per qualcosa di diverso?",
+            "Voglio vivere all'estero e imparare a parlare una lingua diversa.",
+            "Mi dispiace molto. Ma capisco.",
+            "Grazie, manager."
+        ]
+    },
+    {
+        "id": 10077,
+        "category": "Politics",
+        "original_dialogue": [
+            "Could I speak to you for a minute?",
+            "What do you want to speak to me about?",
+            "I want to talk about this year’s election.",
+            "Oh, you do?",
+            "I am volunteering for the campaign.",
+            "What made you decide to volunteer?",
+            "I want to be a part of history.",
+            "Good for you.",
+            "Do you plan on voting?",
+            "I will be voting.",
+            "You should try and make it early to your polling place.",
+            "Thanks for letting me know."
+        ],
+        "translated_dialogue": [
+            "Potrei parlarti un minuto?",
+            "Di cosa vuoi parlarmi?",
+            "Voglio parlare delle elezioni di quest'anno.",
+            "Oh, davvero?",
+            "Sto facendo volontariato per la campagna.",
+            "Cosa ti ha spinto a fare volontariato?",
+            "Voglio far parte della storia.",
+            "Bravo.",
+            "Hai intenzione di votare?",
+            "Voterò.",
+            "Dovresti cercare di arrivare presto al tuo seggio elettorale.",
+            "Grazie per avermelo detto."
+        ]
+    },
+    {
+        "id": 10166,
+        "category": "Politics",
+        "original_dialogue": [
+            "Will you be voting?",
+            "I will. Will you be voting?",
+            "Well, when is the election?",
+            "You don’t know that?",
+            "I just don’t know.",
+            "It’s this Tuesday.",
+            "You can’t be serious.",
+            "Why would I joke?",
+            "Thanks for telling me.",
+            "You should’ve known already.",
+            "I forgot.",
+            "As long as you go vote, that’s all that matters."
+        ],
+        "translated_dialogue": [
+            "Voterai?",
+            "Sì, voterò. E tu, voterai?",
+            "Beh, quando sono le elezioni?",
+            "Non lo sai?",
+            "Non lo so proprio.",
+            "È questo martedì.",
+            "Non puoi essere serio.",
+            "Perché dovrei scherzare?",
+            "Grazie per avermelo detto.",
+            "Avresti dovuto saperlo già.",
+            "Ho dimenticato.",
+            "Finché vai a votare, è tutto ciò che conta."
+        ]
+    },
+    {
+        "id": 10151,
+        "category": "Politics",
+        "original_dialogue": [
+            "Where are you going?",
+            "I have to go to work.",
+            "Going to work where?",
+            "I’m working at the polling place.",
+            "I didn’t know you were working there this year.",
+            "I work at the polling place every year.",
+            "How did you get that job?",
+            "I signed up for it online.",
+            "That’s really cool.",
+            "It’s a very cool job.",
+            "Do they pay you a lot?",
+            "They pay well enough."
+        ],
+        "translated_dialogue": [
+            "Dove stai andando?",
+            "Devo andare al lavoro.",
+            "Dove vai a lavorare?",
+            "Sto lavorando al seggio elettorale.",
+            "Non sapevo che lavorassi lì quest'anno.",
+            "Lavoro al seggio elettorale ogni anno.",
+            "Come hai ottenuto quel lavoro?",
+            "Mi sono iscritto online.",
+            "È davvero fantastico.",
+            "È un lavoro molto bello.",
+            "Ti pagano molto?",
+            "Pagano abbastanza bene."
+        ]
+    },
+    {
+        "id": 10157,
+        "category": "Politics",
+        "original_dialogue": [
+            "You heard who won the election, right?",
+            "Who was elected?",
+            "McCain won the election.",
+            "That can’t be true!",
+            "I’m upset, too.",
+            "I can’t believe people voted for him.",
+            "People must want him as our President.",
+            "That doesn’t make any sense.",
+            "I have more bad news.",
+            "How could the news get any worse?",
+            "I was only kidding, because Obama won the election.",
+            "That’s great news!"
+        ],
+        "translated_dialogue": [
+            "Hai sentito chi ha vinto le elezioni, vero?",
+            "Chi è stato eletto?",
+            "McCain ha vinto le elezioni.",
+            "Non può essere vero!",
+            "Anch'io sono sconvolto.",
+            "Non posso credere che la gente abbia votato per lui.",
+            "La gente deve volerlo come nostro Presidente.",
+            "Non ha alcun senso.",
+            "Ho altre brutte notizie.",
+            "Come potrebbero peggiorare le notizie?",
+            "Stavo solo scherzando, perché Obama ha vinto le elezioni.",
+            "Questa è una grande notizia!"
+        ]
+    },
+    {
+        "id": 10153,
+        "category": "Politics",
+        "original_dialogue": [
+            "We’re asking for donations today.",
+            "What are you collecting donations for?",
+            "We’re trying to raise money for the campaigns.",
+            "How much are you planning on raising?",
+            "As much as possible.",
+            "What kind of fundraisers are you doing?",
+            "We are going door to door.",
+            "You should try actual fundraisers, too.",
+            "What else can we do?",
+            "Try having a car wash or selling candy.",
+            "I didn’t think of that.",
+            "I know. It’ll also help you make more money."
+        ],
+        "translated_dialogue": [
+            "Stiamo chiedendo donazioni oggi.",
+            "Per cosa state raccogliendo donazioni?",
+            "Stiamo cercando di raccogliere fondi per le campagne.",
+            "Quanto avete intenzione di raccogliere?",
+            "Il più possibile.",
+            "Che tipo di raccolte fondi state facendo?",
+            "Stiamo andando porta a porta.",
+            "Dovreste provare anche delle vere raccolte fondi.",
+            "Cos'altro possiamo fare?",
+            "Provate a fare un lavaggio auto o a vendere dolci.",
+            "Non ci avevo pensato.",
+            "Lo so. Vi aiuterà anche a guadagnare di più."
+        ]
+    },
+    {
+        "id": 10547,
+        "category": "Finance",
+        "original_dialogue": [
+            "May I ask you a few questions about insurance?",
+            "Yes.",
+            "Now we've given a CIF Shanghai price for some steel plates. What insurance rate do you suggest we should get?",
+            "Well. Obviously, you won’t want All Risks cover.",
+            "Why not?",
+            "Because they aren’t delicate goods and won’t likely be damaged on the voyage. FPA will be good enough.",
+            "Then am I right in understanding that FPA doesn't cover partial loss for the nature of particular average.",
+            "That's right. On the other hand, a WA policy covers you against partial loss in all cases.",
+            "Are there any other clauses in marine policies?",
+            "Oh, lots of them. For instance, War Risks, TEND and SICC.",
+            "Well, thank you very much for all that information. Could you give me a quotation for my consignment now?",
+            "Are you going to make an offer today?",
+            "Yes. My customer is in urgent need of the steel plates.",
+            "Ok, I'll get this rate right away.",
+            "Thank you."
+        ],
+        "translated_dialogue": [
+            "Posso farti alcune domande sull'assicurazione?",
+            "Sì.",
+            "Ora abbiamo dato un prezzo CIF Shanghai per alcune lamiere d'acciaio. Quale tasso di assicurazione suggerisci di ottenere?",
+            "Beh. Ovviamente, non vorrai una copertura All Risks.",
+            "Perché no?",
+            "Perché non sono merci delicate e non è probabile che vengano danneggiate durante il viaggio. FPA sarà sufficiente.",
+            "Allora ho capito bene che FPA non copre la perdita parziale per la natura di avaria particolare.",
+            "Esatto. D'altra parte, una polizza WA ti copre contro la perdita parziale in tutti i casi.",
+            "Ci sono altre clausole nelle polizze marittime?",
+            "Oh, molte. Ad esempio, Rischi di Guerra, TEND e SICC.",
+            "Bene, grazie mille per tutte queste informazioni. Potresti darmi un preventivo per la mia spedizione ora?",
+            "Hai intenzione di fare un'offerta oggi?",
+            "Sì. Il mio cliente ha urgente bisogno delle lamiere d'acciaio.",
+            "Ok, otterrò questo tasso subito.",
+            "Grazie."
+        ]
+    },
+    {
+        "id": 10278,
+        "category": "Finance",
+        "original_dialogue": [
+            "How can I help you today?",
+            "I want to sign up for some funds units. How do I go about it?",
+            "Have you got some ID and your cash card?",
+            "Yes. I've already got a fund account with you too.",
+            "How many more fund units would you like to purchase today?",
+            "I'm not quite sure. You see, I already have more than 5,000 RIB in my cash card, but I really don't know how much I should get.",
+            "The usual minimum purchase is 5,000 RIB.",
+            "That settles it then. 5,000 RIB it is, thanks."
+        ],
+        "translated_dialogue": [
+            "Come posso aiutarti oggi?",
+            "Voglio iscrivermi per alcune unità di fondi. Come faccio?",
+            "Hai un documento d'identità e la tua carta di credito?",
+            "Sì. Ho già un conto fondi con voi.",
+            "Quante altre unità di fondi vorresti acquistare oggi?",
+            "Non sono del tutto sicuro. Vedi, ho già più di 5.000 RIB nella mia carta di credito, ma non so davvero quanto dovrei prendere.",
+            "L'acquisto minimo usuale è di 5.000 RIB.",
+            "Allora è deciso. 5.000 RIB, grazie."
+        ]
+    },
+    {
+        "id": 10333,
+        "category": "Finance",
+        "original_dialogue": [
+            "Welcome to the International Business Department. How can I help you?",
+            "Hello. I'm Ms Dawson from Lexington Software. I need to send these documents to Vietnam via L/C.",
+            "No problem, I can do that for you right now. Have you checked the documents?",
+            "I have, but I have never done this before so would it be possible for you to double check them?",
+            "Of course, that's all part of the service.",
+            "Thank you. I don't think there should be any problems, but just to be sure...",
+            "Don't worry; I'm sure it will be fine. If I do have any queries I'll call you, OK?",
+            "That's fine. Thank you again."
+        ],
+        "translated_dialogue": [
+            "Benvenuto nel Dipartimento di Affari Internazionali. Come posso aiutarla?",
+            "Salve. Sono la signora Dawson della Lexington Software. Ho bisogno di inviare questi documenti in Vietnam tramite L/C.",
+            "Nessun problema, posso farlo per lei subito. Ha controllato i documenti?",
+            "Sì, ma non l'ho mai fatto prima, quindi sarebbe possibile per lei ricontrollarli?",
+            "Certo, fa parte del servizio.",
+            "Grazie. Non penso ci siano problemi, ma solo per essere sicura...",
+            "Non si preoccupi; sono sicuro che andrà tutto bene. Se avrò qualche domanda, la chiamerò, va bene?",
+            "Va bene. Grazie ancora."
+        ]
+    },
+    {
+        "id": 10086,
+        "category": "Finance",
+        "original_dialogue": [
+            "IBA, Maria speaking. How can I help?",
+            "Hello, I called earlier regarding interest rates on loans. Sorry, I just have a couple more questions.",
+            "I'm here to help. Tell me your questions and I'll do my best to answer them.",
+            "What if I require a loan for a short period of time?",
+            "What repayment period were you thinking of?",
+            "Say, 6 months? Or less in fact. I want to repay the loan ASAP; I don't like debt hanging over my head.",
+            "A wise decision. If you decide to take out a short-term loan with us, say for 6 months or less, the interest rate shall be for that of a 6-month loan.",
+            "What if I repay it early. Any perks?",
+            "Well, we could adjust the interest rate based on the original rate and the amount of days you actually borrowed the money for.",
+            "So, the quicker I pay it back, the more I can save in interest? That's excellent. Thanks so much for your information. I'll come in shortly to take the relevant steps for the loan.",
+            "It's our pleasure. We are always happy to have another satisfied customer. Thanks for calling. Goodbye."
+        ],
+        "translated_dialogue": [
+            "IBA, parla Maria. Come posso aiutarti?",
+            "Ciao, ho chiamato prima riguardo ai tassi di interesse sui prestiti. Scusa, ho solo un paio di domande in più.",
+            "Sono qui per aiutarti. Dimmi le tue domande e farò del mio meglio per rispondere.",
+            "E se avessi bisogno di un prestito per un breve periodo di tempo?",
+            "A quale periodo di rimborso stavi pensando?",
+            "Diciamo, 6 mesi? O anche meno in realtà. Voglio rimborsare il prestito il prima possibile; non mi piace avere debiti sulla testa.",
+            "Una decisione saggia. Se decidi di prendere un prestito a breve termine con noi, diciamo per 6 mesi o meno, il tasso di interesse sarà quello di un prestito di 6 mesi.",
+            "E se lo rimborsassi in anticipo. Ci sono vantaggi?",
+            "Bene, potremmo adeguare il tasso di interesse in base al tasso originale e al numero di giorni per cui hai effettivamente preso in prestito il denaro.",
+            "Quindi, più velocemente lo rimborsiamo, più posso risparmiare sugli interessi? È eccellente. Grazie mille per le tue informazioni. Verrò presto per prendere i passi necessari per il prestito.",
+            "È un piacere. Siamo sempre felici di avere un altro cliente soddisfatto. Grazie per aver chiamato. Arrivederci."
+        ]
+    },
+    {
+        "id": 10105,
+        "category": "Finance",
+        "original_dialogue": [
+            "How can I help you this afternoon?",
+            "I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter.",
+            "Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up.",
+            "Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon.",
+            "You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please?",
+            "I did that already, while I was waiting. Also, here's my card.",
+            "Thank you. And you require...",
+            "800 RIB, please.",
+            "Please enter your personal code right here, on the key pad. And sign here, please.",
+            "OK...",
+            "Thank you. Here's your card back and your money. Please double check it for me.",
+            "Yes, that's great. Thanks."
+        ],
+        "translated_dialogue": [
+            "Come posso aiutarla questo pomeriggio?",
+            "Voglio prelevare un po' di soldi, ma c'è una fila enorme al bancomat, quindi ho pensato di farlo allo sportello.",
+            "Purtroppo, un bancomat viene ricaricato perché è rimasto senza soldi. È questo che sta causando il ritardo.",
+            "Oh, capisco. Pensavo fosse solo l'orario, anche se di solito non è affollato alle 14:30 del pomeriggio.",
+            "Ha ragione, ha appena evitato l'ora di punta del pranzo. Potrebbe compilare una distinta di prelievo, per favore?",
+            "L'ho già fatto, mentre aspettavo. Inoltre, ecco la mia carta.",
+            "Grazie. E ha bisogno di...",
+            "800 RIB, per favore.",
+            "Per favore, inserisca il suo codice personale qui, sulla tastiera. E firmi qui, per favore.",
+            "Va bene...",
+            "Grazie. Ecco la sua carta e i suoi soldi. Per favore, controlli di nuovo per me.",
+            "Sì, va bene. Grazie."
+        ]
+    },
+    {
+        "id": 410,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Hi , I'd like to return this radio .",
+            "All right . Do you have the receipt ?",
+            "Here it is .",
+            "May I ask why you're returning the radio ?",
+            "It does not work very well .",
+            "Would you like to exchange it ?",
+            "No . I'd just like a refund .",
+            "Certainly . This will take only a few seconds ."
+        ],
+        "translated_dialogue": [
+            "Ciao, vorrei restituire questa radio.",
+            "Va bene. Hai lo scontrino?",
+            "Eccolo.",
+            "Posso chiederti perché stai restituendo la radio?",
+            "Non funziona molto bene.",
+            "Vuoi cambiarla?",
+            "No. Vorrei solo un rimborso.",
+            "Certo. Ci vorranno solo pochi secondi."
+        ]
+    },
+    {
+        "id": 805,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Where are you going to play this weekend ?",
+            "I have not given it much thought . Do you have any good suggestions ?",
+            "I want to spend two days in the mountains with friends . The city is too noisy . Do you know Tangle Temple ?",
+            "I have been there . It is in the middle of the mountains . It is not noisy there and you have to be a vegetarian .",
+            "Do you want to climb the mountain with us ?",
+            "Does it have enough lodging ?",
+            "No problem . The temple is quite large .",
+            "There are many ancient pine trees there . It is especially quiet at night . It is wonderful to listen to the monks chanting while listening to the soothing sound of the winds in the pine trees .",
+            "I'm getting a little excited now . What clothes should I wear ?",
+            "Take some thick clothes with you . It is rather cold there at night . If you wear the T-shirt you're wearing now , you will become a ' popsicle ' .",
+            "Anything else I should bring ?",
+            "If you like taking pictures , you may bring a camera with you .",
+            "Needless to say ."
+        ],
+        "translated_dialogue": [
+            "Dove andrai a divertirti questo weekend?",
+            "Non ci ho pensato molto. Hai qualche buon suggerimento?",
+            "Voglio passare due giorni in montagna con gli amici. La città è troppo rumorosa. Conosci il Tempio Tangle?",
+            "Ci sono stato. È in mezzo alle montagne. Non è rumoroso e devi essere vegetariano.",
+            "Vuoi scalare la montagna con noi?",
+            "C'è abbastanza posto per dormire?",
+            "Nessun problema. Il tempio è piuttosto grande.",
+            "Ci sono molti pini antichi lì. È particolarmente tranquillo di notte. È meraviglioso ascoltare i monaci cantare mentre senti il suono rilassante del vento tra i pini.",
+            "Mi sto entusiasmando un po'. Che vestiti dovrei portare?",
+            "Porta dei vestiti pesanti. Fa piuttosto freddo di notte. Se indossi la maglietta che hai ora, diventerai un 'ghiacciolo'.",
+            "C'è qualcos'altro che dovrei portare?",
+            "Se ti piace fare foto, puoi portare una macchina fotografica.",
+            "Non c'è bisogno di dirlo."
+        ]
+    },
+    {
+        "id": 1757,
+        "category": "Ordinary Life",
+        "original_dialogue": [
+            "Come in and have some coffee , Anna . The kids have just gone out to the mall to hang out with their friends .",
+            "I saw a lot of teenagers when Alan and I were there yesterday .",
+            "They spend hours there , especially on weekends .",
+            "Speaking of that trip , Alan bought a shirt at a department store , but the sleeves are too long . Do you know a seamstress or tailor who can shorten them ?",
+            "I know several . But wouldn't it be easier to take the shirt back and exchange it for the right size ?",
+            "Isn't that complicated ?",
+            "No , it's easy . We'll just take the shirt back to the men ’ s department and show them the sales slip . They'll exchange it for the correct size or give you a refund .",
+            "We ? Do you want to go with me ?",
+            "Sure . I love going to the mall .",
+            "What do you do there ... hang around , like the kids ?"
+        ],
+        "translated_dialogue": [
+            "Entra e prendi un caffè, Anna. I ragazzi sono appena usciti per andare al centro commerciale con i loro amici.",
+            "Ho visto molti adolescenti quando io e Alan eravamo lì ieri.",
+            "Passano ore lì, soprattutto nei fine settimana.",
+            "A proposito di quella visita, Alan ha comprato una camicia in un grande magazzino, ma le maniche sono troppo lunghe. Conosci una sarta o un sarto che possa accorciarle?",
+            "Ne conosco diversi. Ma non sarebbe più facile riportare la camicia e cambiarla con la taglia giusta?",
+            "Non è complicato?",
+            "No, è semplice. Riportiamo la camicia al reparto uomo e mostriamo lo scontrino. La cambieranno con la taglia giusta o ti daranno un rimborso.",
+            "Noi? Vuoi venire con me?",
+            "Certo. Adoro andare al centro commerciale.",
+            "Cosa fai lì... giri senza meta, come i ragazzi?"
+        ]
+    },
+    {
+        "id": 3214,
+        "category": "School Life",
+        "original_dialogue": [
+            "Do you mind if I borrow the notes from last week ?",
+            "Were you here last week ?",
+            "I was unable to make it .",
+            "How come ?",
+            "I was sick that day , and couldn't make it .",
+            "Well , here are the notes .",
+            "Are there any more ?",
+            "Sorry , here you go .",
+            "Thanks a lot .",
+            "No problem ."
+        ],
+        "translated_dialogue": [
+            "Ti dispiace se prendo in prestito gli appunti della settimana scorsa?",
+            "Eri qui la settimana scorsa?",
+            "Non sono riuscito a venire.",
+            "Come mai?",
+            "Ero malato quel giorno e non potevo venire.",
+            "Bene, ecco gli appunti.",
+            "Ce ne sono altri?",
+            "Scusa, eccoti.",
+            "Grazie mille.",
+            "Di niente."
+        ]
+    },
+    {
+        "id": 2900,
+        "category": "School Life",
+        "original_dialogue": [
+            "Hello , Kate ! How are you doing ?",
+            "Fine , thanks . How are you ?",
+            "Fine . How are your term papers ?",
+            "Oh my lord . I haven't really started them .",
+            "How could it be ? They are due two weeks later .",
+            "I know but I was busy with my part-time job the last few days .",
+            "Kate , you know , I am thinking of getting a part-time job next year because I really need more money and I don't want to ask my parents for any more . But I'm so busy ! How am I going to work and study ? How do you do it ? Do you have some good tips on budgeting time ?",
+            "To be honest with you , Jason , I don't think I'm doing a very good job of balancing my schoolwork with my job . I'm always two steps behind . I've got to get back to the dorm and continue writing that paper . Say ! Why don ’ t you talk to your advisor ? And let me know !",
+            "My advisor ?"
+        ],
+        "translated_dialogue": [
+            "Ciao, Kate! Come stai?",
+            "Bene, grazie. E tu?",
+            "Bene. Come vanno i tuoi compiti?",
+            "Oh cielo. Non li ho ancora iniziati davvero.",
+            "Com'è possibile? Sono da consegnare tra due settimane.",
+            "Lo so, ma sono stata occupata con il mio lavoro part-time negli ultimi giorni.",
+            "Kate, sai, sto pensando di trovare un lavoro part-time l'anno prossimo perché ho davvero bisogno di più soldi e non voglio chiedere altri soldi ai miei genitori. Ma sono così occupato! Come faccio a lavorare e studiare? Come fai tu? Hai qualche buon consiglio su come gestire il tempo?",
+            "A dire il vero, Jason, non credo di riuscire a bilanciare bene il lavoro scolastico con il lavoro. Sono sempre due passi indietro. Devo tornare al dormitorio e continuare a scrivere quel compito. Senti! Perché non parli con il tuo consulente? E fammi sapere!",
+            "Il mio consulente?"
+        ]
+    },
+    {
+        "id": 3149,
+        "category": "School Life",
+        "original_dialogue": [
+            "what do you hope to do when you finish university ?",
+            "I ’ d like to go into management . I ’ Ve applied for several jobs already and I ’ m hopeful that I ’ ll get some job offers . How about you ?",
+            "after I graduate , I have to do some more studies to pass exams to become a lawyer . I think I ’ Ve got a good chance of passing . There ’ s a possibility of getting a job with a law firm in London , provide",
+            "we both have to overcome several obstacles if we are to achieve our ambitions .",
+            "if life were easy , then we ’ d achieve our ambition quickly and then get bored .",
+            "unfortunately , it ’ s inevitable that some people are going to work hard yet not succeed .",
+            "that ’ s why ambition need to be realistic . You can ’ t achieve something that ’ s totally unrealistic .",
+            "as long as you plan carefully , most thing are possible . It ’ s always good to have a backup plan in case things go wrong .",
+            "I think it ’ s important to be successful in a field you are truly interested in , not something that other people force you to be interested it .",
+            "my father wanted me to become a doctor , but I knew it would be impossible for me to be successful in that field .",
+            "I hope my parents don ’ t try to interfere in my choice of career ."
+        ],
+        "translated_dialogue": [
+            "Cosa speri di fare quando finisci l'università?",
+            "Mi piacerebbe entrare nel management. Ho già fatto domanda per diversi lavori e spero di ricevere delle offerte. E tu?",
+            "Dopo la laurea, devo fare altri studi per superare gli esami e diventare avvocato. Penso di avere buone possibilità di passare. C'è la possibilità di ottenere un lavoro in uno studio legale a Londra, a patto che...",
+            "Entrambi dobbiamo superare diversi ostacoli se vogliamo realizzare le nostre ambizioni.",
+            "Se la vita fosse facile, realizzeremmo le nostre ambizioni rapidamente e poi ci annoieremmo.",
+            "Purtroppo, è inevitabile che alcune persone lavorino sodo ma non abbiano successo.",
+            "Ecco perché le ambizioni devono essere realistiche. Non puoi raggiungere qualcosa di totalmente irrealistico.",
+            "Finché pianifichi con cura, la maggior parte delle cose è possibile. È sempre bene avere un piano di riserva nel caso in cui le cose vadano male.",
+            "Penso che sia importante avere successo in un campo che ti interessa veramente, non in qualcosa che gli altri ti costringono a interessarti.",
+            "Mio padre voleva che diventassi medico, ma sapevo che sarebbe stato impossibile per me avere successo in quel campo.",
+            "Spero che i miei genitori non cerchino di interferire nella mia scelta di carriera."
+        ]
+    },
+    {
+        "id": 3474,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "You ready ?",
+            "Am I ready for what ?",
+            "Are you ready to transfer to a new school tomorrow ?",
+            "Oh . Yes , I ’ m ready to transfer .",
+            "You ’ re not nervous , are you ?",
+            "I ’ m very nervous .",
+            "Why are you nervous ?",
+            "I ’ m not going to know anybody there .",
+            "That ’ s not a problem .",
+            "That makes me nervous .",
+            "It ’ s fun meeting new people .",
+            "I didn ’ t think about it that way ."
+        ],
+        "translated_dialogue": [
+            "Sei pronto?",
+            "Pronto per cosa?",
+            "Sei pronto a trasferirti in una nuova scuola domani?",
+            "Oh. Sì, sono pronto a trasferirmi.",
+            "Non sei nervoso, vero?",
+            "Sono molto nervoso.",
+            "Perché sei nervoso?",
+            "Non conoscerò nessuno lì.",
+            "Non è un problema.",
+            "Questo mi rende nervoso.",
+            "È divertente incontrare nuove persone.",
+            "Non ci avevo pensato in questo modo."
+        ]
+    },
+    {
+        "id": 3472,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "Are you new here ?",
+            "This is my first day here .",
+            "Are you a freshman in college ?",
+            "I started school somewhere else .",
+            "What school did you transfer from ?",
+            "I started at PCC .",
+            "What made you transfer ?",
+            "My grades weren ’ t good enough to go here .",
+            "Did you like PCC ?",
+            "I loved PCC .",
+            "Good luck here .",
+            "I ’ m excited to be here ."
+        ],
+        "translated_dialogue": [
+            "Sei nuovo qui?",
+            "È il mio primo giorno qui.",
+            "Sei una matricola all'università?",
+            "Ho iniziato la scuola da un'altra parte.",
+            "Da quale scuola ti sei trasferito?",
+            "Ho iniziato al PCC.",
+            "Cosa ti ha fatto trasferire?",
+            "I miei voti non erano abbastanza buoni per venire qui.",
+            "Ti è piaciuto il PCC?",
+            "Ho adorato il PCC.",
+            "Buona fortuna qui.",
+            "Sono entusiasta di essere qui."
+        ]
+    },
+    {
+        "id": 3469,
+        "category": "Culture & Education",
+        "original_dialogue": [
+            "You ’ re ready , right ?",
+            "Ready for what ?",
+            "Are you ready to transfer tomorrow ?",
+            "Yes . I am ready .",
+            "You ’ re not nervous ?",
+            "Of course I ’ m nervous .",
+            "What are you most nervous about ?",
+            "I won ’ t know anybody at that school .",
+            "You shouldn ’ t be nervous about that .",
+            "Why not ?",
+            "Meeting new people is a good thing .",
+            "That ’ s a good way to think about it ."
+        ],
+        "translated_dialogue": [
+            "Sei pronto, vero?",
+            "Pronto per cosa?",
+            "Sei pronto per trasferirti domani?",
+            "Sì, sono pronto.",
+            "Non sei nervoso?",
+            "Certo che sono nervoso.",
+            "Di cosa sei più nervoso?",
+            "Non conoscerò nessuno in quella scuola.",
+            "Non dovresti essere nervoso per questo.",
+            "Perché no?",
+            "Conoscere nuove persone è una cosa positiva.",
+            "È un buon modo di pensarci."
+        ]
+    },
+    {
+        "id": 3450,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Your knowledge of English is really surprising .",
+            "Oh , it's nothing to speak of .",
+            "No , seriously . I am impressed .",
+            "Thank you . I appreciate the compliment .",
+            "Your knowledge of English is really surprising .",
+            "Oh , it's nothing to speak of .",
+            "No , seriously . I am impressed .",
+            "Thank you . I appreciate the compliment ."
+        ],
+        "translated_dialogue": [
+            "La tua conoscenza dell'inglese è davvero sorprendente.",
+            "Oh, non è niente di che.",
+            "No, sul serio. Sono impressionato.",
+            "Grazie. Apprezzo il complimento.",
+            "La tua conoscenza dell'inglese è davvero sorprendente.",
+            "Oh, non è niente di che.",
+            "No, sul serio. Sono impressionato.",
+            "Grazie. Apprezzo il complimento."
+        ]
+    },
+    {
+        "id": 3523,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "What a great weekend that was !",
+            "My feelings exactly .",
+            "I really enjoy the beach in the summer .",
+            "I couldn't agree with you more .",
+            "We should come here more often .",
+            "You are absolutely right .",
+            "I'd like to come back next weekend .",
+            "That's exactly the way I feel ."
+        ],
+        "translated_dialogue": [
+            "Che bel fine settimana è stato!",
+            "Esattamente come mi sento anch'io.",
+            "Mi piace davvero la spiaggia d'estate.",
+            "Non potrei essere più d'accordo.",
+            "Dovremmo venire qui più spesso.",
+            "Hai assolutamente ragione.",
+            "Mi piacerebbe tornare il prossimo fine settimana.",
+            "È esattamente come mi sento anch'io."
+        ]
+    },
+    {
+        "id": 3519,
+        "category": "Attitude & Emotion",
+        "original_dialogue": [
+            "Did you go to the movie yesterday ?",
+            "Yes , I did .",
+            "What did you think of it ?",
+            "I don't think much of the film .",
+            "I think it is the worst one I have ever seen .",
+            "Oh , I'm not sure I agree with you . It was not a good one , but it was not the worst one . Actually , it wasn't too bad .",
+            "I can't think the same .",
+            "What's more , some scenes were good , much fit for the children .",
+            "I couldn't agree with you ."
+        ],
+        "translated_dialogue": [
+            "Sei andato al cinema ieri?",
+            "Sì, ci sono andato.",
+            "Cosa ne pensi?",
+            "Non penso molto del film.",
+            "Penso che sia il peggiore che abbia mai visto.",
+            "Oh, non sono sicuro di essere d'accordo con te. Non era un granché, ma non era il peggiore. In realtà, non era poi così male.",
+            "Non riesco a pensarla allo stesso modo.",
+            "Inoltre, alcune scene erano buone, adatte ai bambini.",
+            "Non potrei essere d'accordo con te."
+        ]
+    },
+    {
+        "id": 5576,
+        "category": "Relationship",
+        "original_dialogue": [
+            "Would you like to come out with me tonight ?",
+            "Sorry , I can ’ t .",
+            "Tomorrow night , then ?",
+            "I ’ d like to . But I ’ m afraid I can ’ t .",
+            "I was wondering if you like to go to the theatre then .",
+            "That sounds great .",
+            "Ok . How about give me a ring , then ?",
+            "No . I ’ d better not .",
+            "Why not ?",
+            "Because I don ’ t think my husband would like it . Thank you for inviting me anyway ."
+        ],
+        "translated_dialogue": [
+            "Ti va di uscire con me stasera?",
+            "Mi dispiace, non posso.",
+            "Allora domani sera?",
+            "Mi piacerebbe, ma temo di non poterlo fare.",
+            "Ti piacerebbe andare a teatro allora?",
+            "Sembra fantastico.",
+            "Ok. Che ne dici di farmi uno squillo, allora?",
+            "No, è meglio di no.",
+            "Perché no?",
+            "Perché non credo che a mio marito piacerebbe. Grazie comunque per l'invito."
+        ]
+    },
+    {
+        "id": 7184,
+        "category": "Relationship",
+        "original_dialogue": [
+            "not a single email until now ? it's already twelve o'clock . I can't believe it !",
+            "can't bear it , right ? I've been there before . I'll feel comfortable if no one calls me or sends me text messages , like there is something missing .",
+            "yeah , that's right . If no one sends me test messages , I'll go crazy .",
+            "actually , this is a kind of addiction called \" infomania \" or \" information overload \" .",
+            "addiction ? checking emails and text messages often can be called an addiction ? no way !",
+            "yes , it is . Do you consider a frequent check of your income emails to be an integral part of your working day ?",
+            "absolutely .",
+            "do you have your cell phone with you wherever you go and check text messages and phone calls from time to time ?",
+            "yeah , it's a must . Otherwise , I may miss important phone calls and text messages .",
+            "do you open all your IM tools whenever you're using a computer ?",
+            "yes . MSN , QQ , Skype , Google Talk , Ali wangwang , everything , so that I'll be in touch with all friends and relatives .",
+            "now I can tell you're definitely addicted to the overflow of information ."
+        ],
+        "translated_dialogue": [
+            "Non un'email fino ad ora? Sono già le dodici. Non ci posso credere!",
+            "Non lo sopporti, vero? Ci sono passato anch'io. Mi sento a mio agio se nessuno mi chiama o mi manda messaggi, come se mancasse qualcosa.",
+            "Sì, esatto. Se nessuno mi manda messaggi, impazzisco.",
+            "In realtà, è una sorta di dipendenza chiamata \"infomania\" o \"sovraccarico di informazioni\".",
+            "Dipendenza? Controllare spesso email e messaggi può essere chiamato dipendenza? Non ci credo!",
+            "Sì, lo è. Consideri il controllo frequente delle email in arrivo una parte integrante della tua giornata lavorativa?",
+            "Assolutamente.",
+            "Hai il cellulare con te ovunque vai e controlli messaggi e chiamate di tanto in tanto?",
+            "Sì, è indispensabile. Altrimenti potrei perdere chiamate e messaggi importanti.",
+            "Apri tutti i tuoi strumenti di messaggistica istantanea quando usi il computer?",
+            "Sì. MSN, QQ, Skype, Google Talk, Ali Wangwang, tutto, così sono in contatto con amici e parenti.",
+            "Ora posso dire che sei decisamente dipendente dal sovraccarico di informazioni."
+        ]
+    },
+    {
+        "id": 7140,
+        "category": "Relationship",
+        "original_dialogue": [
+            "hi , betty !",
+            "hi , Andy , how are you finding your new job ?",
+            "pretty good . My colleagues seem alright . So far everything is great .",
+            "that's nice . What do they have you doing over there ?",
+            "well , I work in the marketing department . The corporate culture is totally different from my last employer . Before , when I was assigned a task , I was totally on my own but here most of the work is don",
+            "that ' s really good . It's very important to feel like you are part of the team at work .",
+            "indeed . Team work is highly valued in this new company . I like our boss too . He is easy to get along with treats everybody with respect and appreciation . He's highly respected by all his employees .",
+            "that's great , that's good for a positive work environment and helps motivate employees . I wish my boss was like that .",
+            "true , take my former supervisor as an example . He was extremely controlling and overbearing . He always had to micromanage everything .",
+            "well , now you don't have to worry about that . This new place sounds really good .",
+            "yeah it is ."
+        ],
+        "translated_dialogue": [
+            "Ciao, Betty!",
+            "Ciao, Andy, come ti trovi nel nuovo lavoro?",
+            "Abbastanza bene. I miei colleghi sembrano a posto. Finora tutto va alla grande.",
+            "Bene. Cosa ti fanno fare lì?",
+            "Lavoro nel reparto marketing. La cultura aziendale è completamente diversa dal mio precedente datore di lavoro. Prima, quando mi assegnavano un compito, ero completamente da solo, ma qui la maggior parte del lavoro è condiviso.",
+            "È davvero positivo. È molto importante sentirsi parte del team al lavoro.",
+            "Infatti. Il lavoro di squadra è molto apprezzato in questa nuova azienda. Mi piace anche il nostro capo. È facile andare d'accordo con lui, tratta tutti con rispetto e apprezzamento. È molto rispettato da tutti i suoi dipendenti.",
+            "È fantastico, è positivo per l'ambiente di lavoro e aiuta a motivare i dipendenti. Vorrei che il mio capo fosse così.",
+            "Vero, prendi il mio ex supervisore come esempio. Era estremamente controllante e autoritario. Doveva sempre gestire tutto nei minimi dettagli.",
+            "Beh, ora non devi più preoccuparti di questo. Questo nuovo posto sembra davvero buono.",
+            "Sì, lo è."
+        ]
+    },
+    {
+        "id": 7715,
+        "category": "Tourism",
+        "original_dialogue": [
+            "OK , Mr . Wang . Thank you very much for coming to the airport to see us off . Your great country and your hospitality have left a very deep impression on all of us and your working attitude and your way of doing business have changed my opinions about Chinese people .",
+            "Really ? I'm glad to hear that .",
+            "That's true . And this trip has been a very productive one for us .",
+            "Thank you again for your visit . We are looking forward to your reply .",
+            "Believe me , Mr . Wang . I'll do my best to promote the transaction .",
+            "We are happy that we have established business relations . I really hope that we'll have more business to do and more opportunities to meet each other .",
+            "It ’ s very kind of you to say so .",
+            "You are very nice and helpful . Hope to see you again .",
+            "I think we will have opportunities to meet each other in the future .",
+            "OK , I think it's time for you to check in . If you run into any difficulty , we'll be here to assist you immediately .",
+            "Fine . Thank you very much . Bye-bye .",
+            "Goodbye ."
+        ],
+        "translated_dialogue": [
+            "Va bene, signor Wang. Grazie mille per essere venuto all'aeroporto a salutarci. Il vostro grande paese e la vostra ospitalità ci hanno lasciato un'impressione molto profonda, e il vostro atteggiamento lavorativo e il vostro modo di fare affari hanno cambiato la mia opinione sui cinesi.",
+            "Davvero? Sono contento di sentirlo.",
+            "È vero. E questo viaggio è stato molto produttivo per noi.",
+            "Grazie ancora per la vostra visita. Attendiamo con interesse la vostra risposta.",
+            "Credetemi, signor Wang. Farò del mio meglio per promuovere la transazione.",
+            "Siamo felici di aver stabilito relazioni commerciali. Spero davvero che avremo più affari da fare e più opportunità di incontrarci.",
+            "È molto gentile da parte vostra dirlo.",
+            "Siete molto gentili e disponibili. Spero di rivedervi.",
+            "Penso che avremo opportunità di incontrarci in futuro.",
+            "Va bene, penso sia ora di fare il check-in. Se incontrate difficoltà, saremo qui per aiutarvi immediatamente.",
+            "Va bene. Grazie mille. Arrivederci.",
+            "Arrivederci."
+        ]
+    },
+    {
+        "id": 8459,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Hi . I need a wake-up call tomorrow .",
+            "What time would you like your wake-up call ?",
+            "I need two calls , one at 7 and another at 7 fifteen .",
+            "That is no problem at all , of course . You'll get a call at 7 o'colock and another at 7 fifteen .",
+            "Then again , I think 7 fifteen is too early . Change 7 fifteen to 7 thirty , please .",
+            "So , that'll be a call at 7 and another at 7 thirty.Do you have any other requests ?",
+            "Not just now , but if I do think of something later , I'll give you a ring .",
+            "Okay , sir . Sleep well ."
+        ],
+        "translated_dialogue": [
+            "Ciao. Ho bisogno di una sveglia per domani.",
+            "A che ora desidera la sveglia?",
+            "Mi servono due chiamate, una alle 7 e un'altra alle 7 e un quarto.",
+            "Nessun problema, certo. Riceverà una chiamata alle 7 e un'altra alle 7 e un quarto.",
+            "Ripensandoci, le 7 e un quarto è troppo presto. Cambi a 7 e mezza, per favore.",
+            "Quindi, una chiamata alle 7 e un'altra alle 7 e mezza. Ha altre richieste?",
+            "Non al momento, ma se mi viene in mente qualcosa, la chiamerò.",
+            "Va bene, signore. Buon riposo."
+        ]
+    },
+    {
+        "id": 7673,
+        "category": "Tourism",
+        "original_dialogue": [
+            "Is there a daily passenger ship to Dalian ?",
+            "Yes .",
+            "How many days does it take to Dalian ?",
+            "About one day . It arrives in Dalian at 10:00 a . m . tomorrow .",
+            "How many ports do we call at on our passage to Qingdao ?",
+            "Four ports .",
+            "The ship is going very fast .",
+            "Perhaps she makes about 25 knots an hour .",
+            "The sea is calm and peaceful . A sea trip is always enjoyable in fine weather like this .",
+            "Yes . I hope it will remain fine all the way ."
+        ],
+        "translated_dialogue": [
+            "C'è una nave passeggeri giornaliera per Dalian?",
+            "Sì.",
+            "Quanti giorni ci vogliono per arrivare a Dalian?",
+            "Circa un giorno. Arriva a Dalian domani alle 10:00.",
+            "Quanti porti tocchiamo durante il viaggio verso Qingdao?",
+            "Quattro porti.",
+            "La nave va molto veloce.",
+            "Forse fa circa 25 nodi all'ora.",
+            "Il mare è calmo e tranquillo. Un viaggio in mare è sempre piacevole con un tempo così bello.",
+            "Sì. Spero che rimanga bello per tutto il viaggio."
+        ]
+    },
+    {
+        "id": 8505,
+        "category": "Health",
+        "original_dialogue": [
+            "Why are you handing me a plastic cup ?",
+            "Your doctor wants to test your urine and needs a sample .",
+            "How am I supposed to do that ?",
+            "We need you to urinate like you normally would , and then stop and finish into the cup .",
+            "What am I supposed to do with the cup when I am done ?",
+            "Leave the cup in the cubby in the restroom . Just close the cubby door and walk away .",
+            "What kind of test is this ?",
+            "He wants to know if you have bacteria in your urine , which could signal an infection .",
+            "How long will it take to get the results ?",
+            "We will send your doctor the results , and he will contact you ."
+        ],
+        "translated_dialogue": [
+            "Perché mi stai dando un bicchiere di plastica?",
+            "Il tuo medico vuole analizzare la tua urina e ha bisogno di un campione.",
+            "Come dovrei fare?",
+            "Devi urinare come fai di solito, poi fermarti e finire nel bicchiere.",
+            "Cosa devo fare con il bicchiere quando ho finito?",
+            "Lascia il bicchiere nel vano in bagno. Chiudi la porta del vano e vai via.",
+            "Che tipo di test è questo?",
+            "Vuole sapere se ci sono batteri nella tua urina, che potrebbero indicare un'infezione.",
+            "Quanto tempo ci vorrà per avere i risultati?",
+            "Manderemo i risultati al tuo medico, e lui ti contatterà."
+        ]
+    },
+    {
+        "id": 8503,
+        "category": "Health",
+        "original_dialogue": [
+            "What is that plastic cup for ?",
+            "Your doctor has requested a urine sample .",
+            "Am I supposed to pee into the cup ?",
+            "We want what we call a clean sample . Urinate a drop or so into the toilet , and then stop the flow and urinate into the cup .",
+            "Then what do I do with the cup ?",
+            "You put the cup in the little cubby in the restroom and close the door to the cubby .",
+            "What is this test for ?",
+            "He is looking to see if you have a bladder or urinary tract infection .",
+            "When will I know the results ?",
+            "Your doctor will call you in a few days with the results ."
+        ],
+        "translated_dialogue": [
+            "A cosa serve quel bicchiere di plastica?",
+            "Il tuo medico ha richiesto un campione di urina.",
+            "Devo fare pipì nel bicchiere?",
+            "Vogliamo un campione pulito. Fai un po' di pipì nel water, poi fermati e fai il resto nel bicchiere.",
+            "E poi cosa faccio con il bicchiere?",
+            "Metti il bicchiere nel piccolo scomparto nel bagno e chiudi la porticina.",
+            "A cosa serve questo test?",
+            "Vuole vedere se hai un'infezione alla vescica o alle vie urinarie.",
+            "Quando saprò i risultati?",
+            "Il tuo medico ti chiamerà tra qualche giorno con i risultati."
+        ]
+    },
+    {
+        "id": 8625,
+        "category": "Health",
+        "original_dialogue": [
+            "Good morning , doctor . I've been suffering very much from a toothache lately .",
+            "Well , let me have a look . Will you sit down in this chair and open your mouth wide ?",
+            "I think one of the back ones at the top is giving me the most trouble .",
+            "Yes . This big one is badly decayed . I'm afraid it must be taken out .",
+            "Oh , I hate having teeth pulled out . Will it hurt ?",
+            "No need to worry . You won't feel anything at all . I'll give you an injection to stop the pain . Just wash your mouth out with this water , will you ?",
+            "Will it take long ?",
+            "No , it'll be over soon . Nurse , get some X-rays of our patient's molars . Then we'll start . Open your mouth wide . Don't be so nervous . Now open wider ... now stay , that's over ...",
+            "Is it out ?",
+            "Not yet , but it soon will be . Now open again please ... It's out ! Look !",
+            "Well , really ! That was wonderful ! I felt no pain at all . Thank you , doctor ."
+        ],
+        "translated_dialogue": [
+            "Buongiorno, dottore. Ultimamente ho sofferto molto per un mal di denti.",
+            "Bene, faccia vedere. Si sieda su questa sedia e apra bene la bocca.",
+            "Penso che uno dei molari in alto mi stia dando più problemi.",
+            "Sì. Questo grande è molto cariato. Temo che debba essere tolto.",
+            "Oh, odio farmi togliere i denti. Farà male?",
+            "Non si preoccupi. Non sentirà nulla. Le farò un'iniezione per fermare il dolore. Sciacqui la bocca con quest'acqua, per favore.",
+            "Ci vorrà molto?",
+            "No, sarà finito presto. Infermiera, faccia delle radiografie dei molari del paziente. Poi iniziamo. Apra bene la bocca. Non sia così nervoso. Ora apra di più... ora resti così, è finito...",
+            "È uscito?",
+            "Non ancora, ma lo sarà presto. Ora apra di nuovo, per favore... È uscito! Guardi!",
+            "Davvero! È stato fantastico! Non ho sentito alcun dolore. Grazie, dottore."
+        ]
+    },
+    {
+        "id": 9753,
+        "category": "Work",
+        "original_dialogue": [
+            "Hello , BCD Company , can I help you ?",
+            "Hello , may I speak to Mrs Smith ?",
+            "This is Mrs Smith , may I have your name ?",
+            "This is Sun , and I interviewed with you yesterday .",
+            "Hello , Mr . Sun .",
+            "I am calling to thank you for giving me the interview for the Sales Manager position yesterday .",
+            "You are welcome , Mr . Sun .",
+            "I really enjoyed meeting with you .",
+            "You certainly made a good impression on me , as well .",
+            "I am very interested in this position .",
+            "We'll be making the decision by the end of this week and we'll contact you as soon as possible .",
+            "Well , thank you for your time and consideration again .",
+            "You are welcome ."
+        ],
+        "translated_dialogue": [
+            "Buongiorno, BCD Company, come posso aiutarla?",
+            "Buongiorno, posso parlare con la signora Smith?",
+            "Sono la signora Smith, posso sapere il suo nome?",
+            "Sono Sun, ho fatto il colloquio con lei ieri.",
+            "Buongiorno, signor Sun.",
+            "La chiamo per ringraziarla del colloquio per la posizione di Sales Manager di ieri.",
+            "Prego, signor Sun.",
+            "Mi ha fatto molto piacere incontrarla.",
+            "Anche lei mi ha fatto una buona impressione.",
+            "Sono molto interessato a questa posizione.",
+            "Prenderemo una decisione entro la fine della settimana e la contatteremo il prima possibile.",
+            "Bene, grazie ancora per il suo tempo e la sua considerazione.",
+            "Prego."
+        ]
+    },
+    {
+        "id": 9674,
+        "category": "Work",
+        "original_dialogue": [
+            "Good morning , Miss Monica . Nice to meet you again !",
+            "Good morning , Mr . Thomas , it is nice to see you too .",
+            "After the internal discussion , we have all agreed that you are the most suitable person for this position among all the candidates . So , today let ’ s talk about your expected salary and social benefits . What is your expected salary ?",
+            "I ’ Ve worked in the field for more than 4 years . Depend on my work qualifications and experience , I would like to have 5000 Yuan to start .",
+            "The basic salary for this position in our company would be 4800 Yuan to start with increases giving according to your performance .",
+            "It is a bit lower than I expected . But I can accept that . What are the working hours ?",
+            "40 hours a week , Monday to Friday , 9 AM to 5 PM with one hour lunch break every day ..",
+            "Do I have to work on weekend ? If so , how do you pay for the overtime ?",
+            "We do expect overtime work when it is necessary , but we pay twice of the work hour for working on weekends and three times for working on national holidays like Spring Festival and the Mid-Autumn Day .",
+            "Is there probation ?",
+            "No probation is involved . If you feel good , you can start next week ."
+        ],
+        "translated_dialogue": [
+            "Buongiorno, signorina Monica. È un piacere rivederla!",
+            "Buongiorno, signor Thomas, è un piacere anche per me.",
+            "Dopo la discussione interna, abbiamo tutti concordato che lei è la persona più adatta per questa posizione tra tutti i candidati. Quindi, oggi parliamo del suo stipendio previsto e dei benefici sociali. Qual è la sua richiesta salariale?",
+            "Ho lavorato nel settore per più di 4 anni. In base alle mie qualifiche ed esperienza, vorrei iniziare con 5000 Yuan.",
+            "Lo stipendio base per questa posizione nella nostra azienda è di 4800 Yuan, con aumenti in base alle sue prestazioni.",
+            "È un po' meno di quanto mi aspettassi. Ma posso accettarlo. Quali sono gli orari di lavoro?",
+            "40 ore a settimana, dal lunedì al venerdì, dalle 9 alle 17 con un'ora di pausa pranzo ogni giorno.",
+            "Devo lavorare nei weekend? Se sì, come viene pagato lo straordinario?",
+            "Ci aspettiamo straordinari quando necessario, ma paghiamo il doppio per le ore lavorate nei weekend e il triplo per le festività nazionali come il Festival di Primavera e il Giorno di Mezz'Autunno.",
+            "C'è un periodo di prova?",
+            "Non c'è periodo di prova. Se è d'accordo, può iniziare la prossima settimana."
+        ]
+    },
+    {
+        "id": 9472,
+        "category": "Work",
+        "original_dialogue": [
+            "Good morning .",
+            "Er , good morning , yes , er ...",
+            "I'm phoning about the job that was in the paper last night .",
+            "Oh , yes.Erm , well , could you tell me your name , please ?",
+            "Oh , Candida Fawcett .",
+            "Oh , yes.Erm , well , what exactly is it that interests you about the job ?",
+            "Well , I just thought that it was right up my street you know .",
+            "Really , hmmmm.Erm , well , could you perhaps tell me a little about yourself ?",
+            "Yes , arm , I'm 23 . I've been working abroad , I'm um ...",
+            "Where exactly have you been working , please ?"
+        ],
+        "translated_dialogue": [
+            "Buongiorno.",
+            "Eh, buongiorno, sì, eh...",
+            "Chiamo per il lavoro che era sul giornale ieri sera.",
+            "Ah, sì. Eh, mi può dire il suo nome, per favore?",
+            "Oh, Candida Fawcett.",
+            "Ah, sì. Eh, cosa esattamente la interessa di questo lavoro?",
+            "Beh, pensavo che fosse proprio adatto a me, sa.",
+            "Davvero, hmmmm. Eh, potrebbe dirmi qualcosa su di lei?",
+            "Sì, ehm, ho 23 anni. Ho lavorato all'estero, sono ehm...",
+            "Dove esattamente ha lavorato, per favore?"
+        ]
+    },
+    {
+        "id": 10125,
+        "category": "Politics",
+        "original_dialogue": [
+            "You voted , right ?",
+            "You know I did .",
+            "Who did you vote for ?",
+            "I voted for Obama , of course !",
+            "Can you believe that he actually won ?",
+            "I knew he would win .",
+            "I didn ’ t think he would .",
+            "He was the top candidate .",
+            "I figured people wouldn ’ t vote for him because he ’ s African American .",
+            "That just goes to show that America is finally turning over a new leaf .",
+            "You ’ re absolutely right .",
+            "I ’ m excited that Barack Obama is our President ."
+        ],
+        "translated_dialogue": [
+            "Hai votato, vero?",
+            "Sai che l'ho fatto.",
+            "Per chi hai votato?",
+            "Ho votato per Obama, ovviamente!",
+            "Puoi credere che abbia davvero vinto?",
+            "Sapevo che avrebbe vinto.",
+            "Non pensavo che avrebbe vinto.",
+            "Era il candidato migliore.",
+            "Pensavo che la gente non avrebbe votato per lui perché è afroamericano.",
+            "Questo dimostra che l'America sta finalmente cambiando.",
+            "Hai assolutamente ragione.",
+            "Sono entusiasta che Barack Obama sia il nostro Presidente."
+        ]
+    },
+    {
+        "id": 10168,
+        "category": "Politics",
+        "original_dialogue": [
+            "Did you see who the suspect was ?",
+            "I got a perfect look at the suspect .",
+            "Would you be able to pick him out of a line-up ?",
+            "That'll be easy .",
+            "Please take a careful look at these five men .",
+            "Okay .",
+            "Is the suspect in this line ?",
+            "I see him .",
+            "Which number is he ?",
+            "The suspect is number four .",
+            "Your cooperation is very much appreciated .",
+            "I'm happy to be of assistance ."
+        ],
+        "translated_dialogue": [
+            "Hai visto chi era il sospettato?",
+            "Ho visto perfettamente il sospettato.",
+            "Saresti in grado di riconoscerlo in un confronto allineato?",
+            "Sarà facile.",
+            "Per favore, osserva attentamente questi cinque uomini.",
+            "Va bene.",
+            "Il sospettato è in questa fila?",
+            "Lo vedo.",
+            "Qual è il suo numero?",
+            "Il sospettato è il numero quattro.",
+            "La tua collaborazione è molto apprezzata.",
+            "Sono felice di essere d'aiuto."
+        ]
+    },
+    {
+        "id": 10179,
+        "category": "Politics",
+        "original_dialogue": [
+            "911 . What can I do for you ?",
+            "I am reporting a break-in .",
+            "When did it happen ?",
+            "It happened last night .",
+            "Where did it happen ?",
+            "It happened at my house .",
+            "What was taken ?",
+            "I don't know .",
+            "How do you know there was a break-in ?",
+            "Someone busted my window .",
+            "I will send a squad car to your house right now .",
+            "Please do ."
+        ],
+        "translated_dialogue": [
+            "Cosa posso fare per te?",
+            "Sto segnalando un'effrazione.",
+            "Quando è successo?",
+            "È successo la scorsa notte.",
+            "Dove è successo?",
+            "È successo a casa mia.",
+            "Cosa è stato rubato?",
+            "Non lo so.",
+            "Come fai a sapere che c'è stata un'effrazione?",
+            "Qualcuno ha rotto la mia finestra.",
+            "Mando subito una pattuglia a casa tua.",
+            "Per favore, fallo."
+        ]
+    },
+    {
+        "id": 10134,
+        "category": "Finance",
+        "original_dialogue": [
+            "As an existing banker , that will speed up the process . You said you had the documents with you ?",
+            "That's right . Here you go .",
+            "Before I verify those , I need you to fill in some forms . Then , as I said , I need to see valid credentials , your occupation and income details ...",
+            "OK , as I expected . How much will you allow me to borrow ? I mean , I don't need a massive sum of money .",
+            "You are authorized to borrow up to 20,000 RIB , with a repayment period of up to 1 year .",
+            "That'll be enough , and the repayment period sounds good to me .",
+            "We can also look at your current credit status and adjust the interest accordingly .",
+            "How soon before this goes through ?",
+            "If you sort out all of the paperwork today , you could have your loan by the end of the week .",
+            "Perfect . So , I guess my next job is to go to the newsagent and buy some car magazines . Thanks for everything ."
+        ],
+        "translated_dialogue": [
+            "Essendo già un cliente della banca, questo accelererà il processo. Hai detto di avere i documenti con te?",
+            "Esatto. Eccoli qui.",
+            "Prima di verificarli, ho bisogno che compili alcuni moduli. Poi, come ho detto, devo vedere credenziali valide, la tua occupazione e i dettagli del reddito...",
+            "Va bene, come mi aspettavo. Quanto mi permetterete di prendere in prestito? Voglio dire, non ho bisogno di una somma enorme.",
+            "Sei autorizzato a prendere in prestito fino a 20.000 RIB, con un periodo di rimborso fino a 1 anno.",
+            "Sarà sufficiente, e il periodo di rimborso mi sembra buono.",
+            "Possiamo anche esaminare il tuo attuale stato di credito e regolare gli interessi di conseguenza.",
+            "Quanto tempo ci vorrà prima che sia tutto pronto?",
+            "Se sistemi tutta la documentazione oggi, potresti avere il prestito entro la fine della settimana.",
+            "Perfetto. Quindi, immagino che il mio prossimo compito sia andare in edicola e comprare qualche rivista di auto. Grazie di tutto."
+        ]
+    },
+    {
+        "id": 10534,
+        "category": "Finance",
+        "original_dialogue": [
+            "I hate to be the bearer of bad news , but it's that time of year again . Have you got your performance evaluations finished yet ?",
+            "Oh no ! Evaluations ! You can tell that's not my favorite job ; I haven't even started yet . When is the deadline for turning in thecompleted forms ?",
+            "Well , you do still have three weeks . But remember the employee must sign them , too . Filling them in is nothing - it's meetingwith the employees that takes so much time .",
+            "I never know how to rate the employees ' work . Of course attendance and productivity are easy , I just look at the sales figures .",
+            "So it's the subjective criteria like team building and colleague support that you find hard ?",
+            "Exactly ! Attitude ... how do you rate attitude ?",
+            "I suggest letting each employee fill out his or her own evaluation for those items . Then , based on their self - assessment , you can add your comments . It's a great starting point for discussion",
+            "Great idea . And after all , that's the whole point of an evaluation . I almost can't wait to give it a try ."
+        ],
+        "translated_dialogue": [
+            "Odio essere portatore di cattive notizie, ma è di nuovo quel periodo dell'anno. Hai già finito le valutazioni delle prestazioni?",
+            "Oh no! Le valutazioni! Si vede che non è il mio lavoro preferito; non ho nemmeno iniziato. Qual è la scadenza per consegnare i moduli completati?",
+            "Beh, hai ancora tre settimane. Ma ricorda che anche il dipendente deve firmarli. Compilarli è niente - è l'incontro con i dipendenti che richiede tanto tempo.",
+            "Non so mai come valutare il lavoro dei dipendenti. Certo, la presenza e la produttività sono facili, basta guardare i dati di vendita.",
+            "Quindi sono i criteri soggettivi come il lavoro di squadra e il supporto ai colleghi che trovi difficili?",
+            "Esattamente! L'atteggiamento... come si valuta l'atteggiamento?",
+            "Suggerisco di lasciare che ogni dipendente compili la propria valutazione per quegli aspetti. Poi, basandoti sulla loro autovalutazione, puoi aggiungere i tuoi commenti. È un ottimo punto di partenza per la discussione.",
+            "Ottima idea. E dopotutto, è proprio questo il senso di una valutazione. Non vedo quasi l'ora di provarlo."
+        ]
+    },
+    {
+        "id": 10224,
+        "category": "Finance",
+        "original_dialogue": [
+            "Good morning , Madam . What can I do for you ?",
+            "I'd like to withdraw 35,000 RIB from my Corporate Account .",
+            "Do you have an appointment ?",
+            "Yes , my name is Ms Jane Reeve , R-E-E-V-E .",
+            "Ah , yes , Ms Reeve . I have all of your information here . Do you have the cash cheque ?",
+            "Here you go .",
+            "I'm sorry Ms Reeve , it says 45,000 RIB here .",
+            "Oh , how silly of me . Can we correct it here ?",
+            "I'm sorry , we cannot make corrections on these . You'll have to bring another one with the correct amount , I'm afraid ."
+        ],
+        "translated_dialogue": [
+            "Buongiorno, signora. Come posso aiutarla?",
+            "Vorrei prelevare 35.000 RIB dal mio conto aziendale.",
+            "Ha un appuntamento?",
+            "Sì, mi chiamo Jane Reeve, R-E-E-V-E.",
+            "Ah, sì, signora Reeve. Ho tutte le sue informazioni qui. Ha l'assegno per il contante?",
+            "Ecco qui.",
+            "Mi dispiace, signora Reeve, qui c'è scritto 45.000 RIB.",
+            "Oh, che sbadata. Possiamo correggerlo qui?",
+            "Mi dispiace, non possiamo fare correzioni su questi. Dovrà portarne un altro con l'importo corretto, temo."
+        ]
+    }
+]
