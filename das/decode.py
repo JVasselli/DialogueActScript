@@ -2,7 +2,7 @@ import json
 import logging
 import os
 
-from generation_tools.generator import Generator
+from generator import Generator
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -14,7 +14,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
 
     parser.add_argument(
-        "--prompt-template", "-pt", type=str, help="Path to prompt template"
+        "--prompt-template", "-pt", type=str, help="Path to prompt template", default="prompts/das_decode.txt"
     )
     parser.add_argument(
         "--input", "-i", type=str, help="Path to input data file", required=True
@@ -26,8 +26,9 @@ def parse_args():
     parser.add_argument("--seed", "-s", type=int, default=42)
     parser.add_argument("--temperature", "-t", type=float, default=0.2)
     parser.add_argument("--language", "-l", type=str, default="English")
-    parser.add_argument("--key", "-k", type=str, default="das_script_like")
-    parser.add_argument("--context_key", "-c", type=str, default="context")
+    parser.add_argument("--key", "-k", type=str, default="localized_das")
+    parser.add_argument("--context_key", "-c", type=str, default="localized_context")
+    parser.add_argument("--safe_mode", type=bool, default=False)
 
     args = parser.parse_args()
 
@@ -41,53 +42,28 @@ def decode(
     model,
     conversations,
     max_instances,
-    output_dir,
-    run_name="1",
     prompt_template="prompts/decode.txt",
     temperature=0.2,
     seed=42,
+    safe_mode=False,
 ):
-    generator = Generator.create_generator(
-        model, verbose=True, safe_mode=True, seed=seed
+    generator = Generator(
+        model, verbose=safe_mode, safe_mode=safe_mode, seed=seed
     )
     assert generator, "Unable to make generator"
 
     conversations = conversations[:max_instances]
 
-    output_path = output_dir + f"{run_name}_decode_prompts.json"
-
     prompts, json_schema = generator.build_prompts(
-        conversations, prompt_template, save_as=output_path
-    )
-
-    # Estimate cost
-    _, estimated_stats = generator.estimate_cost_with_sample(
-        prompts, json_schema=json_schema, verbose=False
+        conversations, prompt_template
     )
 
     # Generate responses
     responses, _, stats = generator.prompt(
         prompts, json_schema=json_schema, temperature=temperature
     )
-    # Write responses to file
-    raw_output_path = output_dir + f"{run_name}_{model}_decoded_responses_raw.json"
-    with open(raw_output_path, "w") as f:
-        json.dump(responses, f, ensure_ascii=False, indent=4)
 
-    # Generate responses
     responses = [json.loads(r) for r in responses]
-
-    stats_file = output_dir + f"{run_name}_{model}_stats.json"
-    logger.info("Saving stats to: {}".format(stats_file))
-    with open(stats_file, "w") as f:
-        json.dump(
-            {"estimated_stats": estimated_stats, "true_stats": stats},
-            f,
-            ensure_ascii=False,
-            indent=4,
-        )
-
-    _ = generator.calculate_cost(stats, verbose=True)
 
     return responses
 
@@ -141,8 +117,6 @@ def main():
         args.model,
         conversations,
         args.max_instances,
-        args.output_dir,
-        args.run_name,
         args.prompt_template,
         args.temperature,
         args.seed,
@@ -154,7 +128,7 @@ def main():
 
     # Write responses to file
     output_path = (
-        args.output_dir + f"{args.run_name}_{args.model}_decoded_responses.json"
+        args.output_dir + f"{args.model}_{args.language}_decoded_full.json"
     )
     logger.info("Saving responses to: {}".format(output_path))
     with open(output_path, "w") as f:
