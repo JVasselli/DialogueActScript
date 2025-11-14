@@ -41,11 +41,35 @@ def parse_args():
     parser.add_argument("--save-full-prompts-as", "-sa", type=str, default=None)
     parser.add_argument("--model", "-m", type=str, default="gpt-4o-mini")
     parser.add_argument("--max_instances", "-n", type=int, default=100)
+    parser.add_argument(
+        "--only-index",
+        type=int,
+        default=-1,
+        help="If >= 0, run only this zero-based index from the input JSON",
+    )
     parser.add_argument("--output_dir", "-o", type=str, default="results/")
     parser.add_argument("--run_name", "-r", type=str, default="dialogue_acts")
     parser.add_argument("--seed", "-s", type=int, default=42)
     parser.add_argument("--temperature", "-t", type=float, default=0)
     parser.add_argument("--safe-mode", "-sm", action="store_true", default=False)
+    parser.add_argument(
+        "--dont-use-cached",
+        action="store_true",
+        default=False,
+        help="Bypass the prompt cache and force new generations",
+    )
+    parser.add_argument(
+        "--max_tokens_encoding",
+        type=int,
+        default=10000,
+        help="Max completion tokens for the encoding stage",
+    )
+    parser.add_argument(
+        "--max_tokens_context",
+        type=int,
+        default=1000,
+        help="Max completion tokens for the context stage",
+    )
 
     args = parser.parse_args()
 
@@ -117,6 +141,7 @@ def read_responses(data, responses):
             responses_decoded.append(json.loads(response))
         except:
             logger.error("Failed to load response {}".format(j))
+            logger.error("Response: {}".format(response))
             assert False
 
     for j, line in enumerate(data):
@@ -145,7 +170,12 @@ def main():
 
     output_path = args.output_dir + f"{args.run_name}_{args.model}"
 
-    if args.max_instances > 0:
+    if args.only_index >= 0:
+        assert 0 <= args.only_index < len(data), "only-index out of range"
+        # Keep track of original id/index if needed
+        data = [data[args.only_index]]
+        output_path = output_path + f"_idx{args.only_index}"
+    elif args.max_instances > 0:
         data = data[: args.max_instances]
 
     logger.info("Number of instances: {}".format(len(data)))
@@ -161,7 +191,11 @@ def main():
     )
 
     responses, _, _ = generator.prompt(
-        prompts, json_schema=json_schema, temperature=args.temperature
+        prompts,
+        json_schema=json_schema,
+        temperature=args.temperature,
+        max_tokens=args.max_tokens_encoding,
+        dont_use_cached=args.dont_use_cached,
     )
 
     data = read_responses(data, responses)
@@ -171,7 +205,11 @@ def main():
     )
 
     responses, _, _ = generator.prompt(
-        context_prompts, json_schema=context_json_schema, temperature=args.temperature
+        context_prompts,
+        json_schema=context_json_schema,
+        temperature=args.temperature,
+        max_tokens=args.max_tokens_context,
+        dont_use_cached=args.dont_use_cached,
     )
 
     data = read_responses(data, responses)
